@@ -1,0 +1,4468 @@
+< 14
+<AB>A.</AB> 1
+<AB>A.C.</AB> 1
+<AB>A.Komesar</AB> 1
+<AB>AC</AB> 1
+<AB>ADRs</AB> 1
+<AB>AIDS</AB> 1
+<AB>BRN</AB> 1
+<AB>Bhd.</AB> 1
+<AB>C.E.O.</AB> 1
+<AB>C.U.T.</AB> 1
+<AB>CAT</AB> 1
+<AB>CBC</AB> 1
+<AB>CD</AB> 3
+<AB>CED</AB> 1
+<AB>CEO</AB> 3
+<AB>CLS</AB> 1
+<AB>D.</AB> 1
+<AB>DIVX</AB> 1
+<AB>DNA</AB> 4
+<AB>DSHEA</AB> 1
+<AB>DeCSS</AB> 1
+<AB>Dec.</AB> 1
+<AB>EIA</AB> 3
+<AB>ERO</AB> 2
+<AB>FDA</AB> 1
+<AB>FM</AB> 1
+<AB>FTA</AB> 2
+<AB>FTAA</AB> 2
+<AB>GDP</AB> 3
+<AB>GI</AB> 27
+<AB>GMO</AB> 1
+<AB>GMOs</AB> 20
+<AB>HIA</AB> 1
+<AB>I.S.T.</AB> 2
+<AB>ICCPR</AB> 15
+<AB>ICPD</AB> 1
+<AB>IPP</AB> 1
+<AB>ISA</AB> 16
+<AB>Ibid.</AB> 10
+<AB>J.C.</AB> 2
+<AB>J.L.</AB> 1
+<AB>JI</AB> 1
+<AB>JTEPA</AB> 4
+<AB>KBS</AB> 2
+<AB>KCIA</AB> 1
+<AB>MOU</AB> 1
+<AB>MRA</AB> 2
+<AB>N.</AB> 1
+<AB>N.G.O.</AB> 1
+<AB>NGO</AB> 1
+<AB>NGOs</AB> 1
+<AB>NRB</AB> 1
+<AB>NSM</AB> 1
+<AB>NY</AB> 1
+<AB>OTOP</AB> 2
+<AB>Op.</AB> 1
+<AB>P.</AB> 1
+<AB>P.T.</AB> 1
+<AB>PAE</AB> 1
+<AB>Ph.D.</AB> 2
+<AB>Pp.</AB> 3
+<AB>R. v.</AB> 8
+<AB>ReCAAP</AB> 1
+<AB>S.</AB> 1
+<AB>S.C.R.</AB> 2
+<AB>S.Vance</AB> 1
+<AB>SBS</AB> 1
+<AB>SME</AB> 5
+<AB>SMEs</AB> 1
+<AB>TBC</AB> 1
+<AB>TRIPS</AB> 1
+<AB>TRIPs</AB> 1
+<AB>U.S.</AB> 2
+<AB>U.S.C.</AB> 1
+<AB>UGA</AB> 1
+<AB>VOCs</AB> 1
+<AB>W.</AB> 1
+<AB>WASP</AB> 1
+<AB>WWF</AB> 1
+<AB>XCP</AB> 1
+<AB>XII</AB> 1
+<AB>cit.</AB> 2
+<AB>e.</AB> 1
+<AB>ed.</AB> 13
+<AB>ed</AB> 2
+<AB>eds.</AB> 6
+<AB>p.92</AB> 1
+<AB>p.</AB> 52
+<AB>pp.</AB> 28
+<AB>v.</AB> 1
+<AB>vs</AB> 1
+<AB>ก.ก.</AB> 1
+<AB>ก.ค.</AB> 8
+<AB>ก.พ.</AB> 10
+<AB>ก.ย.</AB> 5
+<AB>กก.</AB> 1
+<AB>กก.ตร.</AB> 1
+<AB>กต.</AB> 1
+<AB>กม.</AB> 1
+<AB>กอส.</AB> 1
+<AB>ขจก.</AB> 1
+<AB>ค.ศ.</AB> 104
+<AB>คจก.</AB> 2
+<AB>ครม.</AB> 5
+<AB>จนท.</AB> 39
+<AB>จปฐ.</AB> 1
+<AB>จปร. ต.</AB> 1
+<AB>ฉ.</AB> 1
+<AB>ชม.</AB> 2
+<AB>ดร.</AB> 1
+<AB>ต.ค.</AB> 8
+<AB>ต.ช.ด.</AB> 2
+<AB>ตม.</AB> 1
+<AB>ตร.</AB> 8
+<AB>ท.</AB> 4
+<AB>ทร.</AB> 1
+<AB>ที.วี.</AB> 2
+<AB>ธ.ค.</AB> 14
+<AB>น.</AB> 100
+<AB>น.พ.</AB> 1
+<AB>นศ.</AB> 2
+<AB>นส.</AB> 1
+<AB>นสพ.</AB> 7
+<AB>บก.</AB> 7
+<AB>ผ.บ.</AB> 2
+<AB>ผบ.</AB> 3
+<AB>ผบ.พล.</AB> 1
+<AB>ผอ.</AB> 3
+<AB>พ.ค.</AB> 15
+<AB>พ.ย.</AB> 25
+<AB>พ.ร.บ.</AB> 36
+<AB>พ.ศ.</AB> 284
+<AB>พ.อ.</AB> 1
+<AB>พคท.</AB> 4
+<AB>พรก.</AB> 20
+<AB>พรบ.</AB> 26
+<AB>ม.</AB> 10
+<AB>ม.ค.</AB> 8
+<AB>ม.ป.ป.</AB> 1
+<AB>มปป.</AB> 1
+<AB>มิ.ย.</AB> 14
+<AB>มี.ค.</AB> 8
+<AB>ร.</AB> 6
+<AB>ร.ศ.</AB> 8
+<AB>รธน.</AB> 1
+<AB>รมต.</AB> 1
+<AB>รมว.</AB> 4
+<AB>ศธ.</AB> 4
+<AB>ส.ค.</AB> 5
+<AB>ส.ค.ส.</AB> 1
+<AB>ส.ว.</AB> 12
+<AB>ส.ส.</AB> 13
+<AB>สกย.</AB> 1
+<AB>สส.</AB> 1
+<AB>สห.</AB> 1
+<AB>ห.จ.ช.</AB> 2
+<AB>อ.ม.</AB> 1
+<AB>อบต.</AB> 1
+<AB>ฮ.ศ.</AB> 2
+<AB>เม.ย.</AB> 20
+<NE>A.Davidson</NE> 1
+<NE>ABIM</NE> 1
+<NE>ACP</NE> 1
+<NE>ADB</NE> 2
+<NE>AFP</NE> 1
+<NE>ALBA</NE> 2
+<NE>AMERICAN ENTERPRISE INSTITUTE</NE> 1
+<NE>APEC</NE> 1
+<NE>API</NE> 1
+<NE>ARECO</NE> 1
+<NE>ASG</NE> 1
+<NE>Abu Sayaf</NE> 2
+<NE>Academic Press, INC.</NE> 1
+<NE>Adam Smith</NE> 1
+<NE>Adorno</NE> 2
+<NE>Adrew</NE> 1
+<NE>Adrian Zackheim</NE> 1
+<NE>Agence France Press</NE> 1
+<NE>Ainu</NE> 1
+<NE>Alan Sheridan</NE> 1
+<NE>Alexi Maximovich Peshkov</NE> 1
+<NE>Alfred Kroeber</NE> 1
+<NE>Aligarh Muslim University</NE> 1
+<NE>Allyn and Bacon A Viacom Company</NE> 1
+<NE>Althusser, Louis</NE> 1
+<NE>Althusser</NE> 3
+<NE>American Enterprise Institute</NE> 2
+<NE>Ammar Siamwala</NE> 1
+<NE>Ammar</NE> 1
+<NE>Anan Ganjanapan</NE> 1
+<NE>Anchee Min</NE> 1
+<NE>Anderson, Benedict</NE> 1
+<NE>Anderson, Margaret L.</NE> 1
+<NE>Anderson</NE> 1
+<NE>Andrew</NE> 1
+<NE>Andy Warhol</NE> 2
+<NE>Anek Laothamathas</NE> 2
+<NE>Anesaki,Masaharu</NE> 1
+<NE>Angelika Mechtel</NE> 1
+<NE>Ann Coulter</NE> 1
+<NE>Anthony Davis</NE> 3
+<NE>Anthony Giddens</NE> 1
+<NE>Aphornsuwan</NE> 1
+<NE>Apinya</NE> 1
+<NE>Arab League</NE> 1
+<NE>Arabia</NE> 1
+<NE>Arendt</NE> 1
+<NE>Arong Suthana</NE> 1
+<NE>Associated Press</NE> 1
+<NE>Attorney General</NE> 1
+<NE>Aung San Suu Kyi</NE> 1
+<NE>Australia</NE> 1
+<NE>BBPM</NE> 1
+<NE>BERSATU</NE> 1
+<NE>BNPP.</NE> 1
+<NE>BNPP</NE> 9
+<NE>BRN - C</NE> 1
+<NE>BRN-coordinate</NE> 5
+<NE>BRN.</NE> 1
+<NE>BRN</NE> 27
+<NE>BRNโคออดิเนต</NE> 1
+<NE>BRNโคออร์ดิเนต</NE> 1
+<NE>BRNโคออร์ดิเนท</NE> 1
+<NE>Baath</NE> 1
+<NE>Bagehote</NE> 1
+<NE>Baker</NE> 2
+<NE>Balsamo</NE> 1
+<NE>Banco del Sur</NE> 1
+<NE>Bangkok</NE> 5
+<NE>Barbara Adam</NE> 2
+<NE>Barbara H.</NE> 1
+<NE>Barisan Islam Pembebasan Panati</NE> 1
+<NE>Barker</NE> 2
+<NE>Barnes</NE> 1
+<NE>Barthes,Roland</NE> 1
+<NE>Baudrillard, Jean</NE> 1
+<NE>Baudrillard</NE> 4
+<NE>Ben - Ami Scharfstein</NE> 1
+<NE>Benjamin Barber</NE> 1
+<NE>Benjamin</NE> 1
+<NE>Bennhold, Katrin</NE> 1
+<NE>Berger John</NE> 2
+<NE>Berkeley</NE> 3
+<NE>Berlin</NE> 1
+<NE>Bersatu</NE> 1
+<NE>Bickers KennethN.</NE> 1
+<NE>Bickers</NE> 2
+<NE>Bihar</NE> 1
+<NE>Bill</NE> 1
+<NE>Biothai</NE> 1
+<NE>Blackwell Publishers</NE> 1
+<NE>Bouna Traore</NE> 1
+<NE>Bourdieu,Pierre</NE> 1
+<NE>Bouteldja, Naima</NE> 1
+<NE>Brian Massumi</NE> 1
+<NE>Bruce Caldwell</NE> 1
+<NE>Buffalo</NE> 1
+<NE>Bunce, William K.</NE> 1
+<NE>Burke</NE> 1
+<NE>Butler, Judith</NE> 1
+<NE>C.Bretherton</NE> 1
+<NE>CAAP</NE> 1
+<NE>CNN</NE> 1
+<NE>California State University</NE> 1
+<NE>California</NE> 2
+<NE>Callinicos, Alex</NE> 1
+<NE>Cambridge University Press.</NE> 1
+<NE>Cambridge University Press</NE> 1
+<NE>Cambridge</NE> 4
+<NE>Camper</NE> 1
+<NE>Canada</NE> 8
+<NE>Canberra</NE> 1
+<NE>Capra ,Fritjof</NE> 1
+<NE>Capra,Fritjof</NE> 2
+<NE>Carol M.Rose</NE> 1
+<NE>Caroline Ford</NE> 1
+<NE>Castles</NE> 2
+<NE>Chai-Anan Samudavanija</NE> 1
+<NE>Chaiwat Satha-Anand</NE> 3
+<NE>Chaiyan Rajchagool</NE> 1
+<NE>Chalmers Johnson</NE> 1
+<NE>Chantal Mouffe</NE> 2
+<NE>Charles Darvin</NE> 1
+<NE>Charles E.Tuttle Company</NE> 1
+<NE>Charles K. Wilber</NE> 1
+<NE>Charles River</NE> 1
+<NE>Charlotte Perkins Gilman</NE> 1
+<NE>Chayan Vaddhanaphuti</NE> 2
+<NE>Chayan</NE> 2
+<NE>Chen Kaige</NE> 1
+<NE>Chiang Mai</NE> 1
+<NE>Chiangmai</NE> 1
+<NE>Chicago</NE> 1
+<NE>ChinNationalFront</NE> 1
+<NE>China</NE> 2
+<NE>Chris Baker</NE> 1
+<NE>Christs Reinig</NE> 2
+<NE>Chuang Tzu</NE> 1
+<NE>Chula-longkorn University</NE> 1
+<NE>Chulalongorn University</NE> 1
+<NE>Colin</NE> 1
+<NE>Collin Gordon</NE> 1
+<NE>Community of Andean Nations</NE> 1
+<NE>Cornel West</NE> 1
+<NE>Cornell University Press</NE> 1
+<NE>Cornell University</NE> 1
+<NE>Correa, C.</NE> 1
+<NE>Craig J. Reynolds</NE> 1
+<NE>Craig J.Reynolds</NE> 2
+<NE>Crisis Group</NE> 6
+<NE>Critchley, Simon</NE> 1
+<NE>Curzon Press</NE> 1
+<NE>Curzon, L.B., Jurisprudence</NE> 2
+<NE>DSHEA</NE> 2
+<NE>Daletmay</NE> 1
+<NE>Danaher,Geoff</NE> 1
+<NE>Daniel Chirot</NE> 1
+<NE>David Arnott</NE> 1
+<NE>David Crouch</NE> 1
+<NE>David Marsh</NE> 1
+<NE>David Owen</NE> 1
+<NE>David</NE> 1
+<NE>Davidson</NE> 3
+<NE>Davis</NE> 10
+<NE>Dawei</NE> 1
+<NE>De Beauvoir</NE> 1
+<NE>DebraP.Hunter</NE> 1
+<NE>Delclore</NE> 1
+<NE>Delcore</NE> 1
+<NE>Deleuze, Gilles</NE> 1
+<NE>Demitrios</NE> 1
+<NE>Demitrius</NE> 1
+<NE>Dentan, Robert Knox</NE> 1
+<NE>Dentan</NE> 3
+<NE>Derrida, Jacques</NE> 1
+<NE>Derrida</NE> 1
+<NE>Dissanayake, Wimal</NE> 1
+<NE>Dixon,C.</NE> 1
+<NE>Dominique Villepin</NE> 1
+<NE>Donald Gillies</NE> 1
+<NE>Donna L.</NE> 1
+<NE>Donna L.Deyhle</NE> 1
+<NE>Dr.Arpad Pusztai</NE> 3
+<NE>Dr.Chirmsak Pintong</NE> 1
+<NE>Dr.Pusztai</NE> 1
+<NE>Drew Leder</NE> 1
+<NE>Duke University Press</NE> 1
+<NE>Duke University</NE> 1
+<NE>Duncan McCargo</NE> 3
+<NE>Durkheim</NE> 2
+<NE>Dusit</NE> 1
+<NE>Duvell</NE> 1
+<NE>Dworkin</NE> 4
+<NE>ECOSOC</NE> 1
+<NE>Eagleton, Terry</NE> 1
+<NE>East-West Center Press</NE> 1
+<NE>Edward Klein</NE> 1
+<NE>Einstein</NE> 1
+<NE>Eldred</NE> 1
+<NE>Elinor Ostrom</NE> 1
+<NE>Embree</NE> 1
+<NE>Emmanuelle Benicourt</NE> 1
+<NE>Environmental Court</NE> 2
+<NE>Erik Erikson</NE> 1
+<NE>Ernest Laclau</NE> 1
+<NE>Esposizione Universale di Roma</NE> 1
+<NE>Eugenia Kaw</NE> 1
+<NE>Eva62</NE> 1
+<NE>Evelyne Hong</NE> 1
+<NE>EvoMorales</NE> 1
+<NE>FAO</NE> 2
+<NE>FCC</NE> 1
+<NE>FDA</NE> 2
+<NE>FLO</NE> 1
+<NE>FTA Watch</NE> 1
+<NE>FTA</NE> 11
+<NE>Fairtrade Labelling Organisations International</NE> 1
+<NE>Faiz Abu Bakar Bafana</NE> 1
+<NE>Federic Jameson</NE> 1
+<NE>Felix Guattari</NE> 1
+<NE>Ferry</NE> 1
+<NE>Flamingo</NE> 1
+<NE>Florida</NE> 1
+<NE>Forbes</NE> 2
+<NE>Foss, Sonja K.</NE> 1
+<NE>Foucault,Michel</NE> 1
+<NE>Foucault</NE> 5
+<NE>Foulconer E. James</NE> 1
+<NE>France</NE> 2
+<NE>Franck</NE> 1
+<NE>Frank Ackerman</NE> 1
+<NE>Frank Duvell</NE> 1
+<NE>Franz Fanon</NE> 1
+<NE>Friedman</NE> 1
+<NE>Friedrich Nietzsche</NE> 1
+<NE>Fritjof Capra</NE> 2
+<NE>Fung, Yu-Lan</NE> 1
+<NE>G.Alfred Hess</NE> 1
+<NE>G.William Skinner</NE> 1
+<NE>GIN=Asia</NE> 1
+<NE>GMIP.</NE> 1
+<NE>GMIP</NE> 15
+<NE>GMP</NE> 2
+<NE>GNC</NE> 1
+<NE>Garrett Hardin</NE> 3
+<NE>Garry Marvin</NE> 2
+<NE>Gaston Leroux</NE> 2
+<NE>Gayatri Spivak</NE> 1
+<NE>Gayle Rubin</NE> 1
+<NE>Geneva</NE> 1
+<NE>Geoff Bennington</NE> 1
+<NE>George Ritzer</NE> 1
+<NE>Georges Eugene Haussmann</NE> 1
+<NE>Gerakan Islam Patani</NE> 1
+<NE>Gerakan Mujahidin Islam Patani</NE> 1
+<NE>Gerakan Mujahidin Patani</NE> 1
+<NE>Giddens</NE> 1
+<NE>Gill Valentine</NE> 1
+<NE>Gilman</NE> 5
+<NE>Glen Wavery</NE> 1
+<NE>Goa</NE> 1
+<NE>Goldfarb, JeffreyC.</NE> 1
+<NE>Grorge Padoux</NE> 1
+<NE>Guattari</NE> 1
+<NE>H.L.A.Hart</NE> 1
+<NE>HB</NE> 1
+<NE>Habermas</NE> 2
+<NE>Hakha</NE> 1
+<NE>Halifax</NE> 1
+<NE>Hans Kelsen</NE> 1
+<NE>Hardin</NE> 5
+<NE>Haring</NE> 1
+<NE>Harold Lasswell</NE> 1
+<NE>Harvard University Press</NE> 1
+<NE>Harvard University</NE> 1
+<NE>Harvard</NE> 1
+<NE>Helena</NE> 1
+<NE>Henley, Jon</NE> 2
+<NE>Henry C K Liu</NE> 1
+<NE>HenryD.</NE> 1
+<NE>Herman E. Daly</NE> 1
+<NE>Hewison, Kevin</NE> 2
+<NE>Hewison,K.</NE> 2
+<NE>Hewison</NE> 1
+<NE>Hikmat Alah Abadan</NE> 1
+<NE>Hirsch</NE> 1
+<NE>Hobson</NE> 2
+<NE>Hollinger International Inc.</NE> 1
+<NE>Hugo Martinize</NE> 1
+<NE>ICLD</NE> 1
+<NE>IEA</NE> 1
+<NE>IGES</NE> 1
+<NE>IGU</NE> 1
+<NE>IMF</NE> 7
+<NE>IRRI</NE> 1
+<NE>ISA</NE> 1
+<NE>ISAAA</NE> 2
+<NE>IUCN</NE> 2
+<NE>Inbio</NE> 1
+<NE>India</NE> 2
+<NE>IndianInstituteofAdvancedStudies</NE> 1
+<NE>Insein</NE> 1
+<NE>Institutional Supporters</NE> 1
+<NE>Inter-American Development Bank</NE> 1
+<NE>International Crisis Group</NE> 2
+<NE>Irvine</NE> 2
+<NE>Ithaca</NE> 1
+<NE>J.M.Keynes</NE> 1
+<NE>J.R.R.Tolkien</NE> 1
+<NE>JERZY GROTOWSKI</NE> 1
+<NE>JERZY GROTOWSKY</NE> 1
+<NE>JI</NE> 1
+<NE>JTEPA</NE> 3
+<NE>JackM.</NE> 1
+<NE>Jacques Lacan</NE> 1
+<NE>James Boyle</NE> 1
+<NE>James Brooke</NE> 1
+<NE>James Houston</NE> 1
+<NE>James Tobin</NE> 1
+<NE>JamesT.Siegel</NE> 1
+<NE>Japan</NE> 4
+<NE>Jean-Francois Lyotard , J.F.</NE> 1
+<NE>Jean-Francois Lyotard</NE> 2
+<NE>Jean-Michel Basquiat</NE> 1
+<NE>Jemaah Salafi</NE> 1
+<NE>Jenifer</NE> 1
+<NE>Jerzy Growtowski</NE> 1
+<NE>Jessop, Bob</NE> 1
+<NE>Jessop,B.</NE> 1
+<NE>Jesus</NE> 1
+<NE>Jiang</NE> 1
+<NE>Joan Chen</NE> 2
+<NE>Jocob D. Bekenstein</NE> 1
+<NE>Johann Gottfried Herder</NE> 1
+<NE>John Austin</NE> 1
+<NE>John Berger</NE> 1
+<NE>John Cuber</NE> 1
+<NE>John Fiske</NE> 1
+<NE>John Gray</NE> 1
+<NE>John Imada</NE> 1
+<NE>John McBeth</NE> 1
+<NE>John Oswald</NE> 1
+<NE>John Rawls</NE> 1
+<NE>John Sydenham Furnivall</NE> 1
+<NE>Jonathan Barker</NE> 1
+<NE>Jonny</NE> 2
+<NE>Joost Van Loon</NE> 1
+<NE>Joseph Schumpeter</NE> 2
+<NE>Juan Enriquez</NE> 2
+<NE>Judith Chafel</NE> 1
+<NE>Julio</NE> 1
+<NE>Jungluth,Frauke</NE> 1
+<NE>Jurgen Habermas</NE> 1
+<NE>Jurgen Serke</NE> 2
+<NE>KBS</NE> 1
+<NE>KNU</NE> 2
+<NE>Kabir Abdul Rahman</NE> 1
+<NE>KachinState</NE> 1
+<NE>Kanishka Jayasuriya</NE> 1
+<NE>Kant</NE> 1
+<NE>Karen</NE> 1
+<NE>Karin Struck</NE> 2
+<NE>Karl Marx</NE> 3
+<NE>Katherine Bowie</NE> 1
+<NE>Katherine</NE> 1
+<NE>Katja Moch</NE> 1
+<NE>Kavaljit Singh</NE> 3
+<NE>KayahState</NE> 1
+<NE>KayinState</NE> 1
+<NE>Kegan Paul</NE> 1
+<NE>Kepa M.Ormazabal</NE> 1
+<NE>Kevin Hewison</NE> 2
+<NE>Keyes</NE> 1
+<NE>King, Martin Luther</NE> 1
+<NE>Kuala Lumpur</NE> 1
+<NE>Kumpulan Mujahidin Malaysia</NE> 1
+<NE>Kundstadter</NE> 1
+<NE>Kunstadter, Peter</NE> 1
+<NE>Kunstadter</NE> 1
+<NE>LaMacchia</NE> 2
+<NE>Laclau Ernesto</NE> 1
+<NE>Lady Pink</NE> 2
+<NE>Lady Shri Ram College</NE> 1
+<NE>Landler, Mark</NE> 2
+<NE>Lao Tzu</NE> 1
+<NE>Larry Elliott</NE> 1
+<NE>Lash</NE> 1
+<NE>LeCompte</NE> 1
+<NE>Lee</NE> 1
+<NE>Leiser</NE> 2
+<NE>Leo Strauss</NE> 1
+<NE>Lewis A.Coser</NE> 1
+<NE>Lim Joo Jock</NE> 1
+<NE>Linn,Maxine</NE> 1
+<NE>Linus Torvalds</NE> 1
+<NE>Lisa Takeuchi Cullen</NE> 2
+<NE>Lockhart</NE> 1
+<NE>Loikaw</NE> 1
+<NE>Lon Chaney</NE> 1
+<NE>London School of Oriental and African Studies</NE> 1
+<NE>London</NE> 24
+<NE>Longman</NE> 1
+<NE>Lord Denning</NE> 1
+<NE>Los Angeles</NE> 2
+<NE>Louis Althusser</NE> 1
+<NE>Lucian Freud</NE> 1
+<NE>Luciano Floridi</NE> 1
+<NE>LucienM.</NE> 1
+<NE>Lukmanul Hakiem Pesantren</NE> 1
+<NE>M.E.Turpel</NE> 1
+<NE>MIT</NE> 1
+<NE>MR.Somchai Neelaphaijit</NE> 1
+<NE>MTA</NE> 2
+<NE>Ma Xiaojun</NE> 3
+<NE>Ma</NE> 2
+<NE>MacMillan Press</NE> 1
+<NE>Macmillan Publishing Company</NE> 1
+<NE>Macmillan Publishing</NE> 1
+<NE>Macqarie University</NE> 1
+<NE>Madagascar</NE> 1
+<NE>Madison</NE> 2
+<NE>Magaret D.LeCompte</NE> 1
+<NE>Maine</NE> 1
+<NE>Majelis Permesyuaratan Rakyat Melayu Patani</NE> 1
+<NE>Malaya</NE> 1
+<NE>Malaysia</NE> 4
+<NE>Manhattan Institute for Policy Research</NE> 1
+<NE>Manhattan Institute</NE> 1
+<NE>Mao</NE> 1
+<NE>Mark Eagle</NE> 1
+<NE>Mark</NE> 2
+<NE>Marshall</NE> 4
+<NE>Martin Albrow</NE> 1
+<NE>Martin Luther King, Jr.</NE> 1
+<NE>Martin Luther King</NE> 1
+<NE>Martinize</NE> 1
+<NE>Marx</NE> 3
+<NE>Massachusette</NE> 1
+<NE>Mathew Arnold</NE> 1
+<NE>Max Weber</NE> 2
+<NE>Maxim Gorky</NE> 1
+<NE>Maxine Baca Linn</NE> 1
+<NE>McCargo</NE> 2
+<NE>Mein Kampf</NE> 1
+<NE>Mekong - Ganga Coperation</NE> 1
+<NE>Melbourne</NE> 1
+<NE>Mi Lan</NE> 1
+<NE>Michael Harrington</NE> 1
+<NE>Michael Manceaux</NE> 1
+<NE>Michael Schudson</NE> 1
+<NE>Michael T. Darda</NE> 1
+<NE>Michael</NE> 1
+<NE>Michel Chossudovsky</NE> 1
+<NE>MicheleManceaux</NE> 1
+<NE>Microsoft</NE> 1
+<NE>Milan Presse</NE> 1
+<NE>Minnesota</NE> 1
+<NE>Mommsen</NE> 1
+<NE>MonKingdomHongsavatoi</NE> 1
+<NE>MonState</NE> 1
+<NE>Montreal</NE> 1
+<NE>Morris</NE> 3
+<NE>Mr.Donald John Marshall</NE> 1
+<NE>Mr.Marshall</NE> 2
+<NE>Mudon</NE> 1
+<NE>Muhammed</NE> 1
+<NE>Mujahidin Islam Patani</NE> 1
+<NE>MunhwaBroadcastingCorporation</NE> 1
+<NE>MyaingGalay</NE> 1
+<NE>Myanmar</NE> 1
+<NE>Myeik</NE> 1
+<NE>NAIS Press</NE> 1
+<NE>NE>Hill, Michael</NE> 1
+<NE>NGO</NE> 1
+<NE>NGOs</NE> 1
+<NE>NOGA</NE> 1
+<NE>NOx</NE> 1
+<NE>National League for Democracy</NE> 1
+<NE>National Patani Liberation Front</NE> 1
+<NE>Nerida M.Cook</NE> 2
+<NE>NesterKirchner</NE> 1
+<NE>New American Library</NE> 1
+<NE>New Brunswick</NE> 1
+<NE>New Delhi</NE> 1
+<NE>New Jersy</NE> 1
+<NE>New York City</NE> 1
+<NE>New York</NE> 24
+<NE>NewYork University Press</NE> 1
+<NE>NewYork:U.Press</NE> 1
+<NE>NewYork</NE> 1
+<NE>Nicolas Sarkozy</NE> 1
+<NE>Nicos Poulantzas</NE> 1
+<NE>Non-governmental Development Organisations</NE> 1
+<NE>Norbert Elias</NE> 1
+<NE>O'Gorman Anderson</NE> 1
+<NE>OIC</NE> 1
+<NE>OPD</NE> 1
+<NE>Olivia Goldsmith</NE> 1
+<NE>Omar Farouk</NE> 2
+<NE>Orang Asli</NE> 5
+<NE>Organisation of Islamic Conference</NE> 1
+<NE>OrganizationofIslamicConferences</NE> 1
+<NE>OriGIn</NE> 2
+<NE>Ornanong</NE> 9
+<NE>Oswald Spengler</NE> 1
+<NE>Otto Bachof</NE> 1
+<NE>Oxford University Press</NE> 2
+<NE>Oxford, Massachusattes</NE> 1
+<NE>Oxford</NE> 4
+<NE>PARIS</NE> 1
+<NE>PPBI</NE> 13
+<NE>PPM</NE> 2
+<NE>PULO.</NE> 1
+<NE>PULO</NE> 9
+<NE>Pall Mall</NE> 1
+<NE>Parnas</NE> 1
+<NE>Pasuk Pongpaichit</NE> 1
+<NE>Patai , Daphne.</NE> 1
+<NE>Patani People Movement</NE> 1
+<NE>Patani United Liberation Organisation</NE> 1
+<NE>Patani United Liberation Organization</NE> 2
+<NE>Patrick Camiller</NE> 1
+<NE>Patrick Jory</NE> 1
+<NE>Pattani</NE> 4
+<NE>Pegu</NE> 1
+<NE>Pemuda</NE> 1
+<NE>Penguin</NE> 1
+<NE>Perry</NE> 1
+<NE>Pertubuhan Persatuan Pembebasan Patani</NE> 1
+<NE>Peter Camper</NE> 1
+<NE>Peter Kundstadter</NE> 1
+<NE>Peter Soderbaum</NE> 1
+<NE>Peter</NE> 1
+<NE>Ph.D.Dissertation</NE> 1
+<NE>Philosophical Papers</NE> 4
+<NE>Pier Vellinga</NE> 1
+<NE>Pierre-Joseph Proudhon</NE> 1
+<NE>Pitch Pongsawat</NE> 1
+<NE>Plagrave Press</NE> 2
+<NE>Planning and Environment Court</NE> 1
+<NE>Plato</NE> 1
+<NE>Political Economy Centre</NE> 1
+<NE>Polity Press</NE> 2
+<NE>Potter</NE> 1
+<NE>Poulantzas,N.</NE> 1
+<NE>Preecha</NE> 1
+<NE>Preston,P.W.</NE> 1
+<NE>Prince Edward Island</NE> 1
+<NE>Princeton University Press</NE> 2
+<NE>Professor James Boyle</NE> 2
+<NE>Professor Mary Ellen Turpel</NE> 1
+<NE>Prudhisan Jumbala</NE> 2
+<NE>Pusztai</NE> 1
+<NE>Quebec</NE> 1
+<NE>RM</NE> 1
+<NE>Rabitatul Mujahidin</NE> 1
+<NE>Randall Calvert</NE> 1
+<NE>Ranke</NE> 1
+<NE>Raphael Bousso</NE> 1
+<NE>Rawls</NE> 2
+<NE>Raymond L.Bryant</NE> 1
+<NE>Raymond Williams</NE> 2
+<NE>Razor แกลลอรี่</NE> 1
+<NE>Rhee</NE> 1
+<NE>Richard Koenigsberg</NE> 1
+<NE>Richard Robinson</NE> 1
+<NE>Richard Stallman</NE> 2
+<NE>Richard</NE> 1
+<NE>Rick Young</NE> 1
+<NE>Robert B. Reich</NE> 1
+<NE>Robert J.Smith</NE> 1
+<NE>Robert L. Heilbroner</NE> 1
+<NE>Robert Nozick</NE> 1
+<NE>Robert Young</NE> 1
+<NE>Robertson</NE> 1
+<NE>Rodan</NE> 1
+<NE>Rolin Jacquemyns</NE> 1
+<NE>Ronal Dworkin</NE> 1
+<NE>Ronald H.Coase</NE> 1
+<NE>Rorty, Richard</NE> 8
+<NE>Rorty</NE> 2
+<NE>RosalindC.</NE> 1
+<NE>Rousseau</NE> 2
+<NE>Routledge & Keagan Paul Ltd.</NE> 1
+<NE>Routledge Curzon</NE> 1
+<NE>Routledge and KeganPaul</NE> 1
+<NE>Routledge</NE> 7
+<NE>Rubin</NE> 1
+<NE>Runda Kumpulan Kecil</NE> 1
+<NE>Rupert Julien</NE> 1
+<NE>Ruth Shrrry</NE> 1
+<NE>Rutland</NE> 1
+<NE>Ryan, Alan</NE> 1
+<NE>S. Punpuing</NE> 1
+<NE>S.N. Eisenstadt</NE> 1
+<NE>SPDC</NE> 1
+<NE>Sage PublicationsLtd.</NE> 1
+<NE>Said, Edward</NE> 1
+<NE>Said</NE> 1
+<NE>Sakai</NE> 1
+<NE>Samsen9</NE> 1
+<NE>Samuel P.Huntington</NE> 1
+<NE>San Diego</NE> 1
+<NE>San Francisco</NE> 1
+<NE>SanderL.Gilman</NE> 1
+<NE>Santa Clara University</NE> 1
+<NE>Saroja Dorairajoo</NE> 1
+<NE>Satellite</NE> 1
+<NE>Satha-Anand</NE> 3
+<NE>Saul Bellow</NE> 1
+<NE>Schmelleger, Frank</NE> 1
+<NE>Scott C., James</NE> 1
+<NE>Scott Lash</NE> 1
+<NE>Scott</NE> 1
+<NE>Segrid Weigel</NE> 1
+<NE>ShanState</NE> 1
+<NE>Shang Ti</NE> 1
+<NE>Shegeharu Tanabe</NE> 1
+<NE>Sheikh Abdul Aziz Ibn Baz</NE> 1
+<NE>Silicon Valley</NE> 1
+<NE>Silvia Bovenschen</NE> 1
+<NE>Simone de Beauvoir</NE> 1
+<NE>Singapore</NE> 2
+<NE>Singer, Peter</NE> 1
+<NE>Singer</NE> 1
+<NE>Singh</NE> 4
+<NE>Sittway</NE> 1
+<NE>Smith, Alex Duval</NE> 4
+<NE>Smith, RobertB.</NE> 1
+<NE>Smith, WilliamC.</NE> 1
+<NE>Somchai</NE> 1
+<NE>Sontag</NE> 2
+<NE>Sorbonne</NE> 1
+<NE>Spain</NE> 1
+<NE>Sparkes, Stephen</NE> 1
+<NE>Sparrow</NE> 1
+<NE>St.Hugh's College</NE> 1
+<NE>St.Thomas Aquinas</NE> 1
+<NE>Stallman</NE> 2
+<NE>Stanford University Press</NE> 1
+<NE>Stanford</NE> 1
+<NE>Stanislavsky</NE> 1
+<NE>Stanley Fish</NE> 1
+<NE>State University</NE> 1
+<NE>Statman, M.</NE> 1
+<NE>Steven Lukes</NE> 1
+<NE>Steven Perry</NE> 1
+<NE>StevenPerry</NE> 1
+<NE>Stone, Deborah.</NE> 1
+<NE>Stoney</NE> 1
+<NE>Stossel, Scott</NE> 2
+<NE>Stuttgart</NE> 1
+<NE>Surin Pitsuwan</NE> 9
+<NE>Surin>Pitsuwan</NE> 1
+<NE>Susan willett</NE> 1
+<NE>Sydney</NE> 1
+<NE>Sylla</NE> 1
+<NE>T.H.Marshall</NE> 1
+<NE>TNA</NE> 1
+<NE>TakBai</NE> 1
+<NE>Taki183</NE> 1
+<NE>Tambiah</NE> 1
+<NE>Tan Phock Kin</NE> 1
+<NE>TanjungMalim</NE> 1
+<NE>Taunggyi</NE> 1
+<NE>Taylor</NE> 3
+<NE>Tende</NE> 1
+<NE>Tengku Abdul Kadir</NE> 1
+<NE>Terry Eagleton</NE> 1
+<NE>Teun A</NE> 1
+<NE>Thailand</NE> 34
+<NE>Thak Chaloemtiarana</NE> 1
+<NE>Thaksin</NE> 4
+<NE>Thanbyuzayatt</NE> 1
+<NE>The American Jewish Committee</NE> 1
+<NE>The Burma Socialist Programme Party</NE> 1
+<NE>The Hamlyn Publishing Group Limited</NE> 1
+<NE>The Institute for Educational Affairs</NE> 1
+<NE>The Midnight University</NE> 1
+<NE>The Nation</NE> 1
+<NE>The National Foundation for Humanities</NE> 1
+<NE>The National Revolutionary Front</NE> 1
+<NE>The University of Chicago Press</NE> 2
+<NE>TheStateLaw&OrderRestorationCouncil</NE> 1
+<NE>Theodor Adorno</NE> 1
+<NE>Theodor Soemmering</NE> 1
+<NE>Thomas Hobbes</NE> 1
+<NE>Thomas L. Friedman</NE> 1
+<NE>Thomas W.Hazlett</NE> 1
+<NE>Thomas</NE> 5
+<NE>Thongchai</NE> 1
+<NE>Tian Zhuangzhuang</NE> 1
+<NE>Tian</NE> 1
+<NE>Tiddim</NE> 1
+<NE>Todd A. Culp</NE> 1
+<NE>Tokyo</NE> 1
+<NE>Tonga Press</NE> 1
+<NE>Tonglin Lu</NE> 7
+<NE>Toronto</NE> 1
+<NE>Tracie</NE> 1
+<NE>Trans Pacific Press</NE> 1
+<NE>U.S.Army Corp. of Engineer</NE> 1
+<NE>UK.</NE> 2
+<NE>UMNO</NE> 1
+<NE>UN</NE> 4
+<NE>UNEP</NE> 1
+<NE>UNESCO</NE> 1
+<NE>UNHCR)</NE> 1
+<NE>UNHCR</NE> 3
+<NE>UPS</NE> 2
+<NE>US-CAW</NE> 1
+<NE>USA</NE> 2
+<NE>Ukrist Pathamanand</NE> 1
+<NE>Ukrist</NE> 1
+<NE>Ulrich Beck</NE> 1
+<NE>Ulrick Beck</NE> 1
+<NE>Ungpakorn, Ji Giles</NE> 1
+<NE>University of Chicago Press</NE> 1
+<NE>University of Minnesota Press</NE> 2
+<NE>Unter den Linden</NE> 1
+<NE>Urich Beck</NE> 1
+<NE>Useem , Michael</NE> 1
+<NE>Uthai Dulyakasem</NE> 1
+<NE>Valentine, A. Charls</NE> 1
+<NE>Valmont</NE> 1
+<NE>Vanessa Griffen</NE> 1
+<NE>Ven. Dhamar Lake</NE> 1
+<NE>Ven.Omalpe</NE> 1
+<NE>Verena Stefan</NE> 1
+<NE>Vermont</NE> 1
+<NE>Verso</NE> 2
+<NE>Veruschka</NE> 1
+<NE>Vincent</NE> 1
+<NE>Virginia Woolf</NE> 1
+<NE>WIPO</NE> 10
+<NE>WTO</NE> 29
+<NE>Walden Bello</NE> 1
+<NE>Walter Benjamin</NE> 1
+<NE>Walter</NE> 1
+<NE>Wan Kadir Che Man</NE> 1
+<NE>Wan Kadir</NE> 6
+<NE>Wang Ban</NE> 1
+<NE>Wang Dongxiang</NE> 1
+<NE>Wang Shuo</NE> 1
+<NE>Ward, Hugh.</NE> 1
+<NE>Webb, Jen</NE> 1
+<NE>Weber, Generalbericht</NE> 1
+<NE>Weber,Generalbericht</NE> 1
+<NE>Weber</NE> 1
+<NE>Weiss</NE> 1
+<NE>White Lotus Press</NE> 1
+<NE>White Rajah</NE> 1
+<NE>William Forster Lloyd</NE> 1
+<NE>William Rappard</NE> 1
+<NE>Williams</NE> 1
+<NE>Wim</NE> 1
+<NE>Wollacott</NE> 1
+<NE>Woodrow Wilson</NE> 1
+<NE>World Intellectual Property Organization</NE> 1
+<NE>World Wide Fund for Animal</NE> 1
+<NE>Wu Min Aun</NE> 2
+<NE>Xiu Xiu</NE> 1
+<NE>Yarong Jiang</NE> 2
+<NE>Ye</NE> 1
+<NE>Yegar</NE> 4
+<NE>Yenangyaung</NE> 1
+<NE>YoichiTANI</NE> 1
+<NE>Yushukan</NE> 1
+<NE>Zainol Ismael</NE> 1
+<NE>Zehner</NE> 2
+<NE>Zhang Yimou</NE> 1
+<NE>Zizek, Slavoj</NE> 1
+<NE>Zyed Benna</NE> 1
+<NE>green party</NE> 1
+<NE>http://www.searin.org/Th/KSTD/KstdA1.htm</NE> 1
+<NE>the Congress for Cultural Freedom</NE> 1
+<NE>the Siam Society</NE> 1
+<NE>www.wto.org</NE> 1
+<NE>ก.ศ.ร.</NE> 1
+<NE>กก.ตร.ภ.</NE> 1
+<NE>กกต.</NE> 3
+<NE>กต.</NE> 1
+<NE>กทม.</NE> 3
+<NE>กนกพงศ์ สงสมพันธุ์</NE> 4
+<NE>กนกพงศ์</NE> 6
+<NE>กนกวรรณ ธราวรรณ</NE> 1
+<NE>กนกศักดิ์ แก้วเทพ</NE> 2
+<NE>กนาทะ</NE> 1
+<NE>กบ</NE> 3
+<NE>กบฎ ร.ศ.130</NE> 1
+<NE>กบฎผีบุญ</NE> 1
+<NE>กบฎหมอเหล็ง</NE> 2
+<NE>กบฏ ร.ศ.130</NE> 1
+<NE>กบฏบวรเดช</NE> 1
+<NE>กบฏเสนาธิการ</NE> 1
+<NE>กบฏแมนฮัตตัน</NE> 1
+<NE>กป.อพช.อิสาน</NE> 1
+<NE>กปร.</NE> 1
+<NE>กฟน.</NE> 2
+<NE>กฟผ.</NE> 33
+<NE>กฟภ.</NE> 1
+<NE>กมล กมลตระกูล</NE> 1
+<NE>กรงปินัง</NE> 1
+<NE>กรงปีนัง</NE> 1
+<NE>กรพ.</NE> 1
+<NE>กรมการปกครอง</NE> 5
+<NE>กรมคลัง</NE> 1
+<NE>กรมควบคุมมลพิษ</NE> 2
+<NE>กรมคุ้มครองสิทธิและเสรีภาพ</NE> 1
+<NE>กรมชลประทาน</NE> 5
+<NE>กรมตำรวจ</NE> 3
+<NE>กรมทรัพยากรธรณี</NE> 1
+<NE>กรมทรัพยากรน้ำ</NE> 2
+<NE>กรมทรัพย์สินทางปัญญา</NE> 1
+<NE>กรมธนารักษ์</NE> 1
+<NE>กรมประกาสิต</NE> 1
+<NE>กรมประชาสงเคราะห์</NE> 1
+<NE>กรมประมง</NE> 1
+<NE>กรมป่าไม้</NE> 9
+<NE>กรมพระดำรงราชานุภาพ</NE> 1
+<NE>กรมพระนราธิปฯ</NE> 1
+<NE>กรมพระยาดำรงราชานุภาพ</NE> 3
+<NE>กรมพระยาดำรงฯ</NE> 7
+<NE>กรมพระยาวชิรญาณฯ</NE> 1
+<NE>กรมพัฒนาและส่งเสริมพลังงาน</NE> 1
+<NE>กรมมหาดไทย</NE> 2
+<NE>กรมราชเลขานุการ</NE> 1
+<NE>กรมวิชาการ</NE> 1
+<NE>กรมวิชาการเกษตร</NE> 1
+<NE>กรมศิลปากร</NE> 5
+<NE>กรมศุลกากร</NE> 1
+<NE>กรมหมื่นดำรงราชานุภาพ</NE> 1
+<NE>กรมหมื่นราชบุรี</NE> 1
+<NE>กรมหลวงดำรงราชานุภาพ</NE> 1
+<NE>กรมหลวงราชบุรีดิเรกฤทธิ์</NE> 1
+<NE>กรมอนามัย</NE> 1
+<NE>กรมอัยการ</NE> 2
+<NE>กรมอุทยานแห่งชาติ</NE> 1
+<NE>กรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช</NE> 3
+<NE>กรมอุทยานแห่งชาติสัตว์ป่าและพันธ์พืช</NE> 1
+<NE>กรมเจรจาการค้าระหว่างประเทศ</NE> 2
+<NE>กรมโฆษณาการ</NE> 3
+<NE>กรมโยธาธิการ</NE> 1
+<NE>กรมโรงงานอุตสาหกรรม</NE> 4
+<NE>กรรณิการ์ กิจติเวชกุล</NE> 3
+<NE>กรรณิการ์ พรมเสาร์</NE> 3
+<NE>กรรณิการ์</NE> 1
+<NE>กรรมการสิทธิมนุษยชน</NE> 1
+<NE>กระทรวงกลาโหม</NE> 9
+<NE>กระทรวงกลาโหมสหรัฐฯ</NE> 1
+<NE>กระทรวงกลาโหมอเมริกัน</NE> 2
+<NE>กระทรวงการคลัง</NE> 4
+<NE>กระทรวงการต่างประเทศ</NE> 5
+<NE>กระทรวงการต่างประเทศเดนมาร์ก</NE> 1
+<NE>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</NE> 1
+<NE>กระทรวงคมนาคม</NE> 1
+<NE>กระทรวงต่างประเทศ</NE> 3
+<NE>กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม</NE> 6
+<NE>กระทรวงทรัพยากรฯ</NE> 1
+<NE>กระทรวงธรรมการ</NE> 1
+<NE>กระทรวงน้ำ</NE> 1
+<NE>กระทรวงน้ำมันและก๊าซธรรมชาติ</NE> 1
+<NE>กระทรวงพลังงาน</NE> 2
+<NE>กระทรวงพาณิชย์</NE> 2
+<NE>กระทรวงมหาดไทย</NE> 21
+<NE>กระทรวงยุติธรรม</NE> 12
+<NE>กระทรวงวัง</NE> 1
+<NE>กระทรวงวัฒนธรรม</NE> 3
+<NE>กระทรวงวิทยาศาสตร์ เทคโนโลยี และสิ่งแวดล้อม</NE> 1
+<NE>กระทรวงวิทยาศาสตร์ฯ</NE> 1
+<NE>กระทรวงวิทยาศาสตร์และเทคโนโลยี</NE> 1
+<NE>กระทรวงวิทย์</NE> 3
+<NE>กระทรวงศึกษา</NE> 2
+<NE>กระทรวงศึกษาธิการ</NE> 16
+<NE>กระทรวงศึกษาฯ</NE> 1
+<NE>กระทรวงสาธารณสุข</NE> 12
+<NE>กระทรวงอุตสาหกรรม</NE> 1
+<NE>กระทรวงเกษตรและสหกรณ์</NE> 1
+<NE>กระทรวงเศรษฐกิจ</NE> 1
+<NE>กระทรวงไอที</NE> 1
+<NE>กระทิงแดง</NE> 10
+<NE>กรัมชี</NE> 1
+<NE>กรีก</NE> 1
+<NE>กรีซ</NE> 1
+<NE>กรีนพีช</NE> 1
+<NE>กรีนพีซ</NE> 1
+<NE>กรือเซะ</NE> 12
+<NE>กรุง 5
+<NE>กรุงจาการ์ต้า</NE> 1
+<NE>กรุงจีน</NE> 1
+<NE>กรุงบัวโนสไอเรส</NE> 1
+<NE>กรุงปารีส</NE> 8
+<NE>กรุงมาดริด</NE> 1
+<NE>กรุงรัตนโกสินทร์</NE> 1
+<NE>กรุงราชคฤห์</NE> 2
+<NE>กรุงลอนดอน</NE> 3
+<NE>กรุงวอชิงตัน ดีซี</NE> 1
+<NE>กรุงวอชิงตันดีซี</NE> 1
+<NE>กรุงศรีอยุธยา</NE> 4
+<NE>กรุงสยาม</NE> 15
+<NE>กรุงสยามการพิมพ์</NE> 1
+<NE>กรุงสุโขทัย</NE> 1
+<NE>กรุงออสโล</NE> 1
+<NE>กรุงเจนีวา</NE> 1
+<NE>กรุงเดลี</NE> 2
+<NE>กรุงเทพ ฯ</NE> 7
+<NE>กรุงเทพ</NE 2
+<NE>กรุงเทพ</NE. 3
+<NE>กรุงเทพ</NE> 12
+<NE>กรุงเทพมหานคร</NE> 14
+<NE>กรุงเทพฯ</NE> 159
+<NE>กรุงโคเปนเฮเกน</NE> 1
+<NE>กรุงโซล</NE> 3
+<NE>กรุงโรม</NE> 5
+<NE>กรุงไคโร</NE> 1
+<NE>กฤตยา อาชวนิจกุล</NE> 3
+<NE>กฤตยา</NE> 3
+<NE>กฤษฎา บุญชัย</NE> 3
+<NE>กฤษดาวรรณ หงศ์ลดารมภ์</NE> 1
+<NE>กลันตัน</NE> 8
+<NE>กลาโหม</NE> 7
+<NE>กลุ่ม 1
+<NE>กลุ่ม GAMPAR</NE> 1
+<NE>กลุ่ม KMM</NE> 1
+<NE>กลุ่ม Rabitat-ul Mujahidin</NE> 1
+<NE>กลุ่ม บีอาร์เอ็น</NE> 2
+<NE>กลุ่ม พูโล</NE> 2
+<NE>กลุ่ม เคเคเค</NE> 1
+<NE>กลุ่ม เจไอ</NE> 1
+<NE>กลุ่มKassav</NE> 1
+<NE>กลุ่มคอนทราส์</NE> 1
+<NE>กลุ่มนิสิตนักศึกษาอาสาสมัครแห่งประเทศไทย</NE> 1
+<NE>กลุ่มบ้านกุวา</NE> 1
+<NE>กลุ่มประเทศมุสลิม</NE> 1
+<NE>กลุ่มประเทศยุโรปตะวันตก</NE> 1
+<NE>กลุ่มประเทศสหภาพยุโรป</NE> 1
+<NE>กลุ่มผู้พิทักษ์แดง</NE> 1
+<NE>กลุ่มพันธมิตร</NE> 1
+<NE>กลุ่มพูโล</NE> 3
+<NE>กลุ่มฟอรัมเอเซีย</NE> 1
+<NE>กลุ่มฟอรั่มเอเชีย</NE> 1
+<NE>กลุ่มวาดะห์</NE> 1
+<NE>กลุ่มศึกษาข้อตกลงเขตการค้าเสรีภาคประชาชน</NE> 1
+<NE>กลุ่มศึกษาอัลบายัน</NE> 1
+<NE>กลุ่มศึกษาและรณรงค์มลภาวะอุตสาหกรรม</NE> 1
+<NE>กลุ่มสมัชชาคนจน</NE> 1
+<NE>กลุ่มสันติอาสา</NE> 1
+<NE>กลุ่มสันนิบาติมูจาฮิดีน</NE> 1
+<NE>กลุ่มหลวงพิบูล</NE> 1
+<NE>กลุ่มอบาแด</NE> 1
+<NE>กลุ่มอะบาแด</NE> 3
+<NE>กลุ่มอัญจารี</NE> 1
+<NE>กลุ่มอับดุลกาเดร์</NE> 1
+<NE>กลุ่มอาบาดัน</NE> 1
+<NE>กลุ่มอาบูซายาฟ</NE> 1
+<NE>กลุ่มอาเซียน</NE> 1
+<NE>กลุ่มฮิวแมนไรซ์วอช</NE> 1
+<NE>กลุ่มเจมา อิสลามิยา</NE> 1
+<NE>กลุ่มเจมาซาลาฟี</NE> 1
+<NE>กลุ่มเจมาห์ อิสลามิยาห์</NE> 1
+<NE>กลุ่มเจมาอิสลามิยา</NE> 1
+<NE>กลุ่มเจไอ</NE> 3
+<NE>กลุ่มเปอมูดา</NE> 1
+<NE>กลุ่มเอ็นจีโอ</NE> 1
+<NE>กลุ่มแคน</NE> 6
+<NE>กลุ่มแนวร่วมปลดปล่อยอิสลามโมโร</NE> 1
+<NE>กลุ่มแนวร่วมมูจาฮิดีนปาตานี</NE> 1
+<NE>กลุ่มแม่บ้านหนองขาว</NE> 1
+<NE>กลุ่มไอนุ</NE> 2
+<NE>กวน แต ซุน</NE> 3
+<NE>กวางเจา</NE> 1
+<NE>กวางไส</NE> 1
+<NE>กษัตริย์บาบาร์</NE> 1
+<NE>กษัตริย์อเล็กซานเดอร์มหาราช</NE> 2
+<NE>กสช.</NE> 1
+<NE>กสม.</NE> 1
+<NE>กอ.ปค.</NE> 1
+<NE>กอ.รมน.</NE> 10
+<NE>กอ.สสส.จชต.</NE> 1
+<NE>กองกงสุล</NE> 1
+<NE>กองการเมือง</NE> 1
+<NE>กองกำกับการตร.ภูธร</NE> 1
+<NE>กองทัพบก</NE> 3
+<NE>กองทัพภาคที่ ๔</NE> 1
+<NE>กองทัพอากาศ</NE> 2
+<NE>กองทัพอิสลามิค จิฮาด</NE> 1
+<NE>กองทัพเรือ</NE> 1
+<NE>กองทุนการเงินระหว่างประเทศ</NE> 3
+<NE>กองทุนวุฒิธรรม</NE> 1
+<NE>กองบรรณาธิการมหาวิทยาลัยเที่ยงคืน</NE> 1
+<NE>กองบัญชาการทหารสูงสุด</NE> 1
+<NE>กองบัญชาการผสมพลเรือน ตำรวจ ทหารที่ 43</NE> 1
+<NE>กองบัญชาการผสมพลเรือนตำรวจทหารที่ ๔๓</NE> 1
+<NE>กองปราบฯ</NE> 1
+<NE>กองพลนาวิกโยธิน</NE> 1
+<NE>กองพันทหารราบที่ 9</NE> 1
+<NE>กองสลากฯ</NE> 1
+<NE>กองอำนวยการรักษาความมั่นคงภายใน</NE> 1
+<NE>กองอำนวยการรักษาความมั่นคงภายในประเทศ</NE> 1
+<NE>กองอำนวยการสร้างเสริมสันติสุขชายแดนภาคใต้</NE> 1
+<NE>กองอำนวยการเสริมสร้างสันติสุขจังหวัดชายแดนภาคใต้</NE> 1
+<NE>กอร์กี้</NE> 3
+<NE>กอส.</NE> 15
+<NE>กัมปาร์</NE> 1
+<NE>กัมพูชา</NE> 4
+<NE>กัลยา อุดมวิทิต</NE> 1
+<NE>กัวลาลัมเปอร์</NE> 2
+<NE>กาญจนบุรี</NE> 1
+<NE>กาญจนา แก้วเทพ</NE> 5
+<NE>กาตาร์</NE> 1
+<NE>กาฟีร์</NE> 1
+<NE>กามา อาลี</NE> 1
+<NE>กามารุสมัน</NE> 1
+<NE>การ 1
+<NE>การท่าเรือแห่งประเทศไทย</NE> 1
+<NE>การรถไฟฯ</NE> 1
+<NE>การาจี</NE> 3
+<NE>การิม กะรุบัง</NE> 1
+<NE>การิมฮัสซัน</NE> 1
+<NE>การไฟฟ้า</NE> 4
+<NE>การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย</NE> 2
+<NE>การไฟฟ้าฯ</NE> 1
+<NE>การ์เบรียล การ์เซีย มาร์เกซ</NE> 1
+<NE>กาเซ็ม</NE> 2
+<NE>กาโล</NE> 1
+<NE>กำธร เลี้ยงสัจธรรม</NE> 1
+<NE>กำนันอนันต์ ดวงแก้วเรือน</NE> 1
+<NE>กำพล จำปาพันธ์</NE> 5
+<NE>กำพล</NE> 1
+<NE>กำแพงเบอร์ลิน</NE> 1
+<NE>กิตติพงษ์ กิตยารักษ์</NE> 1
+<NE>กิลแมน</NE> 1
+<NE>กิ่งอำเภอกรงปีนัง</NE> 3
+<NE>กิ่งอำเภอบ้านแระ</NE> 1
+<NE>กิ่งอำเภอมลายูบางกอก</NE> 2
+<NE>กิ่งเทียน</NE> 1
+<NE>กุน กุน</NE> 1
+<NE>กุนธาตี รอย</NE> 1
+<NE>กุสุมา</NE> 1
+<NE>กุหลาบ สายประดิษฐ์</NE> 2
+<NE>กุแบ ยาลาห์</NE> 1
+<NE>กูร์แยร์</NE> 1
+<NE>ก้องสกล กวินรวีกุล</NE> 1
+<NE>ก๊กมินตั๋ง</NE> 1
+<NE>ขงจื้อ</NE> 3
+<NE>ขบวนการ 8
+<NE>ขบวนการ Earth First</NE> 1
+<NE>ขบวนการก่อการร้ายเจไอ</NE> 1
+<NE>ขบวนการจรยุทธ์เหมาอิสต์ทางสว่าง</NE> 1
+<NE>ขบวนการชาตินิยม</NE> 1
+<NE>ขบวนการซาปาติสตา</NE> 1
+<NE>ขบวนการดาวะห์</NE> 1
+<NE>ขบวนการปฏิวัติทูปัคอมารู</NE> 1
+<NE>ขบวนการปัตตานีอูลามา</NE> 1
+<NE>ขบวนการป่าชุมชน</NE> 3
+<NE>ขบวนการมูจาฮิดีน อิสลาม ปัตตานี</NE> 1
+<NE>ขบวนการมูจาฮีดีนปัตตานี</NE> 1
+<NE>ขบวนการยุวชน</NE> 1
+<NE>ขบวนการอนาธิปัตย์นิยมไทย</NE> 1
+<NE>ขบวนการเกษตรกรไร้ที่ดิน</NE> 1
+<NE>ขบวนการเคลื่อนไหวป่าชุมชน</NE> 1
+<NE>ขบวนการเจมาห์ อิสลามิยาห์</NE> 1
+<NE>ขบวนการเสรีไทย</NE> 1
+<NE>ขบวนการเอ็นจีโอ</NE> 1
+<NE>ขบวนการแนวร่วมปฏิวัติแห่งชาติมลายูปัตตานี</NE> 1
+<NE>ขบวนการแบ่งแยกดินแดน</NE> 1
+<NE>ขบวนการแบ่งแยกดินแดนจังหวัดชายแดนภาคใต้</NE> 1
+<NE>ขบวนการแบ่งแยกดินแดนภาคใต้</NE> 1
+<NE>ขวัญชีวัน บัวแดง</NE> 1
+<NE>ขอม</NE> 3
+<NE>ขุน 3
+<NE>ขุนทวยหาญพิทักษ์</NE> 1
+<NE>ค.ศ.</NE> 1
+<NE>คณะ 6
+<NE>คณะ กรรมการเพื่อโลกเสรี</NE> 1
+<NE>คณะกรรมการกฤษฎีกา</NE> 4
+<NE>คณะกรรมการการเลือกตั้ง</NE> 3
+<NE>คณะกรรมการชุมชนแออัดระดับชาติ</NE> 1
+<NE>คณะกรรมการตรวจเงินแผ่นดิน</NE> 1
+<NE>คณะกรรมการนโยบายการเสริมสร้างสันติสุขจังหวัดชายแดนภาคใต้</NE> 1
+<NE>คณะกรรมการนโยบายชุมชนแออัดแห่งชาติ</NE> 1
+<NE>คณะกรรมการนโยบายเสริมสร้างสันติสุขจังหวัดชายแดนภาคใต้</NE> 1
+<NE>คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ</NE> 1
+<NE>คณะกรรมการผู้ชำนาญการแห่ง สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม</NE> 1
+<NE>คณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ</NE> 1
+<NE>คณะกรรมการภาพยนตร์แห่งชาติออสเตรเลีย</NE> 1
+<NE>คณะกรรมการรณรงค์เพื่อการปฏิรูปสื่อ</NE> 1
+<NE>คณะกรรมการรณรงค์เพื่อประชาธิปไตย</NE> 1
+<NE>คณะกรรมการรอิสระเพื่อความสมานฉันท์แห่งชาติ</NE> 1
+<NE>คณะกรรมการราธกฤษณัน</NE> 3
+<NE>คณะกรรมการร่วมรัฐ-เอกชน</NE> 1
+<NE>คณะกรรมการสรรหาตุลาการศาลรัฐธรรมนูญ</NE> 2
+<NE>คณะกรรมการสิทธิทางเศรษฐกิจ สังคม และวัฒนธรรม</NE> 2
+<NE>คณะกรรมการสิทธิมนุษยชน</NE> 1
+<NE>คณะกรรมการสิทธิมนุษยชนสหประชาชาติ</NE> 3
+<NE>คณะกรรมการสิทธิมนุษยชนแห่งชาติ</NE> 9
+<NE>คณะกรรมการสิทธิมนุษยชนแห่งสหประชาชาติ</NE> 1
+<NE>คณะกรรมการสิ่งแวดล้อมแห่งชาติ</NE> 4
+<NE>คณะกรรมการส่งเสริมการจัดสวัสดิการสังคม</NE> 1
+<NE>คณะกรรมการส่งเสริมสวัสดิการสังคมแห่งชาติ</NE> 1
+<NE>คณะกรรมการอาหารและยา</NE> 1
+<NE>คณะกรรมการอำนวยการเสริมสร้างสันติสุขในจังหวัดชายแดนภาคใต้</NE> 1
+<NE>คณะกรรมการอิสระเพื่อการสมานฉันท์แห่งชาติ</NE> 2
+<NE>คณะกรรมการอิสระเพื่อความสมานฉันท์แห่งชาติ</NE> 12
+<NE>คณะกรรมการอิสระเพื่ออำนวยความยุติธรรมและส่งเสริมสิทธิและเสรีภาพใน3จังหวัดชายแดนภาคใต้</NE> 1
+<NE>คณะกรรมการเพื่อความสมานฉันท์แห่งชาติ</NE> 3
+<NE>คณะกรรมการเสริมสร้างสันติสุขจังหวัดชายแดนภาคใต้</NE> 1
+<NE>คณะกรรมาธิการราธกฤษณัน</NE> 3
+<NE>คณะกรรมาธิการร่วมสภาผู้แทนราษฎรและวุฒิสภาพิจารณาปรับปรุงร่างพระราชบัญญัติป่าชุมชน</NE> 1
+<NE>คณะกรรมาธิการสิทธิทางเศรษฐกิจ สังคม และวัฒนธรรม</NE> 1
+<NE>คณะกรรมาธิการสิทธิมนุษยชนแห่งชาติ</NE> 1
+<NE>คณะครุศาสตร์</NE> 1
+<NE>คณะคุรุศาสตร์</NE> 1
+<NE>คณะตุลาการรัฐธรรมนูญ</NE> 14
+<NE>คณะธุรกิจการเกษตร</NE> 1
+<NE>คณะนิติศาสตร์</NE> 13
+<NE>คณะปฏิรูปการปกครอง</NE> 1
+<NE>คณะปฏิรูปการปกครองฯ</NE> 1
+<NE>คณะปฏิรูปการปกครองแผ่นดิน</NE> 1
+<NE>คณะปฏิรูปการปกครองในระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข</NE> 2
+<NE>คณะปฏิรูปฯ</NE> 2
+<NE>คณะปฏิวัติ</NE> 2
+<NE>คณะมนตรีความมั่นคงแห่งสหประชาชาติ</NE> 1
+<NE>คณะมนุษยศาสตร์และสังคมศาสตร์</NE> 2
+<NE>คณะรักษาความสงบเรียบร้อยแห่งชาติ</NE> 1
+<NE>คณะรัฐประหาร</NE> 1
+<NE>คณะรัฐมนตรี</NE> 13
+<NE>คณะรัฐศาสตร์</NE> 26
+<NE>คณะราษฎร</NE> 35
+<NE>คณะราษฏร</NE> 4
+<NE>คณะวารสารศาสตร์และสื่อสารมวลชน</NE> 1
+<NE>คณะวิจิตรศิลป์</NE> 2
+<NE>คณะวิทยาการจัดการ</NE> 1
+<NE>คณะวิทยาศาสตร์</NE> 4
+<NE>คณะวิศวกรรมศาสตร์</NE> 1
+<NE>คณะศิลปศาสตร์</NE> 6
+<NE>คณะศิลปศาสตร์และวิทยาศาสตร์</NE> 1
+<NE>คณะสังคมศาสตร์</NE> 13
+<NE>คณะอนุกรรมการศึกษาวิธีการพัฒนาเพื่อความมั่นคงของมนุษย์</NE> 1
+<NE>คณะอนุกรรมการส่งเสริมความไว้วางใจความยุติธรรมและสิทธิมนุษยชน</NE> 1
+<NE>คณะอนุกรรมเพื่อความปรองดองและความสมานฉันท์ในพื้นที่</NE> 1
+<NE>คณะอักษรศาสตร์</NE> 1
+<NE>คณะเภสัชศาสตร์</NE> 1
+<NE>คณะเศรษฐศาสตร์</NE> 6
+<NE>คตส.</NE> 1
+<NE>คปค.</NE> 4
+<NE>คมสันต์ หุตะแพทย์</NE> 1
+<NE>ครป.</NE> 6
+<NE>ครอง จันดาวงศ์</NE> 1
+<NE>ครอว์เฟิร์ด</NE> 1
+<NE>คริสต้า รายนิก</NE> 1
+<NE>คริสโตเฟอร์ โคลัมบัส</NE> 1
+<NE>ครุสชอฟ</NE> 1
+<NE>ครู 7
+<NE>ครูเต็ง</NE> 3
+<NE>คลองบางกอกน้อย</NE> 1
+<NE>คลองเตย</NE> 2
+<NE>คลังวิทยา</NE> 2
+<NE>คลังสมองวิทยาลัยป้องกันราชอาณาจักร</NE> 1
+<NE>คล้าย</NE> 1
+<NE>ควง อภัยวงศ์</NE> 1
+<NE>คสจ.</NE> 1
+<NE>คองเกรส</NE> 1
+<NE>คอนนี่</NE> 5
+<NE>คอนราด แบล็ค</NE> 1
+<NE>คะมู</NE> 1
+<NE>คะเรนนี</NE> 1
+<NE>คานธี</NE> 2
+<NE>คานาดา</NE> 1
+<NE>คาบสมุทรบอลข่าน</NE> 1
+<NE>คาบสมุทรมลายา</NE> 4
+<NE>คาบสมุทรมาเลย์</NE> 2
+<NE>คาบสมุทรอัลบายัน</NE> 1
+<NE>คาบสมุทรอารเบีย</NE> 5
+<NE>คาร์ล มาร์กซ์</NE> 2
+<NE>คาร์ล ไฮยาซัน</NE> 1
+<NE>คาลลานิคอส</NE> 4
+<NE>คาลลินิคอส</NE> 4
+<NE>คำรณ คุณะดิลก</NE> 5
+<NE>คำรณ</NE> 1
+<NE>คำสิงห์ ศรีนอก</NE> 2
+<NE>คำสิงห์</NE> 1
+<NE>คิม แด จุง</NE> 1
+<NE>คิม</NE> 1
+<NE>คิวบา</NE> 5
+<NE>คีรา</NE> 3
+<NE>คึกฤทธิ์ ปราโมช</NE> 1
+<NE>คึกฤทธิ์</NE> 7
+<NE>คุกอินเส่ง</NE> 1
+<NE>คุกแพนอปติคอน</NE> 1
+<NE>คุณ 1
+<NE>คุณชวน</NE> 1
+<NE>คุณชาญชัย ลิขิตจิตถะ</NE> 1
+<NE>คุณตาชม แสนมิตร</NE> 1
+<NE>คุณทักษิณ</NE> 3
+<NE>คุณธานินทร์ กรัยวิเชียร</NE> 1
+<NE>คุณประยุทธ มหากิจศิริ</NE> 1
+<NE>คุณพุ่ม</NE> 1
+<NE>คุณภัควดี วีระภาสพงษ์</NE> 1
+<NE>คุณมีชัย ฤชุพันธุ์</NE> 1
+<NE>คุณมีชัย</NE> 4
+<NE>คุณสมชาย นิติกาญจนา</NE> 1
+<NE>คุณสมชาย</NE> 2
+<NE>คุณสมบุญ ศรีคำดอกแค</NE> 1
+<NE>คุณสุภัตรา ภูมิประภาส</NE> 2
+<NE>คุณสุเมธ ตันติเวชกุล</NE> 2
+<NE>คุณหญิงสมจินตนา</NE> 1
+<NE>คุณหมอรอซาลี</NE> 3
+<NE>คุณอรุณ ภาวิไล</NE> 1
+<NE>คุณอานันท์ ปันยารชุน</NE> 1
+<NE>คุณเฉลียว แก่นจันทร์</NE> 1
+<NE>คุณไพศาล พรหมยงค์</NE> 1
+<NE>คุณไพศาล</NE> 1
+<NE>คุรุสภา</NE> 1
+<NE>คูเวต</NE> 1
+<NE>ค่าย 6
+<NE>ค่ายกรมหลวงนราธิวาสราชนครินทร์</NE> 2
+<NE>ค่ายกองพันพัฒนา</NE> 2
+<NE>ค่ายนราธิวาสราชนครินทร์</NE> 1
+<NE>ค่ายนาวิกโยธิน</NE> 1
+<NE>ค่ายสิรินธร</NE> 1
+<NE>ค่ายอิงคยุทธ</NE> 1
+<NE>ค่ายอิงคยุทธบริหาร</NE> 2
+<NE>งาแซง</NE> 1
+<NE>จ.ตาก</NE> 1
+<NE>จ.นครพนม</NE> 1
+<NE>จ.นราธิวาส</NE> 3
+<NE>จ.ยะลา</NE> 2
+<NE>จ.สกลนคร</NE> 2
+<NE>จ.สงขลา</NE> 1
+<NE>จ.สุราษฎร์ธานี</NE> 1
+<NE>จ.อุบลราชธานี</NE> 1
+<NE>จ.เชียงใหม่</NE> 2
+<NE>จงเจริญการพิมพ์</NE> 1
+<NE>จปร.</NE> 2
+<NE>จองยะวา</NE> 1
+<NE>จอมพล 1
+<NE>จอมพล ป. พิบูลสงคราม</NE> 2
+<NE>จอมพล ป.</NE> 19
+<NE>จอมพล ป.พิบูลสงคราม</NE> 10
+<NE>จอมพล</NE> 4
+<NE>จอมพลถนอม กิตติขจร</NE> 3
+<NE>จอมพลถนอม</NE> 10
+<NE>จอมพลป.</NE> 1
+<NE>จอมพลประภาส จารุสเถียร</NE> 1
+<NE>จอมพลประภาส จารุเสถียร</NE> 1
+<NE>จอมพลประภาส</NE> 2
+<NE>จอมพลผิน ชุณหะวัณ</NE> 2
+<NE>จอมพลสฤทธิ์ ธนะรัชต์</NE> 1
+<NE>จอมพลสฤษฎิ์ ธนะรัชต์</NE> 2
+<NE>จอมพลสฤษดิ์ ธนะรัชต์</NE> 6
+<NE>จอมพลสฤษดิ์</NE> 13
+<NE>จอร์จ ดับเบิลยูบุช</NE> 1
+<NE>จอร์จ บุช</NE> 2
+<NE>จอร์ช เฮอร์เบิร์ต มี้ด</NE> 1
+<NE>จอร์แดน</NE> 2
+<NE>จอห์น ดิวอี้.</NE> 1
+<NE>จอห์น ดิวอี้</NE> 2
+<NE>จอห์น บอลตั้น</NE> 1
+<NE>จอห์น ฟอน นิวแมน</NE> 1
+<NE>จอห์น มิลตัน</NE> 1
+<NE>จอห์น รอลส์</NE> 1
+<NE>จอห์น ล็อก</NE> 1
+<NE>จอห์น ล็อค</NE> 1
+<NE>จอห์น โพดเฮอตซ์</NE> 1
+<NE>จอห์นอีเอ็มบรี</NE> 1
+<NE>จะนะ</NE> 1
+<NE>จะแนะ</NE> 1
+<NE>จักก์ แสงชัย</NE> 4
+<NE>จักรกฤษณ์ ควรพจน์</NE> 2
+<NE>จักรชัยโฉมทองดี</NE> 1
+<NE>จักรปราณีศรีศีลวิสุทธิ์</NE> 1
+<NE>จักรปาณีศรีศิลป์วิสุทธิ์,หลวง</NE> 1
+<NE>จักรปาณีศรีศีลวิสุทธิ์</NE> 2
+<NE>จักรปาณีศีลวิสุทธิ์</NE> 1
+<NE>จักรภพอังกฤษ</NE> 1
+<NE>จังหวัด 2
+<NE>จังหวัดกาญจนบุรี</NE> 3
+<NE>จังหวัดกาฬสินธุ์</NE> 1
+<NE>จังหวัดขอนแก่น</NE> 1
+<NE>จังหวัดคุมาโมโต</NE> 1
+<NE>จังหวัดชลบุรี</NE> 1
+<NE>จังหวัดนครปฐม</NE> 1
+<NE>จังหวัดนราธิวาส</NE> 12
+<NE>จังหวัดน่าน</NE> 3
+<NE>จังหวัดปทุมธานี</NE> 1
+<NE>จังหวัดปัตตานี</NE> 17
+<NE>จังหวัดพังงา</NE> 1
+<NE>จังหวัดภูเก็ต</NE> 1
+<NE>จังหวัดมุกดาหาร</NE> 1
+<NE>จังหวัดยะลา</NE> 17
+<NE>จังหวัดร้อยเอ็ด</NE> 1
+<NE>จังหวัดลพบุรี</NE> 1
+<NE>จังหวัดลำพูน</NE> 8
+<NE>จังหวัดสงขลา</NE> 11
+<NE>จังหวัดอุทัยธานี</NE> 1
+<NE>จังหวัดอุบลราชธานี</NE> 1
+<NE>จังหวัดอ่างทอง</NE> 1
+<NE>จังหวัดเชียงราย</NE> 2
+<NE>จังหวัดเชียงใหม่</NE> 9
+<NE>จังหวัดแม่ฮ่องสอน</NE> 2
+<NE>จันทรเลขา</NE> 1
+<NE>จันเสน</NE> 1
+<NE>จาการ์ต้า</NE> 1
+<NE>จาตุรนต์ ฉายแสง</NE> 1
+<NE>จาตุรนต์</NE> 1
+<NE>จารุวรรณ</NE> 2
+<NE>จาเร็ด ไดมอนด์</NE> 1
+<NE>จำนง วัฒนาเกส</NE> 1
+<NE>จำลอง ดาวเรือง</NE> 2
+<NE>จำลอง สวัสดิ-ชูโต</NE> 1
+<NE>จิณณ์นภัส แสงมา</NE> 3
+<NE>จิตร ภูมิศักดิ์</NE> 10
+<NE>จิตร</NE> 1
+<NE>จิรภักดิ์ จอมวิญญาน</NE> 1
+<NE>จิระนันท์ พิตรปรีชา</NE> 1
+<NE>จิระนันท์</NE> 1
+<NE>จิโอวานนี่ อาริกคี่</NE> 1
+<NE>จีน</NE> 57
+<NE>จีเอ็มพี</NE> 1
+<NE>จีเอ็มไอพี</NE> 2
+<NE>จีไอ</NE> 1
+<NE>จุฑารัตน์ เอื้ออำนวย</NE> 1
+<NE>จุฬากรณ์ มาเสถียรวงศ์</NE> 1
+<NE>จุฬาลงกรณมหาวิทยาลัย</NE> 1
+<NE>จุฬาลงกรณ์มหาวิทยาลัย</NE> 22
+<NE>จุฬาฯ</NE> 8
+<NE>จูม พันธุโร</NE> 1
+<NE>จูเต๋อ</NE> 1
+<NE>จูเลียส เฮนเซล</NE> 1
+<NE>จูเลียสซีซาร์</NE> 2
+<NE>ฉัตรทิพย์ นาถสุภา</NE> 4
+<NE>ฉัตรทิพย์</NE> 4
+<NE>ฉ่างตี่</NE> 1
+<NE>ชนะสงคราม</NE> 1
+<NE>ชนิดา ชิตบัณฑิตย์</NE> 1
+<NE>ชนิดา</NE> 1
+<NE>ชนินทร์ ติชาวัน</NE> 1
+<NE>ชมรมคริสเตียนเพื่อการพัฒนาในประเทศไทย</NE> 1
+<NE>ชมรมคุ้มครองผู้บริโภคหรือกลุ่มเกษตรอินทรีย์</NE> 1
+<NE>ชมรมหนังสือบัวแดง</NE> 3
+<NE>ชมรมแพทย์ชนบท</NE> 1
+<NE>ชมรมโดมทักษิณ</NE> 1
+<NE>ชยันต์ วรรธนะภูติ</NE> 2
+<NE>ชยันต์</NE> 3
+<NE>ชรบ.</NE> 5
+<NE>ชลประทาน</NE> 1
+<NE>ชลิดา ทาเจริญศักดิ์</NE> 1
+<NE>ชวน</NE> 1
+<NE>ชวลิต</NE> 1
+<NE>ชองเอลิเซ่</NE> 2
+<NE>ชอย กิว ฮา</NE> 1
+<NE>ชัชรินทร์ ไชยวัฒน์</NE> 1
+<NE>ชัชวาล ปุญปัน</NE> 3
+<NE>ชัยวัฒน์ คุประตกุล</NE> 1
+<NE>ชัยวัฒน์ สถาอานันท์</NE> 2
+<NE>ชัยวัฒน์</NE> 1
+<NE>ชัยสิทธิ์</NE> 1
+<NE>ชัยอนันต์ สมุทวณิช.</NE> 1
+<NE>ชัยอนันต์ สมุทวณิช</NE> 2
+<NE>ชัยอนันต์ สมุทวนิช</NE> 1
+<NE>ชาญวิทย์ เกษตรศิริ</NE> 4
+<NE>ชาญวิทย์</NE> 1
+<NE>ชาติ กอบจิตติ</NE> 1
+<NE>ชาติมุสลิม</NE> 1
+<NE>ชาติไทย</NE> 21
+<NE>ชาย พรหมวิชัย</NE> 1
+<NE>ชารคส์ แดริดา</NE> 1
+<NE>ชารอม อาหมัด</NE> 1
+<NE>ชาร์ลศ์ คูลีย์</NE> 1
+<NE>ชาร์ลส์ ดาร์วิน</NE> 2
+<NE>ชาร์ลส์ บูคาวสกี้</NE> 1
+<NE>ชาลส์ ดิคเกนส์</NE> 1
+<NE>ชาเวกุน</NE> 1
+<NE>ชำนาญ จันทร์เรือง</NE> 9
+<NE>ชิดชนก ราฮิมมูลา</NE> 3
+<NE>ชิต สิงหเสนี</NE> 1
+<NE>ชิต</NE> 1
+<NE>ชินคอป</NE> 1
+<NE>ชินวัตร</NE> 3
+<NE>ชิลี</NE> 7
+<NE>ชิเกฮารุ ทานาเบ้</NE> 1
+<NE>ชิโนบุ</NE> 2
+<NE>ชี</NE> 1
+<NE>ชุน ดู ฮวาน</NE> 5
+<NE>ชุมชนคนรักป่า</NE> 1
+<NE>ชุมชนซำผักหนาม</NE> 1
+<NE>ชุมชนบ้านหนองขาว</NE> 12
+<NE>ชุมชนป่าภูสีฐาน</NE> 1
+<NE>ชุมชนสะเอียบ</NE> 1
+<NE>ชุมชนหนองขาว</NE> 1
+<NE>ชุมชนหลังโรงแรมรัตนโกสินทร์</NE> 1
+<NE>ชุมชนโนนป่าก่อ</NE> 8
+<NE>ชุมนุมการละคอน</NE> 1
+<NE>ชุมนุมวรรณศิลป์</NE> 1
+<NE>ชุมนุมแม่บ้าน</NE> 1
+<NE>ชูศักดิ์ วิทยาภัค</NE> 1
+<NE>ซดราฟโก มลินาร์</NE> 1
+<NE>ซล</NE> 3
+<NE>ซอง กุน โฮ</NE> 2
+<NE>ซอยราชครู</NE> 1
+<NE>ซัดดัม ฮุสเซน</NE> 2
+<NE>ซัดดัม ฮุสเซ็น</NE> 1
+<NE>ซัลมาน</NE> 1
+<NE>ซาบาร์</NE> 2
+<NE>ซาปาติสตา</NE> 1
+<NE>ซาราวัก</NE> 1
+<NE>ซาราวัค</NE> 8
+<NE>ซาร์โคซี่</NE> 1
+<NE>ซาลาฟี</NE> 2
+<NE>ซาลี ตาเลาะ บุยอ</NE> 1
+<NE>ซาอุด อัล-ไฟซาล</NE> 1
+<NE>ซาอุดิอาระเบีย</NE> 3
+<NE>ซาอุดิอารเบีย</NE> 1
+<NE>ซาอุดีอาระเบีย</NE> 2
+<NE>ซาโลมอ</NE> 1
+<NE>ซาไก</NE> 1
+<NE>ซิกมันด์ ฟรอยด์</NE> 1
+<NE>ซิกมันต์ ฟรอยด์</NE> 1
+<NE>ซิตี้กรุ๊ป</NE> 1
+<NE>ซิมลา</NE> 2
+<NE>ซิลเวีย โบเวนเช่น</NE> 1
+<NE>ซิเซค</NE> 2
+<NE>ซิเซโร</NE> 1
+<NE>ซีเรีย</NE> 3
+<NE>ซีแอตเติล</NE> 1
+<NE>ซุนจื้อ</NE> 2
+<NE>ซุลกิฟลิปานาวา</NE> 1
+<NE>ซูจี</NE> 31
+<NE>ซูซาน สเตรนจ์</NE> 1
+<NE>ซูดาน</NE> 1
+<NE>ซูดีรือมัน มาและ</NE> 1
+<NE>ซูฟรี</NE> 1
+<NE>ซูฟี</NE> 1
+<NE>ซูฮาร์โต</NE> 1
+<NE>ซูฮาโต้</NE> 1
+<NE>ซูเราะห์</NE> 1
+<NE>ซูโซะ</NE> 2
+<NE>ซูโซ๊ะ</NE> 1
+<NE>ฌอง แบบติส ลามาค</NE> 1
+<NE>ฌากส์ ลากอง</NE> 3
+<NE>ฌาปนสถานกองทัพบก</NE> 2
+<NE>ฌิโอโน</NE> 1
+<NE>ฌ็อง ฌิโอโน</NE> 1
+<NE>ญวน</NE> 4
+<NE>ญิบรีล</NE> 1
+<NE>ญี่ปุ่น</NE> 68
+<NE>ณรงค์ คำอ่อง</NE> 1
+<NE>ณัฐพงศ์ บุญเหลือ</NE> 2
+<NE>ดนัย</NE> 2
+<NE>ดร. อักขราทร จุฬารัตน</NE> 1
+<NE>ดร. เกษียร เตชะพีระ</NE> 1
+<NE>ดร.ทวีวัฒน์ ปุณฑริกวิวัฒน์</NE> 1
+<NE>ดร.นิพนธ์ ศศิธร</NE> 1
+<NE>ดร.ประกอบ หุตะสิงห์</NE> 1
+<NE>ดร.ประกอบ</NE> 1
+<NE>ดร.ประมวล เพ็งจันทร์</NE> 3
+<NE>ดร.ปรีดี เกษมทรัพย์</NE> 1
+<NE>ดร.ปิ่นแก้ว เหลืองอร่ามศรี</NE> 1
+<NE>ดร.ป๋วย อึ๊งภากรณ์</NE> 1
+<NE>ดร.ฟาเดห์</NE> 1
+<NE>ดร.มหาธีร์ โมฮัมหมัด</NE> 1
+<NE>ดร.มาร์ตินลูเธอร์คิงจูเนียร์</NE> 2
+<NE>ดร.ราธกฤษณัน</NE> 3
+<NE>ดร.ลุตฟี</NE> 2
+<NE>ดร.วรพจน์ วิศรุตพิชญ์</NE> 1
+<NE>ดร.วรวิทย์ เจริญเลิศ</NE> 1
+<NE>ดร.วรเจตน์</NE> 1
+<NE>ดร.วัน กาเดร์ เจ๊ะมาน</NE> 1
+<NE>ดร.วัน</NE> 1
+<NE>ดร.สมศักดิ์ เจียมธีรสกุล</NE> 2
+<NE>ดร.สุกรี หลังปูเต๊ะ</NE> 1
+<NE>ดร.สุนทรียา เหมือนพะวงศ์</NE> 1
+<NE>ดร.อมรวิชช์ นาครทรรพ</NE> 2
+<NE>ดร.ฮาราดะ</NE> 1
+<NE>ดร.ฮาราดะมาซาซูมิ</NE> 1
+<NE>ดร.เดชรัต สุขกำเนิด</NE> 1
+<NE>ดร.แพทริค โจรี</NE> 2
+<NE>ดร.แพทริค โจรี่</NE> 1
+<NE>ดร.แพทริค</NE> 3
+<NE>ดร.โอภาส ปัญญา</NE> 1
+<NE>ดลกอเด เจ๊ะเฮาะ</NE> 1
+<NE>ดวงจันทร์ อาภาวัชรุตม์ เจริญเมือง</NE> 2
+<NE>ดวงจันทร์ อาภาวัชรุตม์</NE> 1
+<NE>ดวงจันทร์</NE> 1
+<NE>ดอกหญ้า</NE> 1
+<NE>ดอน ปาทาน</NE> 2
+<NE>ดอน</NE> 3
+<NE>ดอฟ ซาไคม์</NE> 2
+<NE>ดอยเชียงดาว</NE> 1
+<NE>ดอรีส</NE> 1
+<NE>ดอร์กิน</NE> 1
+<NE>ดอว์ ขิ่นจี</NE> 1
+<NE>ดอว์ลาน</NE> 1
+<NE>ดามัสกัส</NE> 1
+<NE>ดาร์ริดา</NE> 1
+<NE>ดาร์วิน</NE> 1
+<NE>ดาโต๊ะ</NE> 1
+<NE>ดำรงการพิมพ์</NE> 1
+<NE>ดำรงราชานุภาพ, สมเด็จฯ กรมพระยา</NE> 1
+<NE>ดำรงราชานุภาพ</NE> 1
+<NE>ดำแดงปริทัศน์</NE> 1
+<NE>ดิวอี้</NE> 2
+<NE>ดุซงญอ</NE> 1
+<NE>ดุษณ์ดาว เลิศพิพัฒน์</NE> 2
+<NE>ดูปลาตร์</NE> 1
+<NE>ดูแลรักษา</NE> 1
+<NE>ตชด.</NE> 1
+<NE>ตติกานต์ อุดกันทา</NE> 1
+<NE>ตท.</NE> 1
+<NE>ตนกู อับดุล การเดร์</NE> 1
+<NE>ตนกู อับดุล กาเดร์</NE> 1
+<NE>ตนกูบีรอ กอตอนีลอ</NE> 2
+<NE>ตนกูบีรอ</NE> 1
+<NE>ตนกูมะไฮยิดดิน</NE> 2
+<NE>ตนกูยะลา นาเซะ</NE> 1
+<NE>ตนกูไมยิดดิน</NE> 1
+<NE>ตร.ภูธร</NE> 1
+<NE>ตรังกานู</NE> 2
+<NE>ตลาดจัตุจักร</NE> 1
+<NE>ตลาดสะบ้าย้อย</NE> 1
+<NE>ตอเล๊ะ ดีสะเอะ</NE> 1
+<NE>ตอเล๊าะ ดีสะเอะ</NE> 1
+<NE>ตะนาวศรี</NE> 1
+<NE>ตะวันตก</NE> 14
+<NE>ตะวันออกกลาง</NE> 10
+<NE>ตังเกี๋ย</NE> 1
+<NE>ตันหยงมัส</NE> 1
+<NE>ตันหยงลิมอ</NE> 6
+<NE>ตาก</NE> 1
+<NE>ตากใบ</NE> 26
+<NE>ตาจิคสถาน</NE> 1
+<NE>ตำบลตันหยงลิมอ</NE> 4
+<NE>ตำบลธารคีรี</NE> 1
+<NE>ตำบลบางเขา</NE> 1
+<NE>ตำบลบ้านนอก</NE> 2
+<NE>ตำบลพุมเรียง</NE> 1
+<NE>ตำบลมาโย</NE> 1
+<NE>ตำบลม่วงเตี้ย</NE> 1
+<NE>ตำบลยุโป</NE> 1
+<NE>ตำบลศาลายา</NE> 1
+<NE>ตำบลสะแกกรัง</NE> 1
+<NE>ตำบลหน้าถ้ำ</NE> 1
+<NE>ตำบลหินกรูด</NE> 1
+<NE>ตำบลอัยเยอร์เวง</NE> 1
+<NE>ตำรวจภูธร</NE> 2
+<NE>ติมอร์ตะวันออก</NE> 1
+<NE>ตึกสันติไมตรี</NE> 1
+<NE>ตึกเศรษฐศาสตร์</NE> 1
+<NE>ตึกโดม</NE> 1
+<NE>ตุนกู วาราดาราจัน</NE> 1
+<NE>ตูนิเซีย</NE> 2
+<NE>ต่างประเทศ</NE> 3
+<NE>ถ.พระราม 9</NE> 1
+<NE>ถนน 1
+<NE>ถนนข้าวสาร</NE> 1
+<NE>ถนนจุติบุญสูงอนุสรณ์</NE> 1
+<NE>ถนนตะนาว</NE> 1
+<NE>ถนนราชดำเนิน</NE> 15
+<NE>ถนนราชดำเนินกลาง</NE> 2
+<NE>ถนนสุขุมวิท</NE> 1
+<NE>ถนนอูดูบอน</NE> 1
+<NE>ถนอม</NE> 1
+<NE>ถล่มทลาย</NE> 1
+<NE>ถ้ำกลองเพล</NE> 1
+<NE>ถ้ำขาม พรรณานิคม</NE> 1
+<NE>ถ้ำผาปู่ นาอ้อ</NE> 1
+<NE>ถ้ำสาริกา</NE> 1
+<NE>ถ้ำฮิรออฺ</NE> 1
+<NE>ถ้ำเชียงดาว</NE> 1
+<NE>ท.ท.ท.</NE> 2
+<NE>ท.พ.ร.</NE> 1
+<NE>ททท.</NE> 1
+<NE>ทนง ศรัทธาทิพย์</NE> 1
+<NE>ทนายความสมชาย นีละไพจิตร</NE> 3
+<NE>ทนายความสมชาย</NE> 6
+<NE>ทนายสมชาย</NE> 1
+<NE>ทบวงมหาวิทยาลัย</NE> 7
+<NE>ทภ.๔</NE> 1
+<NE>ทมิฬนาฑู</NE> 1
+<NE>ทรท.</NE> 1
+<NE>ทร๊อทสกี้</NE> 2
+<NE>ทวาย</NE> 1
+<NE>ทวี กสิยพงศ์</NE> 3
+<NE>ทวี เกตะวันดี</NE> 1
+<NE>ทวี</NE> 4
+<NE>ทวีป วรดิลก</NE> 1
+<NE>ทวีปยุโรป</NE> 1
+<NE>ทวีปละตินอเมริกา</NE> 3
+<NE>ทวีปออสเตรเลีย</NE> 1
+<NE>ทวีปอเมริกา</NE> 2
+<NE>ทวีปอเมริกาเหนือ</NE> 1
+<NE>ทวีปอเมริกาใต้</NE> 1
+<NE>ทวีปเอเชีย</NE> 2
+<NE>ทวีปแอฟริกา</NE> 1
+<NE>ทวีศักดิ์ เผือกสม</NE> 2
+<NE>ทวีเกียรติ มีนะกนิษฐ์</NE> 2
+<NE>ทศพล ทรรศนกุลพันธ์</NE> 1
+<NE>ทองเปลว ชลภูมิ</NE> 1
+<NE>ทอท.</NE> 2
+<NE>ทอม สแตนเดจ</NE> 1
+<NE>ทะเลจีนใต้</NE> 1
+<NE>ทะเลชิรานุย</NE> 2
+<NE>ทะเลสาบอินยา</NE> 1
+<NE>ทะเลอาระเบียน</NE> 1
+<NE>ทะเลแดง</NE> 1
+<NE>ทะไล ลามะ</NE> 1
+<NE>ทักษิณ ชินวัตร</NE> 7
+<NE>ทักษิณ</NE> 51
+<NE>ทักษ์ เฉลิมเตียรณ</NE> 1
+<NE>ทัชมาฮาล</NE> 1
+<NE>ทานาเบ้</NE> 2
+<NE>ทาเยทจอง</NE> 1
+<NE>ทำเนียบขาว</NE> 1
+<NE>ทิพวรรณ ประภามณฑล</NE> 2
+<NE>ทิพวรรณ</NE> 1
+<NE>ทีอา</NE> 2
+<NE>ที่ประชุมอธิการบดีแห่งประเทศไทย</NE> 1
+<NE>ที่ราบลุ่มสินธุ</NE> 1
+<NE>ที่ว่าการอำเภอตะคอก</NE> 1
+<NE>ทุ่ง 1
+<NE>ท่า 1
+<NE>ท่าน 8
+<NE>ท่านนบี</NE> 4
+<NE>ท่านนบีมูฮัมมัด</NE> 1
+<NE>ท่านนายกรัฐมนตรีทักษิณ ชินวัตร</NE> 1
+<NE>ท่านบัณฑิตยวาหระ ลาล เนห์รู</NE> 1
+<NE>ท่านพระอาจารย์มั่น</NE> 2
+<NE>ท่านมหาตมะคานธี</NE> 1
+<NE>ท่านม้าว เทวธัมมี</NE> 1
+<NE>ท่านศาสดามุฮัมมัด</NE> 1
+<NE>ท่านสวามี</NE> 1
+<NE>ท่านอะบูฏอลิบ</NE> 1
+<NE>ท่านเจ้าคุณอุบาลีคุณูปมาจารย์</NE> 1
+<NE>ท่านเสถียรโกเศศ</NE> 1
+<NE>ท่าพระอาทิตย์</NE> 1
+<NE>ท่าอากาศยานนานาชาติ"คิงเคาน์ตี้</NE> 1
+<NE>ท้องสนามหลวง</NE> 1
+<NE>ธกส.</NE> 1
+<NE>ธงชัย วินิจจะกูล</NE> 7
+<NE>ธงชัย</NE> 3
+<NE>ธงทอง จันทรางศุ</NE> 2
+<NE>ธนบุรี</NE> 1
+<NE>ธนาคารกรุงเทพ</NE> 1
+<NE>ธนาคารพัฒนาเอเชีย</NE> 2
+<NE>ธนาคารเชื้อพันธุ์</NE> 3
+<NE>ธนาคารโลก</NE> 5
+<NE>ธนิต ธนะกุลมาส</NE> 1
+<NE>ธนโชค</NE> 1
+<NE>ธรรมปิฎก.พระ</NE> 1
+<NE>ธรรมศาสตร์</NE> 18
+<NE>ธรรมศาสตร์ท่าพระจันทร์</NE> 1
+<NE>ธรรมสาร</NE> 1
+<NE>ธัญญา ผลอนันต์</NE> 1
+<NE>ธัญญา</NE> 1
+<NE>ธันวา ใจเที่ยง</NE> 3
+<NE>ธานินทร์ กรัยวิเชียร</NE> 2
+<NE>ธานินทร์</NE> 5
+<NE>ธารโต</NE> 2
+<NE>ธาวิต สุขพานิช</NE> 1
+<NE>ธำรงศักดิ์</NE> 1
+<NE>ธีรยุทธ บุญมี</NE> 4
+<NE>ธีรยุทธ</NE> 8
+<NE>ธีระ สุธีวรางกูร</NE> 1
+<NE>ธเนศ วงศ์ยานนาวา</NE> 1
+<NE>น.</NE> 1
+<NE>น.พ.ศุภสิทธิ์ พรรณารุโณทัย</NE> 1
+<NE>น.อ.ไตรขวัญ ไกรฤกษ์</NE> 1
+<NE>นคร 2
+<NE>นครนิวยอร์ก</NE> 1
+<NE>นครนิวยอร์ค</NE> 1
+<NE>นครปฐม</NE> 6
+<NE>นครพนม</NE> 1
+<NE>นครมดีนะหฺ</NE> 1
+<NE>นครมักกะฮ์</NE> 1
+<NE>นครยัธริบ</NE> 2
+<NE>นครรัฐวาติกัน</NE> 1
+<NE>นครราชสีมา</NE> 1
+<NE>นครลำพูน</NE> 1
+<NE>นครวัด</NE> 1
+<NE>นครศรีธรรมราช</NE> 3
+<NE>นครินทร์ เมฆไตรรัตน์</NE> 4
+<NE>นครินทร์</NE> 1
+<NE>นครเจนีวา</NE> 2
+<NE>นครเชียงใหม่</NE> 1
+<NE>นครเมกกะ</NE> 4
+<NE>นครเมกกะห์</NE> 1
+<NE>นนทบุรี</NE> 1
+<NE>นบีมุฮัมมัด</NE> 1
+<NE>นปพ.</NE> 1
+<NE>นพ.ประเวศ วะสี</NE> 2
+<NE>นพ.ประเวศ</NE> 1
+<NE>นพ.แวมะหะดี</NE> 1
+<NE>นพ.แวมะหะดีและมัยซูรุ</NE> 1
+<NE>นภาพร หงษ์ทอง</NE> 1
+<NE>นรนิติเศรษฐบุตร</NE> 1
+<NE>นราธิวาส</NE> 44
+<NE>นรินทร์กลึง</NE> 1
+<NE>นวพล</NE> 10
+<NE>นวลน้อยตรีรัตน์</NE> 1
+<NE>นศ.</NE> 1
+<NE>นอร์แมน โพดเฮอตซ์</NE> 2
+<NE>นะซอรี</NE> 1
+<NE>นะแซ สานิง</NE> 1
+<NE>นะแซ แสนิง</NE> 1
+<NE>นะโซรี เซะเซ็ง</NE> 1
+<NE>นักโทษเด็ดขาดชาย<ชด พุ่มไหว</NE> 1
+<NE>นักโทษเด็ดขาดชายชด พุ่มไสว</NE> 1
+<NE>นักโทษเด็ดขาดชายชด พุ่มไหว</NE> 1
+<NE>นัญญาชี</NE> 1
+<NE>นัทมน คงเจริญ</NE> 1
+<NE>นันทน อินทนนท์</NE> 2
+<NE>นัยนา หงษ์ทองคำ</NE> 1
+<NE>นาง 2
+<NE>นาง ลินน์ เชนีย์</NE> 1
+<NE>นางค็อดีญะหฺ</NE> 1
+<NE>นางซูจี</NE> 1
+<NE>นางซูซานา ฮิกูชิ</NE> 1
+<NE>นางธิดารัชต์ ไกรประสิทธิ์</NE> 1
+<NE>นางนพมาศ</NE> 1
+<NE>นางวิคตอเรีย นูลันด์</NE> 1
+<NE>นางสาแลฮะ มะรานอ</NE> 1
+<NE>นางออง ซาน ซู จี</NE> 1
+<NE>นางออง ซาน ซูจี</NE> 2
+<NE>นางเจียงชิง</NE> 1
+<NE>นางโสพรรณ มานะธัญญา</NE> 1
+<NE>นาซี</NE> 2
+<NE>นาธาน เกลเซอร์</NE> 1
+<NE>นาบู</NE> 2
+<NE>นาย 26
+<NE>นาย Eric Eldred</NE> 1
+<NE>นาย Mark Fabiani</NE> 1
+<NE>นาย จอห์น แอชครอฟท์</NE> 1
+<NE>นาย ยามาโต้</NE> 1
+<NE>นาย แพ็ต บูชานัน</NE> 1
+<NE>นายก.</NE> 1
+<NE>นายกรัฐมนตรี เกอฮาร์ด สโครเดอร์</NE> 1
+<NE>นายกรัฐมนตรีดาโต๊ะซรีอับดุลเลาะห์อาหมัดบาดาวี</NE> 1
+<NE>นายกรัฐมนตรีทักษิณ ชินวัตร</NE> 1
+<NE>นายกรัฐมนตรีมหาเธร์ โมฮัมมัด</NE> 1
+<NE>นายกรัฐมนตรีมหาเธร์</NE> 2
+<NE>นายกรัฐมนตรีอูนุ</NE> 1
+<NE>นายกฯ ทักษิณ</NE> 1
+<NE>นายกฯชวลิต</NE> 1
+<NE>นายกฯทักษิณ</NE> 3
+<NE>นายกฯบาดาวี</NE> 1
+<NE>นายควง อภัยวงศ์</NE> 2
+<NE>นายคำสิงห์ ศรีนอก</NE> 1
+<NE>นายคิว</NE> 2
+<NE>นายจอบิ</NE> 1
+<NE>นายจอห์น สโนว์</NE> 1
+<NE>นายจาตุรนต์</NE> 1
+<NE>นายจำลอง ดาวเรือง</NE> 1
+<NE>นายจิตรเสน(หมิว)อภัยวงศ์</NE> 1
+<NE>นายจุนอิชิโร โคอิซูมิ</NE> 1
+<NE>นายชวน หลีกภัย</NE> 1
+<NE>นายชาเวส</NE> 1
+<NE>นายชำนาญ จันทร์เรือง</NE> 2
+<NE>นายดำเพชรเทศ</NE> 1
+<NE>นายดํารง ลัทธพิพัฒน์</NE> 1
+<NE>นายทวี บุญยเกตุ</NE> 1
+<NE>นายธานินทร์ กรัยวิเชียร</NE> 1
+<NE>นายธานินทร์</NE> 2
+<NE>นายนาวาตรีหลวงสินธุสงครามชัย</NE> 1
+<NE>นายบูชานัน</NE> 1
+<NE>นายปรีดี พนมยงค์</NE> 8
+<NE>นายปรีดี</NE> 1
+<NE>นายปิยะ กิจถาวร</NE> 1
+<NE>นายผลโคนพิทักษ์</NE> 1
+<NE>นายพงษ์เจริญ ส่งศิริ</NE> 1
+<NE>นายพล ออง ซาน</NE> 1
+<NE>นายพลปิโนเชต์</NE> 1
+<NE>นายพลหลินเปียว</NE> 1
+<NE>นายพลออง ซาน</NE> 2
+<NE>นายพลอองซาน</NE> 5
+<NE>นายพลเนวิน</NE> 5
+<NE>นายพันเอกพระยาพหลพลพยุหเสนา</NE> 1
+<NE>นายมะสุกรี</NE> 1
+<NE>นายมังกร สามเสน</NE> 1
+<NE>นายมัยสุรุ หะยีอับดุลเลาะ</NE> 1
+<NE>นายมานิต วสุวัติ</NE> 1
+<NE>นายยงยุทธ ติยะไพรัช</NE> 1
+<NE>นายยามาโต้</NE> 2
+<NE>นายริดวน อิสซามุดดิน</NE> 1
+<NE>นายวลาดิมิโร มอนเตสิโนส</NE> 1
+<NE>นายวัชรพันธุ์ จันทรขจร</NE> 2
+<NE>นายวัฒนา</NE> 1
+<NE>นายศุภชัย พาณิชภักดิ์</NE> 1
+<NE>นายศุภชัย</NE> 3
+<NE>นายสงัด ไกรแก้ว</NE> 1
+<NE>นายสงัด</NE> 1
+<NE>นายสจ๊วต มีแซม</NE> 1
+<NE>นายสตีเวนส์</NE> 1
+<NE>นายสมควรสีชัย</NE> 1
+<NE>นายสมชาย หอมลออ</NE> 1
+<NE>นายสมชาย</NE> 3
+<NE>นายสมบัติ หนูพัน</NE> 1
+<NE>นายสมบุญ</NE> 1
+<NE>นายสมัคร สุนทรเวช</NE> 1
+<NE>นายสมัคร</NE> 3
+<NE>นายสมาน แวกะจิ</NE> 1
+<NE>นายสมาน</NE> 1
+<NE>นายสัญญา ธรรมศักดิ์</NE> 1
+<NE>นายสารภู หยงมะเกะ</NE> 1
+<NE>นายสุธรรม</NE> 1
+<NE>นายสุรินทร์ มาศดิตถ์</NE> 1
+<NE>นายสุวิทย์ คุณกิตติ</NE> 1
+<NE>นายองคุลีมาล</NE> 2
+<NE>นายอดุลย์ ณ สายบุรี</NE> 1
+<NE>นายอนันต์ ดวงแก้วเรือน</NE> 1
+<NE>นายอภินันท์</NE> 1
+<NE>นายอันเดรส มานูเอล โลเปซ โอบราดอร์</NE> 1
+<NE>นายอับดุลรอนิง เจ๊ะเลาะ</NE> 1
+<NE>นายอานันท์ ปันยารชุน</NE> 2
+<NE>นายอาสมี</NE> 1
+<NE>นายอาหมัด โต๊ะมีนา</NE> 1
+<NE>นายอำนาจ</NE> 1
+<NE>นายอูซามะ บินลาเดน</NE> 1
+<NE>นายฮวนโดมิงโกเปรอน</NE> 1
+<NE>นายฮัมซะ ซาอุด</NE> 1
+<NE>นายฮัมบาลี</NE> 2
+<NE>นายฮ้อย</NE> 1
+<NE>นายเจ สจ๊วต</NE> 1
+<NE>นายเจือ เพ็ญภาคกุล</NE> 1
+<NE>นายเจ๊ะอับดุลลา หลังปูเต๊ะ</NE> 1
+<NE>นายเจ๊ะเด็น อนันทบริพงศ์</NE> 1
+<NE>นายเตียง ศิริขันธ์</NE> 1
+<NE>นายเรมอนต์ บี สตีเวนส์</NE> 1
+<NE>นายเล็ก</NE> 1
+<NE>นายเสนอ จันทรา</NE> 1
+<NE>นายเออนันโด เดอโซโต</NE> 1
+<NE>นายเฮอร์ถอก</NE> 1
+<NE>นายเฮอร์นันโด เดอโซโต</NE> 1
+<NE>นายแก้วสรร อติโพธิ</NE> 1
+<NE>นายแก้วสรร</NE> 1
+<NE>นายแดง</NE> 5
+<NE>นายแพทย์แวมาหะดี แวดาโอ๊ะ</NE> 1
+<NE>นายโตกิจิ มาเซา</NE> 1
+<NE>นายโทนี่ แบลร์</NE> 1
+<NE>นายโมราเลส</NE> 2
+<NE>นายไขแสง สุกใส</NE> 1
+<NE>นายไมค์ มัวร์</NE> 1
+<NE>นาวัล เอ็ล ซัดดาวี</NE> 1
+<NE>นาวาตรีคำธร</NE> 1
+<NE>นาวาเอกวินัย นาคะบุตร</NE> 1
+<NE>นาวาเอกวินัย</NE> 1
+<NE>นาโต</NE> 1
+<NE>นาโอมิ ไคลน์</NE> 1
+<NE>นิกายสุหนี่</NE> 1
+<NE>นิค อับดุล อาซิส นิค หมัด</NE> 2
+<NE>นิคม 1
+<NE>นิคมอุตสาหกรรมมาบตาพุด</NE> 1
+<NE>นิด้า</NE> 1
+<NE>นิทเช่</NE> 4
+<NE>นิธิ เอียวศรีวงศ์</NE> 12
+<NE>นิธิ</NE> 4
+<NE>นิพนธ์ นราพิทักษ์กุล</NE> 1
+<NE>นิมะ นาเย็ค</NE> 2
+<NE>นิยม รักษาขันธ์</NE> 2
+<NE>นิลุบล ชัยอิทธิพรวงศ์</NE> 1
+<NE>นิวซีแลนด์</NE> 4
+<NE>นิวตัน</NE> 1
+<NE>นิวพูโล</NE> 2
+<NE>นิวยอร์ก</NE> 8
+<NE>นิวยอร์ค</NE> 2
+<NE>นิวเยอร์ค</NE> 1
+<NE>นิวแมน</NE> 1
+<NE>นิษฐา หรุ่นเกษม</NE> 2
+<NE>นิสิตจุฬาฯ</NE> 1
+<NE>นิเลาะ โตนี</NE> 1
+<NE>นีล โคโซดอย</NE> 1
+<NE>นีลา เอเรเดีย</NE> 1
+<NE>นีโอคอนส์</NE> 5
+<NE>นุ่มนวล ยัพราช</NE> 1
+<NE>นูรดิน โมฮัมเหม็ด ทอป</NE> 1
+<NE>นูรดิน</NE> 1
+<NE>นโปเลียน</NE> 5
+<NE>น่าน</NE> 2
+<NE>น่านเจ้า</NE> 1
+<NE>น้ำกก</NE> 1
+<NE>น้ำพอง</NE> 1
+<NE>น้ำมูน</NE> 1
+<NE>น้ำมูล</NE> 1
+<NE>น้ำยม</NE> 2
+<NE>น้ำแตง</NE> 1
+<NE>บ.เคล็ดไทย</NE> 1
+<NE>บก.ปค.</NE> 1
+<NE>บรรจง บรรเจิดศิลป์</NE> 1
+<NE>บรรจง บินกาซัน</NE> 1
+<NE>บรรษัท News Corporation</NE> 1
+<NE>บรัสเซลล์</NE> 1
+<NE>บราซิล</NE> 7
+<NE>บริติช มลายา</NE> 1
+<NE>บริษัท Alliance Capital Management</NE> 1
+<NE>บริษัท GNC</NE> 1
+<NE>บริษัท Gerson Lehrman</NE> 1
+<NE>บริษัท Hollinger</NE> 1
+<NE>บริษัท NUVANTA</NE> 1
+<NE>บริษัท Walker Asset Management</NE> 1
+<NE>บริษัท กิจพาณิชย์ จำกัด</NE> 1
+<NE>บริษัท อายุรเวท(ประเทศไทย) จำกัด</NE> 1
+<NE>บริษัท อเวนติส</NE> 1
+<NE>บริษัทWal-Mart</NE> 1
+<NE>บริษัทจัดการและพัฒนาทรัพยากรน้ำภาคตะวันออกจำกัด(มหาชน)</NE> 1
+<NE>บริษัทชินคอร์ปฯ</NE> 1
+<NE>บริษัทชินวัตรฯ</NE> 1
+<NE>บริษัทชิสโสะ</NE> 6
+<NE>บริษัทซีพี</NE> 1
+<NE>บริษัทซีเทค</NE> 1
+<NE>บริษัทดิสนีย์</NE> 1
+<NE>บริษัทท่าอากาศยานฯ</NE> 1
+<NE>บริษัทท่าอากาศยานไทยจำกัด(มหาชน)</NE> 1
+<NE>บริษัทปิคนิค</NE> 1
+<NE>บริษัทยูโนแคล</NE> 1
+<NE>บริษัทอินเดียตะวันออก</NE> 1
+<NE>บริษัทอิสต์อินเดีย</NE> 3
+<NE>บริษัทอีสวอร์เตอร์</NE> 1
+<NE>บริษัทฮังเกียวเรห์</NE> 2
+<NE>บริษัทเนชั่นบุ๊คส์ อินเตอร์เนชั่นแนล จำกัด</NE> 1
+<NE>บริษัทเนสท์เล</NE> 1
+<NE>บริษัทแม็คดอนแนล ดักลาส</NE> 1
+<NE>บริสุทธิ์การพิมพ์</NE> 1
+<NE>บรูซ คอฟเนอร์</NE> 1
+<NE>บรูไน</NE> 2
+<NE>บวรศักดิ์ อุวรรณโณ</NE> 2
+<NE>บวรศักดิ์</NE> 8
+<NE>บอร์เนียว</NE> 1
+<NE>บอลเชวิค</NE> 1
+<NE>บอสเนีย</NE> 1
+<NE>บะวิน</NE> 1
+<NE>บังคลาเทศ</NE> 5
+<NE>บัณฑูร เศรษฐศิโรตม์</NE> 1
+<NE>บาดรี ฮัมดัน</NE> 1
+<NE>บาบอ</NE> 1
+<NE>บาบิโลน</NE> 1
+<NE>บาบิโลเนียน</NE> 2
+<NE>บาร์ตส์</NE> 1
+<NE>บาหยัน อิ่มสำราญ</NE> 1
+<NE>บาหลี</NE> 3
+<NE>บาห์เรน</NE> 1
+<NE>บาเจาะ</NE> 2
+<NE>บาโซในเคดะ</NE> 1
+<NE>บิดาของกฎหมายไทย</NE> 1
+<NE>บิดาแห่งกฎหมายไทย</NE> 8
+<NE>บิดาแห่งการรถไฟไทย</NE> 1
+<NE>บิดาแห่งวิทยาศาสตร์ไทย</NE> 1
+<NE>บิดาแห่งโรงเรียนกฎหมาย</NE> 1
+<NE>บีต๊ะกา</NE> 1
+<NE>บีอาร์เอ็น ซี</NE> 1
+<NE>บีอาร์เอ็น</NE> 5
+<NE>บีอาร์เอ็นโคออดิเนต</NE> 1
+<NE>บีอาร์เอ็นโคออร์ดิเนท</NE> 1
+<NE>บีเอ็นพีพี</NE> 6
+<NE>บุช</NE> 6
+<NE>บุญญาภรณ์ วาณิชยชาติ</NE> 1
+<NE>บุรีรัมย์</NE> 1
+<NE>บุศย์ สิมะเสถียร</NE> 1
+<NE>บุษยรัตน์กาญจนดิษฐ์</NE> 1
+<NE>บุเรงนองกะยอดินนรา</NE> 1
+<NE>บุ่งทาม</NE> 1
+<NE>บูคาวสกี้</NE> 1
+<NE>บูร์บอง</NE> 2
+<NE>บ็อบ แม็คมานัส</NE> 1
+<NE>บ่อนอก</NE> 1
+<NE>บ่อน้ำศัมศัมริมกะอฺบะหฺ</NE> 1
+<NE>บ้าน 3
+<NE>บ้านกรูด</NE> 1
+<NE>บ้านกาลอ</NE> 1
+<NE>บ้านกุวา</NE> 1
+<NE>บ้านชุมพาบาล</NE> 1
+<NE>บ้านดาโต๊ะ</NE> 1
+<NE>บ้านตันหยงลิมอ</NE> 1
+<NE>บ้านบาเจาะ</NE> 1
+<NE>บ้านป่าหวัง</NE> 1
+<NE>บ้านละหาร</NE> 2
+<NE>บ้านสี่เสา</NE> 1
+<NE>บ้านสี่เสาเทเวศร์</NE> 1
+<NE>บ้านหนองขาว</NE> 4
+<NE>บ้านหนองผือ</NE> 5
+<NE>บ้านแม่ทา</NE> 1
+<NE>บ้านโคก</NE> 1
+<NE>ป. อินทรปาลิต</NE> 1
+<NE>ป.ป.ช.</NE> 1
+<NE>ปฐมกาล</NE> 2
+<NE>ปณิธาน วัฒนายากร</NE> 1
+<NE>ปณิธาน</NE> 1
+<NE>ปตัญชลี</NE> 1
+<NE>ปตานี ดารุสสะลาม</NE> 1
+<NE>ปตานี</NE> 1
+<NE>ปทุมธานี</NE> 1
+<NE>ปปช.</NE> 2
+<NE>ปปส.</NE> 1
+<NE>ประจวบคีรีขันธ์</NE> 1
+<NE>ประจักษ์ ก้องกีรติ</NE> 2
+<NE>ประจักษ์ น้ำประสายไทย</NE> 1
+<NE>ประจักษ์</NE> 1
+<NE>ประชา หุตานุวัตร</NE> 1
+<NE>ประชาคมตำบล</NE> 1
+<NE>ประชาคมโลก</NE> 4
+<NE>ประชาธิปัตย์</NE> 1
+<NE>ประทศอียิปต์</NE> 1
+<NE>ประทุม อังกูรโรหิต</NE> 1
+<NE>ประธานาธิบดี จ๊าก ชีรัค</NE> 1
+<NE>ประธานาธิบดี วลาดิมีร์ ปูติน</NE> 1
+<NE>ประธานาธิบดี แดน เควล</NE> 1
+<NE>ประธานาธิบดีจอร์จ บุช</NE> 1
+<NE>ประธานาธิบดีชาเวส</NE> 1
+<NE>ประธานาธิบดีนิกสัน</NE> 1
+<NE>ประธานาธิบดีบิล คลินตัน</NE> 1
+<NE>ประธานาธิบดีบุช</NE> 6
+<NE>ประธานาธิบดีริชาร์ด นิกสัน</NE> 1
+<NE>ประธานาธิบดีริชาร์ด เชนีย์</NE> 1
+<NE>ประธานาธิบดีฮูโกชาเวส</NE> 2
+<NE>ประธานาธิบดีเคนเนดี้</NE> 1
+<NE>ประธานาธิบดีเนวิน</NE> 1
+<NE>ประธานาธิบดีเรแกน</NE> 3
+<NE>ประธานเหมา</NE> 2
+<NE>ประภาส ปิ่นตบแต่ง</NE> 7
+<NE>ประภาส</NE> 2
+<NE>ประมวล รุจนเสรี</NE> 1
+<NE>ประมวล เพ็งจันทร์</NE> 2
+<NE>ประมวล</NE> 5
+<NE>ประยุทธ สวัสดิ์สิงห์</NE> 1
+<NE>ประยุทธ์ ปยุตโต</NE> 1
+<NE>ประสงค์ ชัยพรรค</NE> 1
+<NE>ประสาท มีแต้ม</NE> 1
+<NE>ประสิทธิ์ ลีปรีชา</NE> 4
+<NE>ประหยัด ศ.นาคะนาท</NE> 2
+<NE>ประะเทศไทย</NE> 1
+<NE>ประเทศ 5
+<NE>ประเทศจีน</NE> 10
+<NE>ประเทศชิลี</NE> 2
+<NE>ประเทศซาอุดิอารเบีย</NE> 1
+<NE>ประเทศญี่ปุ่น</NE> 5
+<NE>ประเทศญี่ป่น</NE> 1
+<NE>ประเทศนิวซีแลนด์</NE> 1
+<NE>ประเทศบราซิล</NE> 2
+<NE>ประเทศปากีสถาน</NE> 1
+<NE>ประเทศฝรั่งเศส</NE> 5
+<NE>ประเทศพม่า</NE> 14
+<NE>ประเทศฟินแลนด์</NE> 2
+<NE>ประเทศภูฐาน</NE> 1
+<NE>ประเทศมาเลเซีย</NE> 8
+<NE>ประเทศยุโรป</NE> 1
+<NE>ประเทศยูเครน</NE> 1
+<NE>ประเทศรัสเซีย</NE> 1
+<NE>ประเทศละตินอเมริกา</NE> 1
+<NE>ประเทศลาว</NE> 2
+<NE>ประเทศศรีลังกา</NE> 1
+<NE>ประเทศสยาม</NE> 21
+<NE>ประเทศสวีเดน</NE> 1
+<NE>ประเทศสหพันธ์สาธารณรัฐเยอรมนี</NE> 1
+<NE>ประเทศสหรัฐอเมริกัน</NE> 1
+<NE>ประเทศสหรัฐอเมริกา</NE> 15
+<NE>ประเทศสหรัฐฯ</NE> 1
+<NE>ประเทศสาธารณรัฐประชาธิปไตยประชาชนลาว</NE> 1
+<NE>ประเทศสเปน</NE> 2
+<NE>ประเทศออสเตรีย</NE> 2
+<NE>ประเทศออสเตรเลีย</NE> 4
+<NE>ประเทศอังกฤษ</NE> 8
+<NE>ประเทศอัฟกานิสถาน</NE> 2
+<NE>ประเทศอาร์เจนตินา</NE> 1
+<NE>ประเทศอาหรับ</NE> 4
+<NE>ประเทศอิตาลี</NE> 2
+<NE>ประเทศอินเดีย</NE> 14
+<NE>ประเทศอินโดนีเซีย</NE> 1
+<NE>ประเทศอียิปต์</NE> 1
+<NE>ประเทศเดนมาร์ก</NE> 2
+<NE>ประเทศเนปาล</NE> 2
+<NE>ประเทศเม็กซิโก</NE> 3
+<NE>ประเทศเยอรมนี</NE> 2
+<NE>ประเทศเวียดนาม</NE> 1
+<NE>ประเทศแคนาดา</NE> 17
+<NE>ประเทศแอฟริกา</NE> 1
+<NE>ประเทศโบลิเวีย</NE> 1
+<NE>ประเทศโปรตุเกส</NE> 1
+<NE>ประเทศไต้หวัน</NE> 1
+<NE>ประเทศไทย.</NE> 1
+<NE>ประเทศไทย</NE> 246
+<NE>ประเวศ วะสี</NE> 2
+<NE>ประเสริฐ ชัยพิดุสิต</NE> 1
+<NE>ประเสริฐ ทรัพย์สุนทร</NE> 1
+<NE>ปรางค์ทิพย์ดาวเรือง</NE> 1
+<NE>ปราโมท ภักดีณรงค์</NE> 1
+<NE>ปราโมท</NE> 4
+<NE>ปริตตา เฉลิมเผ่า กออนันตกูล</NE> 1
+<NE>ปรีชา ธรรมวินทร</NE> 3
+<NE>ปรีชา ปัญญาวชิโรภาส</NE> 1
+<NE>ปรีชา</NE> 4
+<NE>ปรีดี พนมยงค์</NE> 10
+<NE>ปรีดี</NE> 7
+<NE>ปอเนาะ</NE> 5
+<NE>ปะนาเระ</NE> 1
+<NE>ปักษ์ใต้</NE> 1
+<NE>ปัตตานี ดารุส-สลาม</NE> 1
+<NE>ปัตตานี</NE> 81
+<NE>ปัลเลอกัวซ์</NE> 1
+<NE>ปากมูล</NE> 1
+<NE>ปากีสถาน</NE> 9
+<NE>ปาตา</NE> 1
+<NE>ปาตานี</NE> 8
+<NE>ปาตานีดารุสซาลาม</NE> 1
+<NE>ปารากวัย</NE> 1
+<NE>ปาริชาติ จึงวิวัฒนาภรณ์</NE> 1
+<NE>ปาริชาติเบ็ญฤทธิ์</NE> 1
+<NE>ปารีส</NE> 4
+<NE>ปารีสฯ</NE> 1
+<NE>ปาร์ก จอง ฮี</NE> 1
+<NE>ปาร์กจองฮี</NE> 2
+<NE>ปาเลสไตน์</NE> 1
+<NE>ปาเวล ซาโลมอฟ</NE> 1
+<NE>ปาไซเลย</NE> 1
+<NE>ปิยะ กิจถาวร</NE> 1
+<NE>ปิยะบุตร บุญอร่ามเรือง</NE> 1
+<NE>ปิแอร์ บูดิเออร์</NE> 1
+<NE>ปิ่นแก้ว เหลืองอร่ามศรี</NE> 5
+<NE>ปีนัง</NE> 2
+<NE>ป่าทาม</NE> 1
+<NE>ป่าบ้านหนองผือ</NE> 2
+<NE>ป๋วย อึ๊งภากรณ์</NE> 1
+<NE>ป๋วย</NE> 1
+<NE>ผศ.ดร.กิตติศักดิ์ ปรกติ</NE> 1
+<NE>ผศ.ปรีชา ธรรมวินทร</NE> 1
+<NE>ผาสุก พงษ์ไพจิตร</NE> 6
+<NE>ผาอินจอง</NE> 2
+<NE>ผู้พิทักษ์แดง</NE> 3
+<NE>ผู้ว่าราชการจังหวัดนราธิวาส</NE> 1
+<NE>ฝรั่ง</NE> 1
+<NE>ฝรั่งเศส</NE> 42
+<NE>ฝ่ายวิจัยจุฬาลงกรณ์มหาวิทยาลัย</NE> 1
+<NE>ฝ่าหลุนกง</NE> 1
+<NE>พ.ต.ท.ดร.ทักษิณ ชินวัตร</NE> 1
+<NE>พ.ต.ท.ทักษิณ ชินวัตร</NE> 8
+<NE>พ.ต.ท.ทักษิณ</NE> 12
+<NE>พ.ต.ท.ทักษิณชินวัตร</NE> 1
+<NE>พ.ต.อ.โพธ สวยสุวรรณ</NE> 1
+<NE>พ.ร.บ.</NE> 2
+<NE>พ.อ.สมควร แสงภัทรเนตร</NE> 1
+<NE>พ.อ.สมคิด ศรีสังคม</NE> 1
+<NE>พคท.</NE> 19
+<NE>พคม.</NE> 2
+<NE>พงศ์เทพ วิวรรธนะเดช</NE> 1
+<NE>พงั่ว</NE> 1
+<NE>พจน์ พหลโยธิน</NE> 1
+<NE>พญาระกา</NE> 1
+<NE>พญาไท</NE> 2
+<NE>พตท.</NE> 6
+<NE>พตท.ทักษิณ ชินวัตร</NE> 1
+<NE>พนมทวน</NE> 1
+<NE>พม่า</NE> 62
+<NE>พยัคฆ์ทมิฬอีแลม</NE> 1
+<NE>พรชัย คุ้มทวีพร</NE> 1
+<NE>พรชัย</NE> 1
+<NE>พรพิมลตรีโชติ</NE> 3
+<NE>พรพิไล เลิศวิชา</NE> 1
+<NE>พรรค 3
+<NE>พรรค รีพับลิกัน</NE> 1
+<NE>พรรคครองเกรส</NE> 1
+<NE>พรรคความหวังใหม่</NE> 1
+<NE>พรรคคอมมิวนิสต์</NE> 5
+<NE>พรรคคอมมิวนิสต์มลายา</NE> 4
+<NE>พรรคคอมมิวนิสต์แห่งประเทศไทย</NE> 5
+<NE>พรรคคอมมิวนิสต์ไทย</NE> 2
+<NE>พรรคชาติไทย</NE> 3
+<NE>พรรคประชากรไทย</NE> 3
+<NE>พรรคประชาธิปัตย์</NE> 9
+<NE>พรรคปาส</NE> 2
+<NE>พรรคมหาชน</NE> 2
+<NE>พรรครีพับลิกัน</NE> 2
+<NE>พรรคสันนิบาตแห่งชาติเพื่อประชาธิปไตย</NE> 1
+<NE>พรรคอัมโน</NE> 1
+<NE>พรรคเอ็นแอลดี</NE> 2
+<NE>พรรคไทยรักไทย</NE> 20
+<NE>พระกฤษณะ</NE> 2
+<NE>พระจักรพรรดิฮิโรฮิโต</NE> 1
+<NE>พระจันทร์เสี้ยว</NE> 7
+<NE>พระจันทร์เสี้ยวการละคร</NE> 3
+<NE>พระจันทร์เสี้ยวการละคอน</NE> 3
+<NE>พระที่นั่งวิมานเมฆ</NE> 1
+<NE>พระที่นั่งอนันตสมาคม</NE> 1
+<NE>พระที่นั่งอภิเษกดุสิต</NE> 1
+<NE>พระที่นั่งอัมพรสถาน</NE> 2
+<NE>พระธรรมปิฎก</NE> 1
+<NE>พระธรรมปิฐก</NE> 1
+<NE>พระนคร</NE> 22
+<NE>พระนครวัด</NE> 1
+<NE>พระนารายณ์</NE> 1
+<NE>พระนเรศวร</NE> 2
+<NE>พระบรมมหาราชวัง</NE> 3
+<NE>พระบรมไตรโลกนาถ</NE> 1
+<NE>พระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว</NE> 7
+<NE>พระบาทสมเด็จพระจุลจอมเกล้า</NE> 1
+<NE>พระบาทสมเด็จพระจุลจอมเกล้าฯ</NE> 1
+<NE>พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว</NE> 16
+<NE>พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว</NE> 2
+<NE>พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลก</NE> 1
+<NE>พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว</NE> 1
+<NE>พระบาทสมเด็จพระมงกุฏเกล้าเจ้าอยู่หัว</NE> 2
+<NE>พระบาทสมเด็จพระเจ้าอยู่หัว</NE> 1
+<NE>พระบาทสมเด็จพระเจ้าอยู่หัวอานันทมหิดล</NE> 1
+<NE>พระบาทสมเด็จฯ พระจุลจอมเกล้าเจ้าอยู่หัว</NE> 1
+<NE>พระบาทสมเด็จฯพระปกเกล้าเจ้าอยู่หัว</NE> 1
+<NE>พระปกเกล้าฯ</NE> 1
+<NE>พระปวรสกฺโก</NE> 1
+<NE>พระพรหม</NE> 1
+<NE>พระมหาธรรมราชาที่๒</NE> 1
+<NE>พระยาธรรมสารวิเชตภักดิ์</NE> 1
+<NE>พระยานิติศาสตร์ไพศาลย์</NE> 1
+<NE>พระยาพหลฯ</NE> 1
+<NE>พระยามานวราชเสวี</NE> 1
+<NE>พระยามโนปกรณ์นิติธาดา</NE> 3
+<NE>พระยามโนปกรณ์ฯ</NE> 1
+<NE>พระยามโนฯ</NE> 1
+<NE>พระยารัษานุประดิษฐ์มหิศรภักดี</NE> 1
+<NE>พระยาลัดพลีธรรมประคัลภ์</NE> 1
+<NE>พระยาวิชิตภักดี</NE> 1
+<NE>พระยาศรีวิสารวาจา</NE> 2
+<NE>พระยาอนุมานราชธน</NE> 1
+<NE>พระยาอภัยราชาฯ</NE> 1
+<NE>พระยาอุดมพงศ์เพ็ญสวัสดิ์</NE> 1
+<NE>พระราชชายาดารารัศมี</NE> 1
+<NE>พระราชวังโซเวียต</NE> 1
+<NE>พระราม</NE> 2
+<NE>พระรามที่๙</NE> 1
+<NE>พระลักษมีเทวี</NE> 1
+<NE>พระวิษณุ</NE> 1
+<NE>พระศรีอาริย์</NE> 1
+<NE>พระศิวะ</NE> 1
+<NE>พระสมณโคดม</NE> 2
+<NE>พระสุบิน ปณีโต</NE> 1
+<NE>พระสุรัสวดี</NE> 1
+<NE>พระองค์เจ้าธานีฯ</NE> 1
+<NE>พระองค์เจ้ารพีพัฒนศักดิ์</NE> 24
+<NE>พระอภัยมณี</NE> 1
+<NE>พระอัญญาโกญทัณญะ</NE> 2
+<NE>พระอัลลอฮฺ</NE> 2
+<NE>พระอาจารย์ 1
+<NE>พระอาจารย์มั่น ภูริทัตโต</NE> 4
+<NE>พระอาจารย์มั่น</NE> 5
+<NE>พระอาจารย์วัน อุตโม</NE> 1
+<NE>พระอาจารย์สมชาย ฐิตวิริโย</NE> 2
+<NE>พระอาจารย์สิมพุทธาจาโร</NE> 1
+<NE>พระอาจารย์สุวัจ สุวโจ</NE> 1
+<NE>พระอาจารย์หล้า เขมปัตโต</NE> 1
+<NE>พระอาจารย์อ่อนสา สุขกาโร</NE> 1
+<NE>พระอาจารย์เทสก์ เทสส์รังสี</NE> 1
+<NE>พระอาจารย์เสาร์</NE> 1
+<NE>พระอาจารย์แว่น ธนปาโล</NE> 1
+<NE>พระอุมาเทวี</NE> 1
+<NE>พระเจนจีนอักษร</NE> 1
+<NE>พระเจ้า 1
+<NE>พระเจ้า</NE> 1
+<NE>พระเจ้าซาร์</NE> 1
+<NE>พระเจ้าตะเบงชะเวตี้</NE> 1
+<NE>พระเจ้าตาก</NE> 1
+<NE>พระเจ้าบรมวงศ์เธอ กรมหลวงราชบุรีดิเรกฤทธิ์</NE> 1
+<NE>พระเจ้าบรมวงศ์เธอกรมหลวงราชบุรีดิเรกฤทธิ์</NE> 3
+<NE>พระเจ้าวรวงศ์เธอกรมหมื่นนราธิปพงศ์ประพันธ์</NE> 1
+<NE>พระเจ้าวรวงศ์เธอพระองค์เจ้าจุลจักรพงษ์</NE> 1
+<NE>พระเจ้าอยู่หัว</NE> 1
+<NE>พระเจ้าอยู่หัวอานันทมหิดล</NE> 1
+<NE>พระเจ้าอโศกมหาราช</NE> 4
+<NE>พระเยซู</NE> 5
+<NE>พระโขนง</NE> 1
+<NE>พระไพศาล วิสาโล</NE> 3
+<NE>พฤกพงษศาวลี</NE> 1
+<NE>พล.ต.ต.ธานี ทวิชศรี</NE> 1
+<NE>พล.ต.ต.เผ่า</NE> 3
+<NE>พล.ต.ต.ไพฑูรย์ พัฒนโสภณ</NE> 1
+<NE>พล.ต.ท.ปรุง บุญผดุง</NE> 1
+<NE>พล.ต.สินชัย นุตสถิตย์</NE> 1
+<NE>พล.ท.พิศาล วัฒนวงศ์คีรี</NE> 4
+<NE>พล.ท.อนุพงษ์ เผ่าจินดา</NE> 1
+<NE>พล.ร.อ.สงัด ชลออยู่</NE> 1
+<NE>พล.อ.เปรม ติณสูลานนท์</NE> 1
+<NE>พลตรี กรมหมื่นนราธิปพงศ์ประพันธ์</NE> 1
+<NE>พลตรี พิเชษฐ์ วิสัยจร</NE> 1
+<NE>พลตรี หลวงวิจิตรวาทการ</NE> 2
+<NE>พลตรีจำลอง ศรีเมือง</NE> 1
+<NE>พลตรีจำลอง</NE> 4
+<NE>พลตรีพิเชษฐ์วิสัยจร</NE> 1
+<NE>พลตรีหลวงวิจิตรวาทการ</NE> 1
+<NE>พลตรีเผ่า</NE> 1
+<NE>พลตำรวจตรีธานี ทวิชศรี</NE> 1
+<NE>พลตำรวจเอก เผ่า ศรียานนท์</NE> 2
+<NE>พลตำรวจเอกเผ่า ศรียานนท์</NE> 1
+<NE>พลตำรวจโทโกวิท วัฒนะ</NE> 1
+<NE>พลูโต</NE> 2
+<NE>พลเรือโทสุธน หิญชีระนันทน์</NE> 1
+<NE>พลเรือโทสุธนหิญชีระนันทน์</NE> 1
+<NE>พลเอก ปัญญา สิงห์ศักดา</NE> 1
+<NE>พลเอก เปรม</NE> 1
+<NE>พลเอกฉลาด หิรัญศิริ</NE> 1
+<NE>พลเอกชวลิต ยงใจยุทธ</NE> 3
+<NE>พลเอกชวลิต</NE> 1
+<NE>พลเอกชัยสิทธิ</NE> 1
+<NE>พลเอกชัยสิทธิ์</NE> 1
+<NE>พลเอกชาติชาย ชุณหะวัณ</NE> 1
+<NE>พลเอกพัลลภ ปิ่นมณี</NE> 2
+<NE>พลเอกพัลลภ</NE> 4
+<NE>พลเอกยุทธศักดิ์</NE> 1
+<NE>พลเอกสมทัต</NE> 1
+<NE>พลเอกสุจินดา</NE> 3
+<NE>พลเอกสุรยุทธ</NE> 5
+<NE>พลเอกสุรยุทธ์ จุลานนท์</NE> 2
+<NE>พลเอกสุรยุทธ์</NE> 1
+<NE>พลเอกเกรียงศักดิ์ ชมะนันทน์</NE> 1
+<NE>พลเอกเปรม ติณสูลานนท์</NE> 2
+<NE>พลเอกเปรม</NE> 12
+<NE>พลเอกเผ่า ศรียานนท์</NE> 1
+<NE>พลโทผิน ชุณหะวัณ</NE> 1
+<NE>พลโทพิศาล วัฒนวงศ์คีรี</NE> 1
+<NE>พลโทวิฑูร ยะสวัสดิ์</NE> 1
+<NE>พลโทวิฑูร</NE> 1
+<NE>พอตเตอร์</NE> 2
+<NE>พอล จิโกต์</NE> 1
+<NE>พอล เลอมัง</NE> 4
+<NE>พอลเบรเมอร์</NE> 1
+<NE>พะอัน</NE> 1
+<NE>พะเยา</NE> 1
+<NE>พัชรินทร์ เปี่ยมสมบูรณ์</NE> 2
+<NE>พัชรี วชิระนิเวศ</NE> 1
+<NE>พัฒนพงส์ จาติเกตุ</NE> 1
+<NE>พัฒนา กิติอาษา</NE> 1
+<NE>พัฒนา กิติอาสา</NE> 1
+<NE>พัทยา</NE> 2
+<NE>พัทลุง</NE> 1
+<NE>พันตรี 1
+<NE>พันตำรวจโท ดร.ทักษิณ ชินวัตร</NE> 1
+<NE>พันธมิตร</NE> 1
+<NE>พันธมิตรฯ</NE> 13
+<NE>พันเอกพระยาพหลพลพยุหเสนา</NE> 1
+<NE>พันเอกมนัส คงแป้น</NE> 1
+<NE>พันเอกสฤษดิ์ ธนะรัชต์</NE> 1
+<NE>พาณิชย์</NE> 1
+<NE>พิจิตร</NE> 1
+<NE>พิชญ์ พงษ์สวัสดิ์</NE> 2
+<NE>พิชัย รัตนพล</NE> 1
+<NE>พิชัย เก้าสำราญ</NE> 1
+<NE>พิชัย</NE> 3
+<NE>พิพิธภัณฑ์ท้องถิ่นบ้านหนองขาว</NE> 2
+<NE>พิพิธภัณฑ์บ้านก้อดสวรรค์ทันใจ</NE> 1
+<NE>พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว</NE> 1
+<NE>พิภพ ธงชัย</NE> 1
+<NE>พิภพ อุดมอิทธิพงศ์</NE> 1
+<NE>พิภพ</NE> 2
+<NE>พิรุณ ฉัตรวณิชกุล</NE> 1
+<NE>พิษณุโลก</NE> 5
+<NE>พิเชษฐ เมาลานนท์</NE> 1
+<NE>พีเคอาร์อาร์พี</NE> 1
+<NE>พี่เกด</NE> 1
+<NE>พี่เสก</NE> 2
+<NE>พุทธทาส ภิกขุ</NE> 1
+<NE>พุทธทาสภิกขุ</NE> 11
+<NE>พูซาก้า</NE> 4
+<NE>พูโล</NE> 26
+<NE>พูโลใหม่</NE> 2
+<NE>พ่อขุนรามคำแหง</NE> 5
+<NE>พ่อหลวงอินทร ใจระวัง</NE> 1
+<NE>ฟรอยด์</NE> 2
+<NE>ฟรานซีส บี แซร์</NE> 1
+<NE>ฟริตจ๊อฟ คาปร้า</NE> 1
+<NE>ฟาริดา</NE> 3
+<NE>ฟารีด</NE> 1
+<NE>ฟิลลิปส์</NE> 1
+<NE>ฟิลิปปินส์</NE> 16
+<NE>ฟิล่า</NE> 1
+<NE>ฟูจิโมริ</NE> 3
+<NE>ฟูโก</NE> 1
+<NE>ฟูโกต์</NE> 24
+<NE>ฟูโกต์เดียน</NE> 1
+<NE>ฟูโก้</NE> 1
+<NE>ภมรรัตน์ สุธรรม</NE> 2
+<NE>ภัควดี วีระภาสพงษ์</NE> 3
+<NE>ภัทรพร หงษ์ทอง</NE> 1
+<NE>ภัทรพร</NE> 1
+<NE>ภาคตะนาวศรี</NE> 3
+<NE>ภาคพะโค</NE> 2
+<NE>ภาคมัณฑะเลย์</NE> 2
+<NE>ภาคย่างกุ้ง</NE> 1
+<NE>ภาควิชาการปกครอง</NE> 2
+<NE>ภาควิชาคณิตศาสตร์</NE> 1
+<NE>ภาควิชาประวัติศาสตร์</NE> 4
+<NE>ภาควิชาปรัชญาศาสนา</NE> 1
+<NE>ภาควิชาฟิสิกส์</NE> 2
+<NE>ภาควิชามนุษยศาสตร์</NE> 1
+<NE>ภาควิชารัฐศาสตร์</NE> 1
+<NE>ภาควิชาสังคมวิทยา</NE> 1
+<NE>ภาคอิระวดี</NE> 1
+<NE>ภาพันธ์ รักษ์ศรีทอง</NE> 1
+<NE>ภุมรัตน์ ทักษาดิพงศ์</NE> 1
+<NE>ภูพาน</NE> 5
+<NE>ภูมิธรรม เวชยชัย</NE> 1
+<NE>ภูมิบุตรา</NE> 1
+<NE>ภูมิภาคลาตินอเมริกา</NE> 1
+<NE>ภูมิภาคเอเชีย</NE> 1
+<NE>ภูมิภาคเอเชียแปซิฟิก</NE> 1
+<NE>ภูวดล ทรงประเสริฐ</NE> 1
+<NE>ม.มหิดล</NE> 1
+<NE>ม.ร.ว.คึกฤทธิ์ ปราโมช</NE> 7
+<NE>ม.ร.ว.คึกฤทธิ์</NE> 1
+<NE>ม.ร.ว.คึกฤทธ์ ปราโมช</NE> 1
+<NE>ม.ร.ว.จันทร์แรม ศิริโชค จันทรทัต</NE> 1
+<NE>ม.ร.ว.ประกายทอง สิริสุข</NE> 1
+<NE>ม.ร.ว.ศึกฤทธิ์ ปราโมช</NE> 1
+<NE>ม.ร.ว.อคิน รพีพัฒน์</NE> 1
+<NE>ม.ร.ว.เสนีย์ ปราโมช</NE> 5
+<NE>ม.ร.ว.เสนีย์</NE> 4
+<NE>ม.ร.ว.เสนีย์ปราโมช</NE> 1
+<NE>ม.ล.ปีย์ มาลากุล</NE> 1
+<NE>ม.เกษตร</NE> 1
+<NE>ม.เที่ยงคืน</NE> 2
+<NE>มช.</NE> 3
+<NE>มณฑล Nova Scotia</NE> 3
+<NE>มณฑลNovaScotia</NE> 1
+<NE>มณฑารัตน์ ทรงเผ่า</NE> 1
+<NE>มณทลนครศรีธรรมราช</NE> 1
+<NE>มณทลปัตตานี</NE> 1
+<NE>มดีนะหฺ</NE> 1
+<NE>มติชน</NE> 5
+<NE>มธ.</NE> 3
+<NE>มธก.</NE> 6
+<NE>มนต์ ทองชัย</NE> 1
+<NE>มร.เสลด</NE> 2
+<NE>มรว.คึกฤทธิ์ ปราโมช</NE> 1
+<NE>มลรัฐ New South Wales</NE> 1
+<NE>มลรัฐ South Australia</NE> 1
+<NE>มลรัฐเม็สสาจูเส็ตซ์</NE> 1
+<NE>มลรัฐแคลิฟอร์เนีย</NE> 1
+<NE>มลายา</NE> 6
+<NE>มลายู</NE> 1
+<NE>มสธ.</NE> 1
+<NE>มหากิจศิริ</NE> 1
+<NE>มหาจุฬาลงกรณ์ราชวิทยาลัย</NE> 1
+<NE>มหาดไทย</NE> 7
+<NE>มหาตมะคานธี</NE> 2
+<NE>มหานครนิวยอร์ก</NE> 3
+<NE>มหานครมักกะหฺ</NE> 2
+<NE>มหาวิทยาลยธรรมศาสตร์</NE> 1
+<NE>มหาวิทยาลัย 1
+<NE>มหาวิทยาลัย Cambridge</NE> 1
+<NE>มหาวิทยาลัย นอร์ธ คาโรไลนา</NE> 1
+<NE>มหาวิทยาลัยกรุงเทพ</NE> 1
+<NE>มหาวิทยาลัยขอนแก่น</NE> 1
+<NE>มหาวิทยาลัยคอร์แนล</NE> 1
+<NE>มหาวิทยาลัยคอร์แนว</NE> 1
+<NE>มหาวิทยาลัยจอห์น ฮอพกินส์</NE> 1
+<NE>มหาวิทยาลัยจอห์นส์ ฮอพกินส์</NE> 1
+<NE>มหาวิทยาลัยชิคาโก</NE> 1
+<NE>มหาวิทยาลัยธรรมศาตร์</NE> 1
+<NE>มหาวิทยาลัยธรรมศาสตร์</NE> 54
+<NE>มหาวิทยาลัยธุรกิจบัณฑิต</NE> 1
+<NE>มหาวิทยาลัยธุรกิจบัณฑิตย์</NE> 3
+<NE>มหาวิทยาลัยนอร์ทเทิร์นอิลลินอยส์</NE> 1
+<NE>มหาวิทยาลัยนีกาตะ</NE> 1
+<NE>มหาวิทยาลัยพายัพ</NE> 1
+<NE>มหาวิทยาลัยมหาสารคาม</NE> 3
+<NE>มหาวิทยาลัยมหิดล</NE> 16
+<NE>มหาวิทยาลัยมิชิแกน</NE> 1
+<NE>มหาวิทยาลัยมิวนิค</NE> 1
+<NE>มหาวิทยาลัยราชภัฏ 4
+<NE>มหาวิทยาลัยราชภัฏกาฬสินธุ์</NE> 1
+<NE>มหาวิทยาลัยราชภัฏกาฬสินธ์</NE> 1
+<NE>มหาวิทยาลัยร่างกุ้ง</NE> 1
+<NE>มหาวิทยาลัยวลัยลักษณ์</NE> 1
+<NE>มหาวิทยาลัยวิชาธรรมศาสตร์</NE> 1
+<NE>มหาวิทยาลัยวิชาธรรมศาสตร์และการเมือง</NE> 1
+<NE>มหาวิทยาลัยวิสคอนซิน</NE> 2
+<NE>มหาวิทยาลัยศรีนครินทรวิโรฒ</NE> 3
+<NE>มหาวิทยาลัยศรีปทุม</NE> 1
+<NE>มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตปัตตานี</NE> 1
+<NE>มหาวิทยาลัยสงขลานครินทร์</NE> 8
+<NE>มหาวิทยาลัยสงขลานครินทร์วิทยาเขตปัตตานี</NE> 1
+<NE>มหาวิทยาลัยสงขลาฯ</NE> 1
+<NE>มหาวิทยาลัยสตราส์บูร์ก</NE> 1
+<NE>มหาวิทยาลัยสุโขทัยธรรมาธิราช</NE> 2
+<NE>มหาวิทยาลัยหอการค้าไทย</NE> 1
+<NE>มหาวิทยาลัยอัสสัมชัญ</NE> 1
+<NE>มหาวิทยาลัยอินเดีย</NE> 4
+<NE>มหาวิทยาลัยอิลินอย</NE> 1
+<NE>มหาวิทยาลัยอ๊อกฟอร์ด</NE> 1
+<NE>มหาวิทยาลัยฮาร์วาร์ด</NE> 2
+<NE>มหาวิทยาลัยเกษตรศาสตร์</NE> 1
+<NE>มหาวิทยาลัยเกียวโต</NE> 1
+<NE>มหาวิทยาลัยเชียงใหม่</NE> 35
+<NE>มหาวิทยาลัยเที่ยงคืน เชียงใหม่</NE> 1
+<NE>มหาวิทยาลัยเที่ยงคืน</NE> 65
+<NE>มหาวิทยาลัยเวสเทิร์น</NE> 1
+<NE>มหาวิทยาลัยแม่ฟ้าหลวง</NE> 1
+<NE>มหาวิทยาลัยโคลัมเบีย</NE> 1
+<NE>มหาสมุทรอินเดีย</NE> 1
+<NE>มหาสารคาม</NE> 1
+<NE>มหาเถรสมาคม</NE> 3
+<NE>มหาเธร์ โมฮัมหมัด</NE> 2
+<NE>มหิดล</NE> 2
+<NE>มอ.</NE> 4
+<NE>มอญ</NE> 2
+<NE>มอนซานโต</NE> 2
+<NE>มอนซานโต้</NE> 2
+<NE>มอร็อคโค</NE> 1
+<NE>มอร์ลีส</NE> 2
+<NE>มอร์แกน สแตนลีย์</NE> 1
+<NE>มอร์แมน</NE> 3
+<NE>มอสโคว์ล</NE> 1
+<NE>มะกะตา ฮารง</NE> 1
+<NE>มะซะแต</NE> 1
+<NE>มะดาโอ๊ะ ยะลาแป</NE> 1
+<NE>มะตอลาฟี แมะแซะ</NE> 1
+<NE>มะตอลาฟี</NE> 1
+<NE>มะนาเซะ เจะดะ</NE> 1
+<NE>มะปิเยาะ ซะดาละ</NE> 1
+<NE>มะยุรี นิแว</NE> 1
+<NE>มะริกิสะมะแอ</NE> 1
+<NE>มะรุดิง เต็งนิ</NE> 1
+<NE>มะละกา</NE> 1
+<NE>มะสุกรี เซ็ง</NE> 1
+<NE>มะสุกรี</NE> 1
+<NE>มะแซ อุเซ็ง</NE> 6
+<NE>มะแอ โต๊ะเปียน</NE> 1
+<NE>มักกะ</NE> 1
+<NE>มักกะหฺ</NE> 3
+<NE>มักตา</NE> 1
+<NE>มัง ลาโกะ</NE> 1
+<NE>มัตสะมะแอ</NE> 2
+<NE>มัทราส</NE> 1
+<NE>มัน อันตา</NE> 1
+<NE>มัสกรือเซะ</NE> 1
+<NE>มัสยิดกรือเซะ</NE> 6
+<NE>มาดามเหมา</NE> 1
+<NE>มานติกิ ไอ</NE> 1
+<NE>มานพ</NE> 1
+<NE>มามะ มาติโยะ</NE> 1
+<NE>มามะ แมะเราะ</NE> 1
+<NE>มายเยอร์ แอมแชล รอตส์ไชลด์</NE> 1
+<NE>มารุดี ปิยะ</NE> 1
+<NE>มาร์ก ริทชี</NE> 2
+<NE>มาร์ก วิลเลียมส์</NE> 1
+<NE>มาร์กซ์</NE> 3
+<NE>มาร์กอส</NE> 3
+<NE>มาร์คซ์</NE> 1
+<NE>มาร์คอส</NE> 3
+<NE>มาร์ติน ลูเธอร์คิง</NE> 1
+<NE>มาลากกา</NE> 2
+<NE>มาลายา</NE> 9
+<NE>มาเกวซ</NE> 1
+<NE>มาเลย์</NE> 1
+<NE>มาเลเซีย</NE> 103
+<NE>มาโตลาฟี เมเซะ</NE> 1
+<NE>มาโรกิ สะ</NE> 1
+<NE>มิคาอาเวลลี</NE> 1
+<NE>มิชิโอะ คูชิ</NE> 1
+<NE>มิดจ์ เดคเตอร์</NE> 2
+<NE>มิตรนรา</NE> 2
+<NE>มิสซิสสก็อต</NE> 1
+<NE>มิเชล ฟูโกต์</NE> 3
+<NE>มิเชล มอร์แมน</NE> 1
+<NE>มีชัย ฤชุพันธุ์</NE> 1
+<NE>มีชัย</NE> 1
+<NE>มุกดาหาร</NE> 1
+<NE>มุคลาส</NE> 3
+<NE>มุสตาฟา สะตอปา</NE> 1
+<NE>มุสตาฟา</NE> 1
+<NE>มุฮัมมัด</NE> 4
+<NE>มูจาฮีดีน</NE> 1
+<NE>มูญาฮิดพ</NE> 1
+<NE>มูยาฮี หะยี อับดุลเลาะ</NE> 1
+<NE>มูล</NE> 1
+<NE>มูลนิธิ ประไพ วิริยะพันธุ์</NE> 1
+<NE>มูลนิธิ ๑๔ ตุลา</NE> 1
+<NE>มูลนิธินิติศาสตร์</NE> 1
+<NE>มูลนิธินิปปอน</NE> 1
+<NE>มูลนิธิประไพ วิริยะพันธุ์</NE> 1
+<NE>มูลนิธิผู้หญิง</NE> 2
+<NE>มูลนิธิฟื้นฟูชีวิตและธรรมชาติ</NE> 1
+<NE>มูลนิธิภูมิปัญญา</NE> 1
+<NE>มูลนิธิศุภนิมิตแห่งประเทศไทย</NE> 1
+<NE>มูลนิธิศูนย์ฮอทไลน์</NE> 1
+<NE>มูลนิธิสร้างความเข้าใจเรื่องสุขภาพผู้หญิง</NE> 1
+<NE>มูลนิธิสาธารณสุขแห่งชาติ</NE> 4
+<NE>มูลนิธิสุขภาพไทย</NE> 1
+<NE>มูลนิธิส่งเสริมโอกาสผู้หญิง</NE> 1
+<NE>มูลนิธิอาเซีย</NE> 1
+<NE>มูลนิธิเพื่อนหญิง</NE> 1
+<NE>มูลนิธิเพื่อผู้บริโภค</NE> 1
+<NE>มูลนิธิเมาไม่ขับ</NE> 1
+<NE>มูลนิธิโกมลคีมทอง</NE> 3
+<NE>มูลนิธิโครงการตำราสังคมศาสตร์และมนุษยศาสตร์</NE> 3
+<NE>มูฮัมหมัด อับดูห์</NE> 1
+<NE>มูฮัมหมัด</NE> 6
+<NE>มูไฮยิดดิน</NE> 1
+<NE>ยม</NE> 1
+<NE>ยศ สันตสมบัติ</NE> 2
+<NE>ยศธร</NE> 8
+<NE>ยอร์ช เซเดย์</NE> 1
+<NE>ยะคะเรีย อาลี</NE> 1
+<NE>ยะรัง</NE> 2
+<NE>ยะลา</NE> 53
+<NE>ยะหริ่ง</NE> 3
+<NE>ยะหา</NE> 1
+<NE>ยะไข่</NE> 1
+<NE>ยานเกราะ</NE> 6
+<NE>ยายแฟง</NE> 1
+<NE>ยาสุคุนิ</NE> 1
+<NE>ยีน ชาร์ป</NE> 2
+<NE>ยุโรป</NE> 44
+<NE>ยุโรปตอนใต้</NE> 1
+<NE>ยุโรปตะวันตก</NE> 3
+<NE>ยุโรปตะวันออก</NE> 2
+<NE>ยูกีมือลี ฮะกอมิง</NE> 1
+<NE>ยูเอ็น</NE> 2
+<NE>ยูโกสลาเวีย</NE> 1
+<NE>ย่างกุ้ง</NE> 2
+<NE>ร.5</NE> 2
+<NE>ร.6</NE> 2
+<NE>ร.7</NE> 2
+<NE>ร.พ.รามาธิบดี</NE> 1
+<NE>ร.๕</NE> 3
+<NE>รพ.นราธิวาส</NE> 1
+<NE>รพ.ปัตตานี</NE> 1
+<NE>รพ.หาดใหญ่</NE> 1
+<NE>รพี</NE> 1
+<NE>รมย์ รติวัน</NE> 1
+<NE>รวม วงศ์พันธ์</NE> 1
+<NE>รศ.ดร.ชัยวัฒน์ สถาอานันท์</NE> 1
+<NE>รศ.ดร.ชัยวัฒน์สถาอานันท์</NE> 1
+<NE>รศ.ดร.ชื่นฤทัย กาญจนจิตรา</NE> 1
+<NE>รศ.ดร.ลาวัณย์ ถนัดศิลปกุล</NE> 1
+<NE>รศ.ดร.วรเจตน์ ภาคีรัตน์</NE> 2
+<NE>รศ.ดร.เกษียร เตชะพีระ</NE> 5
+<NE>รศ.ดร.เสรี พงศ์พิศ</NE> 1
+<NE>รศ.ศรีศักร วัลลิโภดม</NE> 1
+<NE>รศ.สายชล สัตยานุรักษ์</NE> 1
+<NE>รศ.ใจ อึ๊งภากรณ์</NE> 1
+<NE>รสช.</NE> 9
+<NE>รสสุคนธ์ ขันธ์นะภา</NE> 1
+<NE>รองนายกรัฐมนตรีอันวาร์</NE> 1
+<NE>รองประธานาธิบดี ริชาร์ด เชนีย์</NE> 1
+<NE>รองประธานาธิบดีริชาร์ด เชนีย์</NE> 1
+<NE>รองศาสตราจารย์ ดร.วรเจตน์ ภาคีรัตน์</NE> 1
+<NE>รองศาสตราจารย์ ดร.สุจริต คูณธนะกุลวงศ์</NE> 1
+<NE>รองศาสตราจารย์เมธี ครองแก้ว</NE> 1
+<NE>รอซาลี ซานาเต๊ะ</NE> 1
+<NE>รอตี้</NE> 31
+<NE>รอบ อาจารย์สัญญา</NE> 1
+<NE>รอลส์</NE> 2
+<NE>ระพีพรรณ คำหอม</NE> 2
+<NE>ระเบียบรัตน์ พงษ์พานิช</NE> 1
+<NE>ระแงะ</NE> 3
+<NE>รังสรรค์ ธนะพรพันธุ์</NE> 1
+<NE>รัชกาลที่ 3</NE> 1
+<NE>รัชกาลที่ 5</NE> 5
+<NE>รัชกาลที่ 6</NE> 2
+<NE>รัชกาลที่ ๕</NE> 2
+<NE>รัชกาลที่ ๗</NE> 3
+<NE>รัชกาลที่๕</NE> 2
+<NE>รัชกาลที่๗</NE> 1
+<NE>รัชดี</NE> 1
+<NE>รัญชิดาสังข์ดวง</NE> 1
+<NE>รัฐ California</NE> 1
+<NE>รัฐกลันตัน</NE> 6
+<NE>รัฐกะเหรี่ยง</NE> 3
+<NE>รัฐคะฉิ่น</NE> 2
+<NE>รัฐคะยา</NE> 3
+<NE>รัฐคะเรนนี</NE> 2
+<NE>รัฐฉาน</NE> 6
+<NE>รัฐชาติสยาม</NE> 1
+<NE>รัฐชาติไทย</NE> 3
+<NE>รัฐชิน</NE> 2
+<NE>รัฐซาบาร์</NE> 1
+<NE>รัฐซาราวัค</NE> 4
+<NE>รัฐตรังกานู</NE> 1
+<NE>รัฐติมอร์ตะวันออก</NE> 1
+<NE>รัฐบาล พันตำรวจโททักษิณ ชินวัตร</NE> 1
+<NE>รัฐบาล</NE> 1
+<NE>รัฐบาลกรุงเทพฯ</NE> 1
+<NE>รัฐบาลจีน</NE> 1
+<NE>รัฐบาลชวน</NE> 1
+<NE>รัฐบาลชุน</NE> 1
+<NE>รัฐบาลทักษิณ</NE> 4
+<NE>รัฐบาลนายกทักษิณ</NE> 1
+<NE>รัฐบาลบรรหาร</NE> 1
+<NE>รัฐบาลบังคลาเทศ</NE> 1
+<NE>รัฐบาลบุช</NE> 4
+<NE>รัฐบาลฝรั่งเศส</NE> 1
+<NE>รัฐบาลมาเลเซีย</NE> 1
+<NE>รัฐบาลร่างกุ้ง</NE> 1
+<NE>รัฐบาลสหรัฐ</NE> 1
+<NE>รัฐบาลสหรัฐฯ</NE> 1
+<NE>รัฐบาลอินโดนีเซีย</NE> 1
+<NE>รัฐบาลอเมริกา</NE> 1
+<NE>รัฐบาลเฟอร์ดินาน</NE> 1
+<NE>รัฐบาลแคนาดา</NE> 2
+<NE>รัฐบาลไทย</NE> 3
+<NE>รัฐบาลไทยรักไทย</NE> 1
+<NE>รัฐปัตตานีดารุลมาอารีฟ</NE> 1
+<NE>รัฐปาตานี</NE> 5
+<NE>รัฐพม่า</NE> 1
+<NE>รัฐมอญ</NE> 5
+<NE>รัฐศาสตร์</NE> 1
+<NE>รัฐสภา</NE> 10
+<NE>รัฐสยาม</NE> 1
+<NE>รัฐอาระกัน</NE> 3
+<NE>รัฐอิสลาม</NE> 1
+<NE>รัฐอิสลามอเสระ</NE> 1
+<NE>รัฐเกราลา</NE> 1
+<NE>รัฐเท็กซัส</NE> 1
+<NE>รัฐไทย</NE> 29
+<NE>รัตติยา สาและ</NE> 1
+<NE>รัตนโกสินทร์</NE> 1
+<NE>รัสเซล จาโคบี้</NE> 1
+<NE>รัสเซีย</NE> 10
+<NE>ราชดำเนิน</NE> 18
+<NE>ราชดำเนินกลาง</NE> 2
+<NE>ราชดำเนินนอก</NE> 2
+<NE>ราชดำเนินใน</NE> 6
+<NE>ราชบัณฑิตยสถาน</NE> 2
+<NE>ราชภัฏสกลนคร</NE> 1
+<NE>ราชอาณาจักรน่านเจ้า</NE> 1
+<NE>ราชอาณาจักรภูฐาน</NE> 1
+<NE>ราชอาณาจักรสยาม</NE> 2
+<NE>ราชอาณาจักรสุโขทัย</NE> 1
+<NE>ราชอาณาจักรอยุธยา</NE> 1
+<NE>ราชอาณาจักรไทย</NE> 22
+<NE>ราบิตาตุล มูจาฮิดีน</NE> 1
+<NE>รามคำแหง</NE> 1
+<NE>รามัน</NE> 1
+<NE>รามาธิบดี</NE> 1
+<NE>รายนิก</NE> 1
+<NE>ราเจส โนเอล</NE> 2
+<NE>ริคาร์โด</NE> 1
+<NE>ริชารจ์ เจนกินส์</NE> 1
+<NE>ริชารด์ เพิร์ล</NE> 1
+<NE>ริชาร์ด เชนีย์</NE> 1
+<NE>ริชาร์ด เดวิด</NE> 1
+<NE>ริชาร์ด เพิร์ล</NE> 3
+<NE>ริชาร์ด ไป๊ป์ส</NE> 1
+<NE>ริดวน</NE> 1
+<NE>ริทชี่</NE> 1
+<NE>ริโอ เดอ จาเนโร</NE> 1
+<NE>รือเสาะ</NE> 2
+<NE>รุ่ง แก้วแดง</NE> 1
+<NE>รุ่งวิทย์</NE> 2
+<NE>รูธ</NE> 1
+<NE>รูเพิร์ท เมอร์ดอค</NE> 1
+<NE>ร่างกุ้ง</NE> 3
+<NE>ร้อยเอ็ด</NE> 1
+<NE>ร้านพิซซ่าฮัท</NE> 1
+<NE>ฤาษีวาลมิกิ</NE> 1
+<NE>ลอนดอน</NE> 7
+<NE>ลอยก่อ</NE> 1
+<NE>ลอร่า อิงกัลล์ ไวล์เดอร์</NE> 1
+<NE>ลอร่า</NE> 1
+<NE>ลอว์เรนซ์ แคปแลน</NE> 1
+<NE>ลออ ไกรฤกษ์</NE> 2
+<NE>ละตินอเมริกา</NE> 3
+<NE>ละแวก</NE> 1
+<NE>ลังกาทวีป</NE> 5
+<NE>ลากอง</NE> 4
+<NE>ลาติน</NE> 1
+<NE>ลาตินอเมริกา</NE> 7
+<NE>ลานหอยเสียบ</NE> 2
+<NE>ลานโพธิ์</NE> 1
+<NE>ลาลูแบร์</NE> 1
+<NE>ลาว คำหอม</NE> 1
+<NE>ลาว</NE> 14
+<NE>ลำดวน ศรีศักดา</NE> 1
+<NE>ลำดวน</NE> 2
+<NE>ลำน้ำพรม</NE> 1
+<NE>ลำน้ำโขง</NE> 1
+<NE>ลำปาง</NE> 3
+<NE>ลำพูน</NE> 2
+<NE>ลินคอล์น</NE> 1
+<NE>ลิเบีย</NE> 5
+<NE>ลุกเซมเบิร์ก</NE> 4
+<NE>ลุง 1
+<NE>ลุดวิก วิตต์เกนสไตน์</NE> 1
+<NE>ลุเต็ง อาแวบือซา</NE> 1
+<NE>ลุ่มน้ำปิง</NE> 3
+<NE>ลุ่มน้ำยม</NE> 3
+<NE>ลุ่มน้ำอิระวดี</NE> 2
+<NE>ลุ่มน้ำเจ้าพระยา</NE> 3
+<NE>ลุ่มน้ำแม่ปิง</NE> 1
+<NE>ลุ่มน้ำโขง</NE> 6
+<NE>ลุ่มภูพาน</NE> 1
+<NE>ลุ่มแม่น้ำยม</NE> 1
+<NE>ลุ่มแม่น้ำโขง</NE> 2
+<NE>ลูกเสือชาวบ้าน</NE> 7
+<NE>ลูซิเฟอร์</NE> 14
+<NE>ลูซิแฟร์</NE> 3
+<NE>ลูล่า</NE> 4
+<NE>ลูเซียนเอ็มแฮงก์</NE> 1
+<NE>ล่ำซำ</NE> 1
+<NE>ล้านนา</NE> 2
+<NE>ล้านนาประเทศ</NE> 1
+<NE>วรดุลย์ ตุลารักษ์</NE> 1
+<NE>วรพุทธิ์ ชัยนาม</NE> 1
+<NE>วรรคทอง</NE> 1
+<NE>วรรณศิลป์</NE> 2
+<NE>วรศักดิ์ มหัทธโนบล</NE> 1
+<NE>วรเจตน์ ภาคีรัตน์</NE> 2
+<NE>วลัญชทัศน์</NE> 1
+<NE>วอชิงตันดีซี</NE> 1
+<NE>วอลเดน เบลโล</NE> 1
+<NE>วังกรมหลวงชุมพร</NE> 2
+<NE>วังกรมหลวงราชบุรีดิเรกฤทธิ์</NE> 1
+<NE>วังปารุสกวัน</NE> 1
+<NE>วังสระปทุม</NE> 1
+<NE>วังสะพุง</NE> 1
+<NE>วังหน้า</NE> 1
+<NE>วังไกลกังวล</NE> 1
+<NE>วัชรพล พุทธรักษา</NE> 2
+<NE>วัฒนา เขียววิมล</NE> 1
+<NE>วัดป่ามหาวัน</NE> 1
+<NE>วัดป่าสุทธาวาส</NE> 1
+<NE>วัดพรหมประสิทธิ์</NE> 2
+<NE>วัดพระศรีรัตนมหาธาตุ</NE> 1
+<NE>วัดมงกุฏกษัตริยาราม</NE> 1
+<NE>วัดมหาธาตุยุวราชรังสฤษดิ์</NE> 1
+<NE>วัดศรีทอง</NE> 1
+<NE>วัดหนองขาว</NE> 5
+<NE>วัดเจดีย์หลวง</NE> 1
+<NE>วัดเทพศิรินทราวาส</NE> 1
+<NE>วัดเลียบ</NE> 1
+<NE>วัดโพธิสมพร</NE> 1
+<NE>วันซาม</NE> 1
+<NE>วันดีสันติวุฒิเมธี</NE> 2
+<NE>วันมูหะมัดนอร์ มะทา</NE> 1
+<NE>วัสโกดากามา</NE> 1
+<NE>วาทิศ โสตถิพันธุ์</NE> 1
+<NE>วายุดดิน มูฮัมหมัด</NE> 1
+<NE>วารุณี ภูริสินสิทธิ์</NE> 3
+<NE>วารุณี</NE> 2
+<NE>วิจิตร ว่องวารีทิพย์</NE> 3
+<NE>วิจิตรวาทการ, หลวง</NE> 1
+<NE>วิจิตรวาทการ</NE> 1
+<NE>วิชิต</NE> 1
+<NE>วิฑูรย์ เลี่ยนจำรูญ</NE> 5
+<NE>วิทยากร เชียงกูล</NE> 2
+<NE>วิทยาลัย 1
+<NE>วิทยาลัยการเมืองการปกครอง</NE> 1
+<NE>วิทยาลัยคูเปอร์ ยูเนียน</NE> 1
+<NE>วิทยาลัยธุรกิจบัณฑิตย์</NE> 1
+<NE>วิทยาลัยป้องกันราชอาณาจักร</NE> 1
+<NE>วิทยาลัยอิสลามยะลา</NE> 1
+<NE>วิทยุยานเกราะ</NE> 1
+<NE>วินทร์ เลียววาริณ</NE> 1
+<NE>วิพุธ พูลเจริญ</NE> 1
+<NE>วิภา ดาวมณี</NE> 1
+<NE>วิระดา สมสวัสดิ์</NE> 1
+<NE>วิริยะ สว่างโชติ</NE> 1
+<NE>วิลเลียม คริสทอล</NE> 5
+<NE>วิลเลียม เอฟ. บัคเล่ย์ จูเนียร์</NE> 1
+<NE>วิวรณ์</NE> 1
+<NE>วิวัฒน์ชัย อัตถากร</NE> 1
+<NE>วิสุทธิ์ บุษยกุล</NE> 2
+<NE>วิสุทธ์ ใบไม้</NE> 1
+<NE>วุฒิชัย กฤษณะ</NE> 1
+<NE>วุฒิชัย มูลศิลป์</NE> 1
+<NE>วุฒิสภา</NE> 31
+<NE>วุฒิสมาชิก</NE> 1
+<NE>วูด</NE> 1
+<NE>วูดโลว์ วิลสัน</NE> 1
+<NE>วูลโฟวิตซ์</NE> 1
+<NE>ศ.จรัส สุวรรณมาลา</NE> 1
+<NE>ศ.ดร.ชาญวิทย์ เกษตรศิริ</NE> 1
+<NE>ศ.ดร.นิธิ เอียวศรีวงศ์</NE> 4
+<NE>ศ.ดร.บวรศักดิ์ อุวรรณโณ</NE> 1
+<NE>ศ.ดร.ผาสุก พงษ์ไพจิตร</NE> 1
+<NE>ศ.ดร.วิจิตร ศรีสอ้าน</NE> 1
+<NE>ศ.ดร.เจตนา นาควัชระ</NE> 1
+<NE>ศ.นพ.ประเวศ วะสี</NE> 2
+<NE>ศ.สุรพล นิติไกรพจน์</NE> 1
+<NE>ศ.เสน่ห์ จามริก</NE> 1
+<NE>ศปก.มท.</NE> 1
+<NE>ศยามล ไกยูรวงศ์</NE> 2
+<NE>ศรีธนญชัย</NE> 1
+<NE>ศรีบูรพา</NE> 7
+<NE>ศรีลังกา</NE> 3
+<NE>ศรีวิชัย</NE> 2
+<NE>ศรีศักร วัลลิโภดม</NE> 2
+<NE>ศรีสมภพ จิตร์ภิรมย์ศรี</NE> 2
+<NE>ศรีสมภพจิตร์ภิรมย์ศรี</NE> 1
+<NE>ศรีสาคร</NE> 2
+<NE>ศรีเมืองการพิมพ์</NE> 1
+<NE>ศอ.บต.</NE> 11
+<NE>ศอบต.</NE> 1
+<NE>ศอปต.</NE> 1
+<NE>ศัลยา ประชาชาติ</NE> 1
+<NE>ศากยวงศ์</NE> 2
+<NE>ศาตราจารย์เสน่ห์ จามริก</NE> 1
+<NE>ศาลจังหวัดนราธิวาส</NE> 1
+<NE>ศาลชารีอะฮฺ</NE> 1
+<NE>ศาลฎีกา</NE> 26
+<NE>ศาลทรัพยากรน้ำ</NE> 1
+<NE>ศาลทหาร</NE> 4
+<NE>ศาลทหารฯ</NE> 1
+<NE>ศาลที่ดินและสิ่งแวดล้อม</NE> 1
+<NE>ศาลปกครอง</NE> 18
+<NE>ศาลปกครองสงขลา</NE> 1
+<NE>ศาลปกครองสูงสุด</NE> 18
+<NE>ศาลปกครองเชียงใหม่</NE> 2
+<NE>ศาลพ่อพระราม</NE> 1
+<NE>ศาลยุติธรรม</NE> 12
+<NE>ศาลรัฐธรรมนูญ</NE> 147
+<NE>ศาลรัฐธรรมนูญไทย</NE> 1
+<NE>ศาลสิ่งแวดล้อม ทรัพยากร และการพัฒนา</NE> 1
+<NE>ศาลสิ่งแวดล้อม ทรัพยากรธรรมชาติ</NE> 1
+<NE>ศาลสิ่งแวดล้อม</NE> 32
+<NE>ศาลสิ่งแวดล้อมและที่ดิน</NE> 1
+<NE>ศาลสิ่งแวดล้อมและผังเมือง</NE> 1
+<NE>ศาลสูงยุติธรรม</NE> 1
+<NE>ศาลหลักเมืองเชียงใหม่</NE> 1
+<NE>ศาลอาญา</NE> 4
+<NE>ศาลอุทธรณ์</NE> 9
+<NE>ศาลาดุสิดาลัย</NE> 1
+<NE>ศาลาว่าการจังหวัดยะลา</NE> 1
+<NE>ศาลเจ้า "ยาสุคุนิ"</NE> 5
+<NE>ศาลเจ้าแม่ลิ้มกอเหนี่ยว</NE> 1
+<NE>ศาลแขวงคุมาโมโต</NE> 2
+<NE>ศาลโลก</NE> 3
+<NE>ศาสดามุฮัมมัด</NE> 1
+<NE>ศาสตรจารย์ดร.ชัยอนันต์ สมุทวณิช</NE> 1
+<NE>ศาสตราจารย์ Benedict Anderson</NE> 1
+<NE>ศาสตราจารย์ ดร. วิษณุ เครืองาม</NE> 1
+<NE>ศาสตราจารย์ ดร.หยุด แสงอุทัย</NE> 1
+<NE>ศาสตราจารย์เซนเดอร์ กิลแมน</NE> 1
+<NE>ศาสตราจารย์โยฮัน กัลตุง</NE> 1
+<NE>ศิริพร สะโครบาแนค</NE> 3
+<NE>ศิริรัตน์ ทวีเลิศนิธิ</NE> 1
+<NE>ศิริรัตน์</NE> 7
+<NE>ศิริราชพยาบาล</NE> 2
+<NE>ศิโรตม์ คล้ามไพบูลย์</NE> 2
+<NE>ศึกษาธิการ</NE> 1
+<NE>ศึกษาภัณฑ์</NE> 1
+<NE>ศุภวิทย์ ถาวรบุตร</NE> 1
+<NE>ศูนย์ 1
+<NE>ศูนย์กลางการแพทย์แห่งเอเชีย</NE> 1
+<NE>ศูนย์กลางอิสลามแห่งประเทศไทย</NE> 1
+<NE>ศูนย์การประชุมและแสดงสินค้านานาชาติอิมแพ็ค</NE> 1
+<NE>ศูนย์คุ้มครองสิทธิด้านเอดส์</NE> 1
+<NE>ศูนย์จีนศึกษา</NE> 1
+<NE>ศูนย์ช่วยเหลือทางวิชาการพัฒนาชุมชน และสวัสดิการสังคม</NE> 1
+<NE>ศูนย์นิติธรรม</NE> 1
+<NE>ศูนย์นิเวศฯ</NE> 1
+<NE>ศูนย์ประชุมอิมแพ็ค เมืองทองธานี</NE> 1
+<NE>ศูนย์พันธุวิศวกรรมและเทคโนโลยีชีวภาพแห่งชาติ</NE> 2
+<NE>ศูนย์พิทักษ์สิทธิสตรี</NE> 1
+<NE>ศูนย์มานุษยวิทยาสิรินธร</NE> 1
+<NE>ศูนย์วิจัยนิวตรอนพลังงานสูง</NE> 3
+<NE>ศูนย์ศึกษายุทธศาสตร์การค้าระหว่างประเทศ</NE> 1
+<NE>ศูนย์หนังสือเชียงใหม่</NE> 1
+<NE>ศูนย์อำนวยการบริหารจังหวัดชายแดนภาคใต้</NE> 2
+<NE>ศูนย์อำนวยการปฏิบัติการชายแดนภาคใต้</NE> 1
+<NE>ศูนย์ไบโอเทค</NE> 2
+<NE>ส. ศิวรักษ์</NE> 1
+<NE>ส.ป.ก.</NE> 1
+<NE>ส.ศิวรักษ์</NE> 3
+<NE>สกยอ.</NE> 1
+<NE>สกลนคร</NE> 7
+<NE>สกว.</NE> 4
+<NE>สกศ.</NE> 1
+<NE>สกันธ์ มิตรนรา</NE> 1
+<NE>สกายบุ๊กส์</NE> 1
+<NE>สกุลคอมมอนลอว์</NE> 2
+<NE>สงขลา</NE> 18
+<NE>สจ๊วต</NE> 1
+<NE>สดุดี</NE> 1
+<NE>สตช.</NE> 1
+<NE>สตาลิน</NE> 2
+<NE>สตีเฟน สปาร์ค</NE> 1
+<NE>สตีเฟ่น แคมโบน</NE> 1
+<NE>สตูล</NE> 7
+<NE>สถานการณ์</NE> 1
+<NE>สถานทูตสหรัฐ</NE> 1
+<NE>สถานีตำรวจกรงปีนัง</NE> 1
+<NE>สถานีตำรวจภูธร อำเภอตากใบ</NE> 1
+<NE>สถานีตำรวจภูธรปัตตานี</NE> 1
+<NE>สถานีตำรวจภูธรอำเภอตากใบ</NE> 1
+<NE>สถานีตำรวจภูธรอำเภอบันนังสตา</NE> 2
+<NE>สถานีตำรวจภูธรอำเภอปานาเระ</NE> 1
+<NE>สถานีตำรวจภูธรเมืองสงขลา</NE> 1
+<NE>สถานีตำรวจอำเภอแม่ลาน</NE> 2
+<NE>สถานีวิทยุท.ท.ท.</NE> 1
+<NE>สถานีวิทยุยานเกราะ</NE> 1
+<NE>สถานีหมอชิต 2</NE> 1
+<NE>สถานีโทรทัศน์อัลอะรอบียะห์</NE> 1
+<NE>สถานีโทรทัศน์ไอทีวี</NE> 1
+<NE>สถาบัน 3
+<NE>สถาบัน American Enterprise Institute</NE> 1
+<NE>สถาบันกฎหมายอาญา</NE> 1
+<NE>สถาบันการแพทย์แผนไทย</NE> 2
+<NE>สถาบันคลังสมอง</NE> 2
+<NE>สถาบันชุมชนท้องถิ่นพัฒนา</NE> 3
+<NE>สถาบันนโยบายศึกษา</NE> 1
+<NE>สถาบันราชภัฎสุรินทร์</NE> 1
+<NE>สถาบันรามจิตติ</NE> 5
+<NE>สถาบันวิจัยประชากรและสังคม</NE> 1
+<NE>สถาบันวิจัยรพีพัฒนศักดิ์</NE> 1
+<NE>สถาบันวิจัยระบบสาธารณสุข</NE> 3
+<NE>สถาบันวิจัยระหว่างประเทศ</NE> 1
+<NE>สถาบันวิจัยสังคม มหาวิทยาลัยเชียงใหม่</NE> 1
+<NE>สถาบันวิจัยฮัดสัน</NE> 1
+<NE>สถาบันวิจัยและพัฒนา</NE> 1
+<NE>สถาบันวิถีทรรศน์</NE> 1
+<NE>สถาบันศึกษาปอเนาะ</NE> 3
+<NE>สถาบันสันติประชาธรรม</NE> 1
+<NE>สถาบันสันติศึกษา</NE> 2
+<NE>สถาบันสิ่งแวดล้อมศึกษา กรุงอัมสเตอร์ดัม</NE> 1
+<NE>สถาบันส่งเสริมการปฏิรูประบบยุติธรรมและความเป็นธรรมทางสังคม</NE> 1
+<NE>สถาบันฮัดสัน</NE> 1
+<NE>สถาบันเพื่อยุทธศาสตร์ทางสิ่งแวดล้อมระดับโลก</NE> 1
+<NE>สถาบันแพทย์แผนไทย</NE> 1
+<NE>สถาบันแมนฮัตตัน</NE> 1
+<NE>สถาบันไทยคดีศึกษา</NE> 2
+<NE>สถาพร ศรีสัจจัง</NE> 1
+<NE>สนง.</NE> 2
+<NE>สนธิ ลิ้มทองกุล</NE> 3
+<NE>สนธิ</NE> 5
+<NE>สนธิลิ้ม ทองกุล</NE> 1
+<NE>สนนท.</NE> 2
+<NE>สนาม 1
+<NE>สนามกอล์ฟอัลไพน์</NE> 1
+<NE>สนามบินหนองงูเห่า</NE> 1
+<NE>สนามบินหาดใหญ่</NE> 1
+<NE>สนามบินเชียงใหม่</NE> 3
+<NE>สนามหลวง</NE> 4
+<NE>สนิท เอกชัย</NE> 1
+<NE>สบ.</NE> 1
+<NE>สปก.</NE> 3
+<NE>สปรย.</NE> 1
+<NE>สพช.</NE> 1
+<NE>สภาทนายความ</NE> 5
+<NE>สภาทนายความแห่งประเทศไทย</NE> 2
+<NE>สภาที่ปรึกษาเศรษฐกิจและสังคมแห่งชาติ</NE> 1
+<NE>สภานักศึกษาวิทยาลัยครูธนบุรี</NE> 2
+<NE>สภานายกหอพระสมุดวชิรญาณ</NE> 1
+<NE>สภาประชากร</NE> 1
+<NE>สภาผู้แทน</NE> 2
+<NE>สภาผู้แทนราษฎร</NE> 35
+<NE>สภาผู้แทนฯ</NE> 5
+<NE>สภาพัฒนาการเศรษฐกิจแห่งชาติ</NE> 2
+<NE>สภาพัฒน์</NE> 1
+<NE>สภาฟื้นฟูกฎระเบียบแห่งรัฐ</NE> 1
+<NE>สภามหาวิทยาลัยธรรมศาสตร์</NE> 1
+<NE>สภายุโรป</NE> 3
+<NE>สภาวิจัยแห่งขาติ</NE> 1
+<NE>สภาวิจัยแห่งชาติ</NE> 2
+<NE>สภาองค์กรปกครองท้องถิ่น</NE> 1
+<NE>สภาเนติบัณฑิตชนพื้นเมือง</NE> 1
+<NE>สภาเพื่อสันติภาพและการพัฒนาแห่งรัฐ</NE> 1
+<NE>สมคิด เลิศไพฑูรย์</NE> 1
+<NE>สมชาย นีละไพจิตร</NE> 3
+<NE>สมชาย ปรีชาศิลปกุล</NE> 4
+<NE>สมชาย พรหมโคตร</NE> 1
+<NE>สมชาย</NE> 1
+<NE>สมบูรณ์ วรพงษ์</NE> 1
+<NE>สมปอง เพ็งจันทร์</NE> 1
+<NE>สมพร จันทระ</NE> 2
+<NE>สมภพ บุนนาค</NE> 1
+<NE>สมศักดิ์ เจียมธีรสกุล</NE> 7
+<NE>สมัชชาคนจน</NE> 14
+<NE>สมัยจอมพลสฤษดิ์</NE> 1
+<NE>สมาคมตาฏีกา</NE> 1
+<NE>สมาคมทนายความแห่งประเทศไทย</NE> 1
+<NE>สมาคมธรรมศาสตร์</NE> 1
+<NE>สมาคมธุรกิจท่องเที่ยวนราธิวาส</NE> 1
+<NE>สมาคมนักศึกษาและคนงานจากปาตานี</NE> 1
+<NE>สมาคมผู้สื่อข่าวภาคใต้</NE> 1
+<NE>สมาคมพิทักษ์ประโยชน์ผู้บริโภค</NE> 1
+<NE>สมาคมศิษย์เก่ารัตนบุรี</NE> 1
+<NE>สมาคมสังคมศาสตร์แห่งประเทศไทย</NE> 1
+<NE>สมาคมส่งเสริมสถานภาพสตรี</NE> 1
+<NE>สมาคมส่งเสริมสถานภาพสตรีแห่งประเทศไทย</NE> 2
+<NE>สมาคมไหมไทย</NE> 1
+<NE>สมาน แวกะจิ</NE> 1
+<NE>สมเกียรติ ตั้งกิจวานิชย์</NE> 2
+<NE>สมเกียรติ ตั้งนโม</NE> 8
+<NE>สมเกียรติ พงษ์ไพบูลย์</NE> 1
+<NE>สมเกียรติ วันทะนะ</NE> 1
+<NE>สมเกียรติ</NE> 3
+<NE>สมเด็จ ฯ กรมพระยาดำรงราชานุภาพ</NE> 2
+<NE>สมเด็จกรมพระยาดำรงราชานุภาพ</NE> 3
+<NE>สมเด็จพระนเรศวร</NE> 1
+<NE>สมเด็จพระบรมไตรโลกนาถ</NE> 2
+<NE>สมเด็จพระปิยมหาราช</NE> 2
+<NE>สมเด็จพระมหาสมณเจ้ากรมพระยาวชิรญาณวโรรส</NE> 3
+<NE>สมเด็จพระเจ้าบรมวงศ์เธอกรมพระยาดำรงราชานุภาพ</NE> 1
+<NE>สมเด็จพระเจ้าบรมวงศ์เธอกรมหลวงดำรงราชานุภาพ</NE> 1
+<NE>สมเด็จพระเจ้าอยู่หัว</NE> 1
+<NE>สมเด็จฯ กรมขุนชัยนาทฯ</NE> 1
+<NE>สมเด็จฯ กรมพระยาดำรงราชานุภาพ</NE> 5
+<NE>สมเด็จฯ กรมหมื่นพิทยลาภพฤฒิยากร</NE> 1
+<NE>สมเด็จฯ เจ้าฟ้ากรมหลวงราชบุรีดิเรกฤทธิ์</NE> 1
+<NE>สมเด็จฯกรมพระนริศรานุวัดติวงศ์</NE> 1
+<NE>สมเด็จฯกรมพระยาดำรงราชนุภาพ</NE> 1
+<NE>สมเด็จฯกรมพระยาดำรงราชานุภาพ</NE> 18
+<NE>สมเด็จฯเจ้าฟ้ากรมหลวงพิษณุโลกประชานารถ</NE> 1
+<NE>สมเด็จเจ้าพระยาภาสเด็จฯ</NE> 1
+<NE>สมเด็จเจ้าพระยามหากษัตริย์ศึก</NE> 2
+<NE>สมโชติ อ่องสกุล</NE> 1
+<NE>สยาม</NE> 33
+<NE>สยามประเทศ</NE> 8
+<NE>สยามสมาคม</NE> 1
+<NE>สยามสแควร์</NE> 1
+<NE>สระบุรี</NE> 1
+<NE>สร้อยแก้ว คำมาลา</NE> 1
+<NE>สฤณี อาชวานันทกุล</NE> 1
+<NE>สฤษฎิ์</NE> 1
+<NE>สฤษดิ์ ธนะรัชต์</NE> 4
+<NE>สฤษดิ์</NE> 10
+<NE>สว.การุณ ไสงาม</NE> 1
+<NE>สว.แก้วสรร อติโพธิ</NE> 1
+<NE>สวนบัวรีสอร์ท</NE> 1
+<NE>สวนบางช้าง</NE> 1
+<NE>สวนพฤกษศาสตร์โบกอร์</NE> 1
+<NE>สวนอัมพร</NE> 1
+<NE>สวนอีเดน</NE> 1
+<NE>สวิตเซอร์แลนด์</NE> 1
+<NE>สวิส</NE> 4
+<NE>สวิสเซอร์แลนด์</NE> 6
+<NE>สวีเดน</NE> 11
+<NE>สว่างแดนดิน</NE> 1
+<NE>สสส.</NE> 3
+<NE>สหกรณ์คนงานเหมืองแร่</NE> 1
+<NE>สหทัย</NE> 1
+<NE>สหประชาชาติ</NE> 14
+<NE>สหพันธรัฐฉาน</NE> 2
+<NE>สหพันธรัฐมาลายา</NE> 1
+<NE>สหพันธรัฐมาเลเซีย</NE> 2
+<NE>สหพันธ์กลุ่มเกษตรกรภาคเหนือ</NE> 1
+<NE>สหพันธ์ประชาชนเพื่อสิ่งแวดล้อมและการพัฒนาภาคตะวันออก</NE> 1
+<NE>สหพันธ์เกษตรกรภาคเหนือ</NE> 4
+<NE>สหพันธ์เพื่อการอนุรักษ์นานาชาติ</NE> 1
+<NE>สหพันธ์แรงงานบ้านสตรี</NE> 1
+<NE>สหภาพยุโรป</NE> 19
+<NE>สหภาพแรงงาน</NE> 1
+<NE>สหภาพแห่งชาติกะเหรี่ยง</NE> 2
+<NE>สหภาพโซเวียต</NE> 5
+<NE>สหรัฐ ฯ</NE> 1
+<NE>สหรัฐ</NE> 90
+<NE>สหรัฐอเมริกา</NE> 62
+<NE>สหรัฐฯ</NE> 53
+<NE>สหราชอาณาจักร</NE> 2
+<NE>สะตา ลาบก</NE> 4
+<NE>สะบ้าย้อย</NE> 3
+<NE>สะพานผ่านฟ้าลีลาศ</NE> 2
+<NE>สะมะแอ ลาเตะ อับดุลรอฮะ หามะ อัสมี สาหลำ</NE> 1
+<NE>สะมาแอ ลาเตะ</NE> 1
+<NE>สะรอนีดือเระ</NE> 1
+<NE>สะแปอิง บาซอ</NE> 2
+<NE>สะแปอิง</NE> 2
+<NE>สัญญา ธรรมศักดิ์</NE> 1
+<NE>สัญญา สัญญาวิวัฒน์</NE> 1
+<NE>สันติศึกษา</NE> 1
+<NE>สันทราย</NE> 1
+<NE>สัมพันธมิตร</NE> 4
+<NE>สาขาถนนเพชรเกษม</NE> 1
+<NE>สาขานิติศาสตร์</NE> 2
+<NE>สาขาวิชานิติศาสตร์</NE> 1
+<NE>สาธารณรัฐประชาชนจีน</NE> 1
+<NE>สามัคยาจารย์สมาคม</NE> 1
+<NE>สาย สีมา</NE> 6
+<NE>สายชล สัตยานุรักษ์</NE> 5
+<NE>สายชล</NE> 2
+<NE>สายธาร</NE> 1
+<NE>สายบุรี</NE> 1
+<NE>สายันต์ ไพรชาญจิตร์</NE> 1
+<NE>สารี อ๋องสมหวัง</NE> 1
+<NE>สาละวิน</NE> 2
+<NE>สาวิตรี</NE> 2
+<NE>สาหร่าย</NE> 1
+<NE>สาเมาะ</NE> 1
+<NE>สำนักข่าวกรองแห่งชาติ</NE> 2
+<NE>สำนักข่าวประชาไท</NE> 1
+<NE>สำนักข่าวเวียดนาม</NE> 1
+<NE>สำนักข่าวไทย</NE> 1
+<NE>สำนักงาน UNHCR</NE> 1
+<NE>สำนักงานกองทุนสนันสนุนการวิจัย</NE> 1
+<NE>สำนักงานกองทุนสนับสนุนการวิจัย</NE> 8
+<NE>สำนักงานกองทุนสนับสนุนการวิจัยและการประชุมไทยศึกษา</NE> 1
+<NE>สำนักงานการศึกษาแห่งชาติ</NE> 1
+<NE>สำนักงานข่าวกรอง</NE> 1
+<NE>สำนักงานข้าหลวงใหญ่ผู้ลี้ภัยสหประชาชาติ</NE> 1
+<NE>สำนักงานคณะกรรมการกฤษฎีกา</NE> 3
+<NE>สำนักงานคณะกรรมการกองทุนสนับสนุนการวิจัย</NE> 2
+<NE>สำนักงานคณะกรรมการการศึกษาแห่งชาติ</NE> 1
+<NE>สำนักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ</NE> 2
+<NE>สำนักงานคณะกรรมการพัฒนาเศรษฐกิจและสังคมแห่งชาติ</NE> 2
+<NE>สำนักงานคณะกรรมการพิเศษเพื่อประสานงานโครงการอันเนื่องมาจากพระราชดำริ</NE> 1
+<NE>สำนักงานคณะอนุกรรมการลุ่มน้ำปิงตอนบน งานทรัพยากรน้ำภาคที่1</NE> 1
+<NE>สำนักงานตำรจแห่งชาติ</NE> 1
+<NE>สำนักงานตำรวจแห่งชาติ</NE> 1
+<NE>สำนักงานทรัพย์สิน ฯ</NE> 1
+<NE>สำนักงานทรัพย์สินส่วนพระมหากษัตริย์</NE> 1
+<NE>สำนักงานทรัพย์สินฯ</NE> 2
+<NE>สำนักงานปลัดกระทรวงมหาดไทย</NE> 2
+<NE>สำนักงานฝ่ายหนังสือเดินทาง</NE> 1
+<NE>สำนักงานพัฒนาการเศรษฐกิจและสังคมแห่งชาติ</NE> 1
+<NE>สำนักงานพันธกิจการศึกษา</NE> 1
+<NE>สำนักงานรับรองมาตรฐานและประเมินคุณภาพการศึกษา</NE> 2
+<NE>สำนักงานศาลรัฐธรรมนูญ</NE> 1
+<NE>สำนักงานสถิติจังหวัดจันทบุรี</NE> 1
+<NE>สำนักงานสถิติแห่งชาติ</NE> 1
+<NE>สำนักงานสภาความมั่นคงแห่งชาติ</NE> 1
+<NE>สำนักงานสาธารณสุขสหรัฐประจำเขตซีแอตเติล-คิง</NE> 1
+<NE>สำนักงานสิทธิบัตร</NE> 2
+<NE>สำนักงานสิ่งแวดล้อมฯ</NE> 1
+<NE>สำนักงานอัยการสูงสุด</NE> 1
+<NE>สำนักงานเลขาธิการวุฒิสภา</NE> 1
+<NE>สำนักงานเลขาธิการสหประชาชาติ</NE> 1
+<NE>สำนักงานเลขาธิการองค์การสหประชาชาติ</NE> 1
+<NE>สำนักจุฬาราชมนตรี</NE> 1
+<NE>สำนักนายกรัฐมนตรี</NE> 7
+<NE>สำนักนโยบายและแผนสิ่งแวดล้อม</NE> 1
+<NE>สำนักพิมพ์ Crown Forum</NE> 1
+<NE>สำนักพิมพ์ Silkworm Books</NE> 1
+<NE>สำนักพิมพ์ The Free Press</NE> 1
+<NE>สำนักพิมพ์กรุงเทพ</NE> 1
+<NE>สำนักพิมพ์กู้ดมอร์นิ่ง</NE> 1
+<NE>สำนักพิมพ์คบไฟ</NE> 2
+<NE>สำนักพิมพ์ตรัสวิน</NE> 1
+<NE>สำนักพิมพ์นาคร</NE> 3
+<NE>สำนักพิมพ์นิติธรรม</NE> 1
+<NE>สำนักพิมพ์บรรณาคาร</NE> 1
+<NE>สำนักพิมพ์ฟ้าเดียวกัน</NE> 1
+<NE>สำนักพิมพ์มติชน.</NE> 1
+<NE>สำนักพิมพ์มติชน</NE> 7
+<NE>สำนักพิมพ์มหาวิทยาลัยธรรมศาสตร์</NE> 3
+<NE>สำนักพิมพ์มิตนรา</NE> 1
+<NE>สำนักพิมพ์มิตรนรา</NE> 1
+<NE>สำนักพิมพ์มูลนิธิโกมล คีมทอง</NE> 1
+<NE>สำนักพิมพ์มูลนิธิโกมลคีมทอง</NE> 3
+<NE>สำนักพิมพ์วลี</NE> 1
+<NE>สำนักพิมพ์วิญญูชน</NE> 1
+<NE>สำนักพิมพ์ศยาม</NE> 1
+<NE>สำนักพิมพ์สร้างสรรค์</NE> 2
+<NE>สำนักพิมพ์สวนเงินมีมา</NE> 1
+<NE>สำนักพิมพ์สุขภาพใจ</NE> 1
+<NE>สำนักพิมพ์หยาดฝน</NE> 2
+<NE>สำนักพิมพ์อัมรินทร์</NE> 1
+<NE>สำนักพิมพ์อ่านไทย</NE> 2
+<NE>สำนักพิมพ์เกวียนทอง</NE> 1
+<NE>สำนักพิมพ์เทียนวรรณ</NE> 1
+<NE>สำนักวาติกัน</NE> 1
+<NE>สำนักวิจัยและพัฒนา</NE> 1
+<NE>สำนักวิชาศิลปศาสตร์</NE> 1
+<NE>สำนักอธิบดีผู้พิพากษา ภาค 1</NE> 1
+<NE>สำนักอบรมศึกษากฎหมายแห่งเนติบัณฑิตยสภา</NE> 2
+<NE>สำนักเลขาธิการนายกรัฐมนตรี</NE> 1
+<NE>สำนักเลขาธิการสภาผู้แทนราษฎร</NE> 1
+<NE>สำนักเศรษฐศาสตร์การเมือง จุฬาฯ</NE> 1
+<NE>สำนึกงานตรวจเงินแผ่นดิน</NE> 1
+<NE>สิงคโปร์</NE> 13
+<NE>สิทธัตถะ</NE> 4
+<NE>สิบสองปันนา</NE> 2
+<NE>สิบเอกสามารถกาบกลางดอน</NE> 1
+<NE>สี่ต่อตงฮัก</NE> 1
+<NE>สุกรานต์ โรจนไพรวงศ์</NE> 1
+<NE>สุกรี มะมิง</NE> 1
+<NE>สุกัญญา หาญตระกูล</NE> 1
+<NE>สุคนธรส</NE> 1
+<NE>สุจิตต์ วงษ์เทศ</NE> 3
+<NE>สุจิตต์</NE> 1
+<NE>สุจินดา</NE> 1
+<NE>สุชาดา จักรพิสุทธิ์</NE> 1
+<NE>สุชาติ สวัสดิ์ศรี</NE> 3
+<NE>สุชาติ</NE> 1
+<NE>สุดใจ ตัณฑากาศ</NE> 2
+<NE>สุนทรภู่</NE> 1
+<NE>สุนทรีย อาสะไวย์</NE> 1
+<NE>สุนีย์</NE> 1
+<NE>สุพจน์ ด่านตระกูล</NE> 1
+<NE>สุพจน์ แจ้งเร็ว</NE> 1
+<NE>สุพจน์</NE> 1
+<NE>สุภลักษณ์ กาญจนขุนดี</NE> 2
+<NE>สุภลักษณ์</NE> 13
+<NE>สุภัตรา ภูมิประภาส</NE> 3
+<NE>สุภา ศิริมานนท์</NE> 2
+<NE>สุมนมาลย์สิงหะ</NE> 1
+<NE>สุรพล นิติไกรพจน์</NE> 2
+<NE>สุรยุทธ</NE> 1
+<NE>สุริชัย หวันแก้ว</NE> 1
+<NE>สุรินทร์ พิศสุวรรณ</NE> 3
+<NE>สุรินทร์</NE> 1
+<NE>สุรีย์ ภูมิภมร</NE> 1
+<NE>สุลต่านมะห์มุด</NE> 1
+<NE>สุลักษณ์ ศิวรักษ์</NE> 6
+<NE>สุลักษณ์</NE> 2
+<NE>สุวพงศ์ จั่นฝังเพ็ชร</NE> 1
+<NE>สุวรรณภูมิ</NE> 1
+<NE>สุวินัย</NE> 1
+<NE>สุสานยะหริ่ง</NE> 1
+<NE>สุหลง บิน อับดุล กาเดร์ บิน โมฮัมหมัด เอล ฟะ-ฏอนี</NE> 1
+<NE>สุเนตร ชุตินธรานนท์</NE> 1
+<NE>สุโขทัย</NE> 4
+<NE>สุไหงปาดี</NE> 3
+<NE>สเตรปโตคอคคัส</NE> 1
+<NE>สเตร้าส์</NE> 1
+<NE>สเปน</NE> 8
+<NE>สแต็ทแมน</NE> 1
+<NE>สโมสรเนติบัณฑิตยสภา</NE> 2
+<NE>สโลเวอเนีย</NE> 1
+<NE>สไตเวอร์</NE> 1
+<NE>สไตเวอร์ส</NE> 1
+<NE>หจช.,</NE> 1
+<NE>หจช.</NE> 1
+<NE>หทัยกาญจน์ ตรีสุวรรณ</NE> 2
+<NE>หน.เบอร์ซาตู</NE> 1
+<NE>หนองขาว</NE> 3
+<NE>หนองคาย</NE> 1
+<NE>หนองผือ</NE> 2
+<NE>หนองหาร</NE> 1
+<NE>หนูกลอย</NE> 1
+<NE>หน่วยกระทิงแดง</NE> 2
+<NE>หน่วยงานกปร</NE> 1
+<NE>หมอฮาราดะ</NE> 3
+<NE>หมอแว</NE> 6
+<NE>หมื่นรุดอักษร</NE> 1
+<NE>หมู่บ้านตันหยงลิมอ</NE> 1
+<NE>หมู่บ้านนาร์งู</NE> 1
+<NE>หมู่บ้านน้ำตวงกอง</NE> 2
+<NE>หมู่เกาะญี่ปุ่น</NE> 1
+<NE>หมู่เกาะนิโคบาร์</NE> 1
+<NE>หมู่เกาะแปซิฟิก</NE> 1
+<NE>หม่อมเจ้าวรรณไวทยากร</NE> 1
+<NE>หม่อมเจ้าหญิงพร้อมเพราพรรณ</NE> 1
+<NE>หม่อมเจ้าหญิงพูนพิศมัย ดิสกุล</NE> 1
+<NE>หลวงกาจสงคราม</NE> 2
+<NE>หลวงตามหาบัว ญาณสัมปันโน</NE> 1
+<NE>หลวงตามหาบัว</NE> 1
+<NE>หลวงธำรงนาวาสวัสดิ์</NE> 1
+<NE>หลวงประดิษฐมนูธรรม</NE> 1
+<NE>หลวงปู่กงมา จิรปุญโญ</NE> 1
+<NE>หลวงปู่คำดี ปภาโส</NE> 1
+<NE>หลวงปู่ชอบ ฐานสโม</NE> 1
+<NE>หลวงปู่ชอบ</NE> 1
+<NE>หลวงปู่ตื้อ อจลธัมโม</NE> 1
+<NE>หลวงปู่ฝั้นอาจาโร</NE> 1
+<NE>หลวงปู่มั่น ภูริทัตโต</NE> 1
+<NE>หลวงปู่มั่น</NE> 4
+<NE>หลวงปู่สิงห์ ขันตยาขโม</NE> 1
+<NE>หลวงปู่สิงห์ ขันยาคโม</NE> 1
+<NE>หลวงปู่หลุย จันทสาโร</NE> 1
+<NE>หลวงปู่หล้า</NE> 1
+<NE>หลวงปู่เทสก์ เทสสรังสี</NE> 1
+<NE>หลวงปู่เทสก์ เทสส์รังสี</NE> 1
+<NE>หลวงปู่แหวน</NE> 1
+<NE>หลวงพิบูล</NE> 1
+<NE>หลวงพิบูลย์สงคราม</NE> 1
+<NE>หลวงพิบูลสงคราม</NE> 4
+<NE>หลวงพ่อชา สุภัทโท</NE> 1
+<NE>หลวงพ่อพระพยอม</NE> 1
+<NE>หลวงลอง</NE> 1
+<NE>หลวงวิจิตร</NE> 11
+<NE>หลวงวิจิตรวาทการ</NE> 53
+<NE>หลวงวิจิตรฯ</NE> 32
+<NE>หลักการ</NE> 1
+<NE>หลินเปียว</NE> 3
+<NE>หลิวเส้าฉี</NE> 2
+<NE>หลุยส์ ดูปลาตร์</NE> 1
+<NE>หลุยส์ อัลทูแซร์</NE> 2
+<NE>หลุยส์วิลล์</NE> 1
+<NE>หวงเฉียวบุ๋นเหียนทงเค้า</NE> 1
+<NE>หวูฮั่น</NE> 1
+<NE>หอการค้าไทย</NE> 1
+<NE>หอนิทรรศการศิลปวัฒนธรรม มช.</NE> 1
+<NE>หอประชุมจุฬาลงกรณ์มหาวิทยาลัย</NE> 1
+<NE>หอประชุมสภาวัฒนธรรม</NE> 2
+<NE>หอไอเฟล</NE> 1
+<NE>หะยี สะมะแอ ท่าน้ำ</NE> 1
+<NE>หะยี เอ็ม</NE> 1
+<NE>หะยี</NE> 1
+<NE>หะยีซำซุดดิน มุสตาฟา</NE> 1
+<NE>หะยีดาโอ๊ะ ท่าน้ำ</NE> 1
+<NE>หะยีสะมะแอ ท่าน้ำ</NE> 1
+<NE>หะยีสุหลง</NE> 9
+<NE>หะยีอับดุลเราะมาน บาโซ่</NE> 1
+<NE>หะยีฮาดี มินโดสลี</NE> 1
+<NE>หะยีฮาดี</NE> 1
+<NE>หะยีแว</NE> 1
+<NE>หาดใหญ่</NE> 7
+<NE>หินกรูด</NE> 1
+<NE>ห้วยขาแข้ง</NE> 1
+<NE>ห้วยปลาหลด</NE> 1
+<NE>ห้องประชุม เดช สนิทวงศ์</NE> 1
+<NE>ห้องประชุมสัญญา ธรรมศักดิ์</NE> 1
+<NE>ห้องประชุมเดช สนิทวงศ์</NE> 1
+<NE>ห้องเรดิสันบอลรูม</NE> 1
+<NE>ห้องแกรนด์ไดมอนบอลรูม</NE> 1
+<NE>ห้างคาร์ฟูร์</NE> 2
+<NE>อ.กาบัง</NE> 2
+<NE>อ.จะนะ</NE> 1
+<NE>อ.ตากใบ</NE> 2
+<NE>อ.ธีรยุทธ บุญมี</NE> 1
+<NE>อ.พรรณานิคม</NE> 1
+<NE>อ.พิชญ์ พงษ์สวัสดิ์</NE> 1
+<NE>อ.ลี้อ</NE> 1
+<NE>อ.สวรรค์ ตั้งตรงสิทธิกุล</NE> 1
+<NE>อ.สว่างแดนดิน</NE> 1
+<NE>อ.สายชล</NE> 1
+<NE>อ.สุชาย ตรีรัตน์</NE> 1
+<NE>อ.สุลักษณ์ ศิวรักษ์</NE> 1
+<NE>อ.อับดุชชะกูร์ บิน ชาฟิอีย์ ดินอะ</NE> 1
+<NE>อ.เขียน</NE> 1
+<NE>อ.เมือง</NE> 2
+<NE>อ.เรณูนคร</NE> 1
+<NE>อ.เวียงแหง</NE> 1
+<NE>อ.แก้งคร้อ</NE> 2
+<NE>อ.แม่เมาะ</NE> 1
+<NE>อ.โคกศรีสุพรรณ</NE> 2
+<NE>อ.ใจ อึ๊งภากรณ์</NE> 1
+<NE>อคิน รพีพัฒน์</NE> 1
+<NE>องค์กรการค้าโลก</NE> 4
+<NE>องค์กรการเดินเรือสมุทรระหว่างประเทศ</NE> 1
+<NE>องค์กรนิรโทษกรรมสากล</NE> 45
+<NE>องค์กรปกครองท้องถิ่น</NE> 1
+<NE>องค์กรปกครองส่วนท้องถิ่น</NE> 1
+<NE>องค์กรพัฒนาเอกชน</NE> 3
+<NE>องค์กรสิทธิมนุษยชน</NE> 1
+<NE>องค์กรสิทธิมนุษยชนของมาเลเซีย</NE> 1
+<NE>องค์กรสิ่งแวดล้อมสหประชาชาติ</NE> 1
+<NE>องค์การ 1
+<NE>องค์การการค้าโลก</NE> 38
+<NE>องค์การค้าคุรุสภา</NE> 2
+<NE>องค์การที่ประชุมอิสลาม</NE> 1
+<NE>องค์การนิรโทษกรรมสากล</NE> 2
+<NE>องค์การปลดปล่อยปาเลสไตน์</NE> 1
+<NE>องค์การปลดปล่อยรัฐปัตตานี</NE> 1
+<NE>องค์การปลดปล่อยรัฐปาตานี</NE> 1
+<NE>องค์การพิทักษ์สาธารณภัยประชาชน</NE> 1
+<NE>องค์การพุทธศาสนาของไทย</NE> 1
+<NE>องค์การรัฐอเมริกัน</NE> 1
+<NE>องค์การสหประชาชาติ</NE> 5
+<NE>องค์การอนามัยโลก</NE> 2
+<NE>องค์การอาหารและยา</NE> 1
+<NE>องค์การอาหารและเกษตรแห่งสหประชาชาติ</NE> 3
+<NE>องค์การแรงงานระหว่างประเทศ</NE> 1
+<NE>องค์ทะไลลามะ</NE> 1
+<NE>องค์อาทิตย์เทพธิดา</NE> 1
+<NE>อดัม สมิธ</NE> 1
+<NE>อดัม</NE> 1
+<NE>อดินัน ซาริเดห์</NE> 4
+<NE>อดินัน</NE> 1
+<NE>อดิศัย โพธารามิก</NE> 1
+<NE>อดีตนายกรัฐมนตรีจุนอิชิโร โคอิซูมิ</NE> 1
+<NE>อธิคม โกมลวิทยาธร</NE> 2
+<NE>อนันต์ ไทยสนิท</NE> 4
+<NE>อนิตา ร็อดดิค</NE> 1
+<NE>อนุกูลคดีกิจสถาน</NE> 1
+<NE>อนุชาติ พวงสำลี</NE> 1
+<NE>อนุทวีป</NE> 1
+<NE>อนุพงศ์</NE> 1
+<NE>อนุสรณ์ ลิ่มมณี</NE> 2
+<NE>อนุสรณ์ สรพรหม</NE> 1
+<NE>อบต.</NE> 1
+<NE>อบาดัน</NE> 1
+<NE>อบิสสิเนีย</NE> 2
+<NE>อบูซุฟยาน</NE> 3
+<NE>อบูญะฮัล</NE> 1
+<NE>อภิชัย พันธเสน</NE> 1
+<NE>อภิชาติ จันทร์แดง</NE> 1
+<NE>อภิญญา เฟื่องฟูสกุล</NE> 3
+<NE>อภิญญาเฟื่องฟูสกุล</NE> 1
+<NE>อภินันท์</NE> 1
+<NE>อมร จันทรสมบรูณ์</NE> 1
+<NE>อมร รักษาสัตย์</NE> 1
+<NE>อมรสิริ สัณห์สุรัติกุล</NE> 1
+<NE>อมรา พงศาพิชญ์</NE> 1
+<NE>อมรินทร์</NE> 1
+<NE>อมเรศ</NE> 1
+<NE>อย.</NE> 1
+<NE>อยาโตลาห์ โคไมนี</NE> 1
+<NE>อยุธยา</NE> 3
+<NE>อรการ กาคำ</NE> 1
+<NE>อรทัย ก๊กผล</NE> 1
+<NE>อรรถจักร์ สัตยานุรักษ์</NE> 1
+<NE>อรวรรณ คูหเจริญ นาวายุทธ</NE> 1
+<NE>อรศรี งามวิทยาพงศ์</NE> 4
+<NE>อริสโตเติล</NE> 4
+<NE>อรียะ โต๊ะบาลา</NE> 1
+<NE>อรุณ บินมะ</NE> 1
+<NE>อลองพญา</NE> 1
+<NE>อลิซาเบธ จี. เทราบี</NE> 1
+<NE>อสม.</NE> 1
+<NE>ออง ซาน ซูจี</NE> 4
+<NE>อองบาน</NE> 1
+<NE>ออร์สินี</NE> 1
+<NE>ออสการ์ มอร์เกนสะเติร์น</NE> 1
+<NE>ออสเตรียเลีย</NE> 1
+<NE>ออสเตรเลีย</NE> 12
+<NE>อะดินาน สะริเด</NE> 1
+<NE>อะบาแด</NE> 1
+<NE>อะบูซุฟยาน</NE> 1
+<NE>อะมีนะหฺ</NE> 1
+<NE>อะหามะ บูละ</NE> 1
+<NE>อะเบอร์ดีน</NE> 1
+<NE>อะเมซอน</NE> 2
+<NE>อะแว แคและ</NE> 1
+<NE>อักษรสาส์น</NE> 1
+<NE>อังกฤษ</NE> 62
+<NE>อังวะ</NE> 1
+<NE>อัจฉราพร</NE> 1
+<NE>อันดามัน</NE> 1
+<NE>อันนัม บาฮู คูร์วิตา</NE> 2
+<NE>อันวาร์ อิบราฮิม</NE> 1
+<NE>อับดุล วาฮัม</NE> 1
+<NE>อับดุล เราะมัน อาหมัด</NE> 1
+<NE>อับดุล เราะมาน บาโซะ</NE> 1
+<NE>อับดุลกาเด</NE> 1
+<NE>อับดุลกาเดร์</NE> 5
+<NE>อับดุลฟาตา</NE> 3
+<NE>อับดุลรอฮะ หามะ</NE> 1
+<NE>อับดุลราซัค รามาน</NE> 1
+<NE>อับดุลลอหฺ</NE> 1
+<NE>อับดุลสุโก ดินอะ</NE> 1
+<NE>อับดุลฮาฟิส</NE> 1
+<NE>อับดุลเลาห์ อาโก๊ะ</NE> 1
+<NE>อับดุลเลาะ ดิแซะ</NE> 1
+<NE>อับดุลเลาะ อาเกาะ</NE> 2
+<NE>อับดุลเลาะ อาโก๊ะ</NE> 2
+<NE>อับดุลเลาะ</NE> 2
+<NE>อับดุลเลาะห์ บิน อับดุล อาซิส</NE> 1
+<NE>อับดุลเลาะห์ อาโก๊ะ</NE> 1
+<NE>อับดุลเลาะห์ แวมะนอ</NE> 1
+<NE>อับดุลโรฮา ซามะ</NE> 2
+<NE>อับร็อฮะหฺ</NE> 1
+<NE>อัฟกานิสถาน</NE> 2
+<NE>อัฟริกา</NE> 2
+<NE>อัมบน</NE> 1
+<NE>อัมพร ธำรงลักษณ์</NE> 1
+<NE>อัมมานา</NE> 5
+<NE>อัมมาร สยามวาลา</NE> 2
+<NE>อัมสเตอร์ดัม</NE> 1
+<NE>อัล-นะบะวียะหฺ</NE> 1
+<NE>อัล-นะบีย์</NE> 1
+<NE>อัลกออิดะห์</NE> 1
+<NE>อัลกะอ์บะฮ์</NE> 1
+<NE>อัลจีเรีย</NE> 1
+<NE>อัลทรูแซร์</NE> 1
+<NE>อัลทูแซร์</NE> 5
+<NE>อัลลอฮฺ</NE> 5
+<NE>อัลเคด้า</NE> 1
+<NE>อัลแบร์โต ฟูจิโมริ</NE> 1
+<NE>อัลไคด้า</NE> 1
+<NE>อัฮะหมัด สมบูรณ์ บัวหลวง</NE> 1
+<NE>อาคม มกรานนท์</NE> 2
+<NE>อาคารโกวิทสุตคุณ</NE> 1
+<NE>อาจารย์ 3
+<NE>อาจารย์ สมภาร พรมทา</NE> 1
+<NE>อาจารย์กรุณากุศลาสัย</NE> 3
+<NE>อาจารย์ชัยอนันต์</NE> 7
+<NE>อาจารย์ธนู แก้วโอภาส</NE> 1
+<NE>อาจารย์นิธิ เอียวศรีวงศ์</NE> 1
+<NE>อาจารย์นิธิ</NE> 1
+<NE>อาจารย์ปนัดดา</NE> 1
+<NE>อาจารย์ปรีชา</NE> 1
+<NE>อาจารย์พงศ์เพ็ญ</NE> 2
+<NE>อาจารย์พระมหาบัว ญาณสัมปันโน</NE> 1
+<NE>อาจารย์ศรีศักร วัลลิโภดม</NE> 1
+<NE>อาจารย์ศรีศักร</NE> 1
+<NE>อาจารย์สหัส หาญสินธุ์</NE> 1
+<NE>อาจารย์สุลักษณ์ ศิวรักษ์</NE> 1
+<NE>อาจารย์สุลักษณ์</NE> 1
+<NE>อาจารย์สุวินัย</NE> 1
+<NE>อาจารย์อิบรอฮิม</NE> 1
+<NE>อาจารย์อุกฤษดิ์</NE> 3
+<NE>อาจารย์เจิมศักดิ์ ปิ่นทอง</NE> 1
+<NE>อาจารย์เสกสรรค์</NE> 1
+<NE>อาจารย์แสงมนวิทูร</NE> 1
+<NE>อาณาจักรมอญ</NE> 1
+<NE>อาณาจักรสุโขทัย</NE> 1
+<NE>อาณาจักรโรมัน</NE> 3
+<NE>อาดัม</NE> 1
+<NE>อาทิตย์ สาและ</NE> 1
+<NE>อานนท์</NE> 5
+<NE>อานันท์ กาญจนพันธุ์</NE> 3
+<NE>อานันท์ กาญจพันธุ์</NE> 3
+<NE>อานันท์ ปันยารชุน</NE> 2
+<NE>อานันท์</NE> 1
+<NE>อานุภาพ นุ่นสูง</NE> 1
+<NE>อาบาแด</NE> 1
+<NE>อาบูเด็ง อะแว</NE> 1
+<NE>อาฟกานิสถาน</NE> 3
+<NE>อาฟริกา</NE> 2
+<NE>อาภรณ์ จันทร์สมวงศ์</NE> 2
+<NE>อารง</NE> 1
+<NE>อารมณ์ พงศ์พงัน</NE> 1
+<NE>อารอน ฟรีดเบอร์ก</NE> 1
+<NE>อาราเบีย</NE> 1
+<NE>อารี วิชาชัย</NE> 1
+<NE>อารีฟิน</NE> 1
+<NE>อารียัส วานิ</NE> 1
+<NE>อารีย์ วชิรมโน</NE> 1
+<NE>อารีเพ็ญ อุตรสิน</NE> 1
+<NE>อารีเพ็ญ อุตรสินธุ์</NE> 1
+<NE>อารีเพ็ญ</NE> 2
+<NE>อาร์เคเค</NE> 1
+<NE>อาร์เจนตินา</NE> 8
+<NE>อาลี จะลาแว</NE> 1
+<NE>อาสมี</NE> 1
+<NE>อาหรับ</NE> 2
+<NE>อาหรับเยเมน</NE> 1
+<NE>อาหารโลก</NE> 3
+<NE>อาเจะห์</NE> 2
+<NE>อาเจะห์เสรี</NE> 1
+<NE>อาเซียน</NE> 4
+<NE>อาเบล มามานี</NE> 1
+<NE>อาเยาะ</NE> 2
+<NE>อาแว แคและ</NE> 1
+<NE>อาโก๊ะ</NE> 1
+<NE>อำภอสุไหงปาดี</NE> 1
+<NE>อำเภอ 1
+<NE>อำเภอกาบัง</NE> 1
+<NE>อำเภอคลองด่าน</NE> 1
+<NE>อำเภอจอมทอง</NE> 1
+<NE>อำเภอจะนะ</NE> 1
+<NE>อำเภอตากใบ</NE> 1
+<NE>อำเภอตาเนาะ แมเราะ</NE> 1
+<NE>อำเภอท่าขี้เหล็ก</NE> 1
+<NE>อำเภอท่าม่วง</NE> 2
+<NE>อำเภอธารโต</NE> 2
+<NE>อำเภอนาหม่อม</NE> 1
+<NE>อำเภอบันนังสตา</NE> 2
+<NE>อำเภอบาเจาะ</NE> 4
+<NE>อำเภอปากท่อ</NE> 1
+<NE>อำเภอฝาง</NE> 1
+<NE>อำเภอม่วงสามสิบ</NE> 1
+<NE>อำเภอยะหริ่ง</NE> 4
+<NE>อำเภอยะหา</NE> 1
+<NE>อำเภอระแงะ</NE> 5
+<NE>อำเภอรามัน</NE> 3
+<NE>อำเภอสะบ้าย้อย</NE> 4
+<NE>อำเภอสุไหงปาดี</NE> 2
+<NE>อำเภอหนองจิก</NE> 3
+<NE>อำเภอหาดใหญ่</NE> 3
+<NE>อำเภอเกษตรวิสัย</NE> 1
+<NE>อำเภอเจาะไอร้อง</NE> 2
+<NE>อำเภอเชียงดาว</NE> 1
+<NE>อำเภอเทพา</NE> 1
+<NE>อำเภอเบตง</NE> 1
+<NE>อำเภอเมือง</NE> 8
+<NE>อำเภอแม่สอด</NE> 1
+<NE>อำเภอแม่สาย</NE> 3
+<NE>อำเภอแม่อาย</NE> 5
+<NE>อำเภอแว้ง</NE> 1
+<NE>อำเภอโคกโพธิ์</NE> 1
+<NE>อำเภอไชยา</NE> 1
+<NE>อิง</NE> 1
+<NE>อิตาลี</NE> 5
+<NE>อินเดีย</NE> 165
+<NE>อินโดจีน</NE> 3
+<NE>อินโดนีเซีย</NE> 30
+<NE>อินโดเนเซีย</NE> 2
+<NE>อิบรอฮิม เซะ</NE> 1
+<NE>อิบราฮิม กาโย</NE> 2
+<NE>อิบโรเฮง</NE> 1
+<NE>อิรัก</NE> 14
+<NE>อิรัค</NE> 3
+<NE>อิริค ฮอบสบอม</NE> 1
+<NE>อิศรา อมันตกุล</NE> 1
+<NE>อิสมาอิล ลุตฟี</NE> 1
+<NE>อิสมาอิล ลุฟตี จะปากียา</NE> 1
+<NE>อิสมาแอ มะหะ</NE> 1
+<NE>อิสมาแอ มาหะ</NE> 1
+<NE>อิสมาแอล ยูซุฟ ระยะหลง</NE> 1
+<NE>อิสราเอล</NE> 4
+<NE>อิหม่านิเซ็ง</NE> 1
+<NE>อิหม่ามนิเซ็ง</NE> 3
+<NE>อิหม่ามสะตอปา ยูโซะ</NE> 1
+<NE>อิหม่ามสะตอปา</NE> 1
+<NE>อิหม่ามสะตอปายูโซะ</NE> 1
+<NE>อิหร่าน</NE> 7
+<NE>อียิปต์</NE> 5
+<NE>อียู</NE> 9
+<NE>อีริคสัน</NE> 1
+<NE>อีรีกาเรย์</NE> 1
+<NE>อีวา</NE> 3
+<NE>อีสวอร์เตอร์</NE> 1
+<NE>อีเกิลตั้น</NE> 12
+<NE>อีเลียต โคเฮน</NE> 1
+<NE>อุกฤษดิ์ ปัทมานันท์</NE> 1
+<NE>อุดม สีสุวรรณ</NE> 2
+<NE>อุดร</NE> 1
+<NE>อุดรธานี</NE> 5
+<NE>อุตร</NE> 1
+<NE>อุตสาหกรรม</NE> 1
+<NE>อุทธรณ์ พลกุล</NE> 1
+<NE>อุทยานแห่งชาติและเขตรักษาพันธุ์สัตว์ป่าสาละวิน</NE> 1
+<NE>อุทิศ นาคสวัสดิ์</NE> 1
+<NE>อุทิศ</NE> 1
+<NE>อุบลราชธานี</NE> 3
+<NE>อุมัยยะหฺ</NE> 2
+<NE>อุยุธยา</NE> 1
+<NE>อุรุกวัย</NE> 2
+<NE>อุลริช เบค</NE> 1
+<NE>อุษมาน</NE> 3
+<NE>อุสตาซ หะยี อับดุล การิม ฮัสซัน</NE> 1
+<NE>อุสตาส โรยาลี</NE> 1
+<NE>อุสตาสยา</NE> 2
+<NE>อุสตาสอับดุลการิม ฮัสซัน</NE> 1
+<NE>อุสตาสอิสมาแอ</NE> 1
+<NE>อุสตาสโซะ</NE> 10
+<NE>อุสมาน อุเซ็ง</NE> 1
+<NE>อุเซ็ง มะมะ</NE> 1
+<NE>อูนุ</NE> 1
+<NE>อูร์ซูล่า</NE> 1
+<NE>อูลามา</NE> 1
+<NE>อเมริกัน</NE> 2
+<NE>อเมริกา</NE> 43
+<NE>อเมริกากลาง</NE> 2
+<NE>อเมริกาใต้</NE> 2
+<NE>อเล็กซานเดอร์ บลูม</NE> 1
+<NE>อเล็กซานเดอร์</NE> 3
+<NE>อเล็กซ์ คาลลินิคอส</NE> 1
+<NE>อ็อกฟอร์ด</NE> 1
+<NE>อ่างเก็บน้ำดอกกราย</NE> 1
+<NE>อ่างเก็บน้ำดอกราย</NE> 1
+<NE>อ่างเก็บน้ำแม่หอย</NE> 1
+<NE>อ่าวปัตตานี</NE> 2
+<NE>อ่าวมินามาตะ</NE> 2
+<NE>อ่าวเซนต์แมรี่</NE> 1
+<NE>อ่าวเบงกอล</NE> 1
+<NE>อ่าวเปอร์เซีย</NE> 1
+<NE>อ่าวเมาะตะมะ</NE> 1
+<NE>ฮว่ากว๋อเฟิง</NE> 1
+<NE>ฮอบส์ บอว์ม</NE> 1
+<NE>ฮอลันดา</NE> 1
+<NE>ฮังเกียวเรห์</NE> 2
+<NE>ฮันติงตัน</NE> 1
+<NE>ฮันนาห์ อาเรนท์</NE> 2
+<NE>ฮันส์ เคลเซ่น</NE> 1
+<NE>ฮัมบาลี</NE> 3
+<NE>ฮาดี มูโน่</NE> 1
+<NE>ฮามะ สาและ</NE> 3
+<NE>ฮายาโอะ ฟูกุย</NE> 1
+<NE>ฮารัปปา</NE> 1
+<NE>ฮาราดะ</NE> 1
+<NE>ฮาราดะเซนเซ</NE> 1
+<NE>ฮาราน</NE> 1
+<NE>ฮาร์ดิน</NE> 1
+<NE>ฮาร์แมน</NE> 1
+<NE>ฮาเบอร์มาส</NE> 2
+<NE>ฮาเวล</NE> 1
+<NE>ฮิตเลอร์</NE> 14
+<NE>ฮินดูทมิฬ</NE> 1
+<NE>ฮินดูสถาน</NE> 4
+<NE>ฮิปโปเครตีส</NE> 1
+<NE>ฮิโรชิม่า</NE> 1
+<NE>ฮ่องกง</NE> 2
+<NE>ฯพณฯ เตียง ศิริขันธ์</NE> 1
+<NE>เกริกเกียรติ นิติพัฒน์</NE> 1
+<NE>เกริกเกียรติ พิพัฒน์เสรีธรรม</NE> 2
+<NE>เกร์</NE> 1
+<NE>เกษียร เตชะพีระ</NE> 3
+<NE>เกษียร</NE> 1
+<NE>เกาหลี</NE> 7
+<NE>เกาหลีเหนือ</NE> 2
+<NE>เกาหลีใต้</NE> 24
+<NE>เกาะ Lingga</NE> 1
+<NE>เกาะกูด</NE> 1
+<NE>เกาะบอร์เนียว</NE> 3
+<NE>เกาะสิปปาดัน</NE> 1
+<NE>เกาะสุมาตรา</NE> 1
+<NE>เกาะเต่า</NE> 1
+<NE>เก่งกิจ กิติเรียงลาภ</NE> 2
+<NE>เขต 1
+<NE>เขตตะนาวศรี</NE> 1
+<NE>เขตป่าอนุรักษ์ภูสีฐาน</NE> 3
+<NE>เขตพะโค</NE> 1
+<NE>เขตมะกวย</NE> 1
+<NE>เขตมัณฑะเลย์</NE> 1
+<NE>เขตย่างกุ้ง</NE> 1
+<NE>เขตรักษาพันธุ์สัตว์ป่าห้วยขาแข้ง</NE> 1
+<NE>เขตสะกาย</NE> 1
+<NE>เขตอิระวดี</NE> 2
+<NE>เขมร</NE> 12
+<NE>เขษมบรรณกิจ</NE> 1
+<NE>เขียนหลง</NE> 1
+<NE>เขื่อนคลองสวนหมาก</NE> 1
+<NE>เขื่อนจุฬาภรณ์</NE> 1
+<NE>เขื่อนน้ำโจน</NE> 1
+<NE>เขื่อนปากมูล</NE> 5
+<NE>เขื่อนผามอง</NE> 1
+<NE>เขื่อนภูมิพล</NE> 1
+<NE>เขื่อนราษี</NE> 1
+<NE>เขื่อนราษีไศล</NE> 1
+<NE>เขื่อนศรีนครินทร์</NE> 1
+<NE>เขื่อนห้วยหก</NE> 1
+<NE>เขื่อนแก่งเสือเต้น</NE> 5
+<NE>เขื่อนแม่กวง</NE> 1
+<NE>เขื่อนแม่ขาน</NE> 1
+<NE>เคจีบี</NE> 1
+<NE>เคดะห์</NE> 2
+<NE>เคท มิลเลท</NE> 1
+<NE>เครือข่ายทรัพยากรธรรมชาติและสิ่งแวดล้อม</NE> 2
+<NE>เครือข่ายป่าชุมชน</NE> 3
+<NE>เครือข่ายสลัม 4 ภาค</NE> 1
+<NE>เครือข่ายองค์กรผู้บริโภค</NE> 1
+<NE>เครือข่ายเฝ้าระวังจีเอ็มโอ</NE> 1
+<NE>เครือข่ายเฝ้าระวังยีน</NE> 1
+<NE>เครือเจริญโภคภัณฑ์</NE> 1
+<NE>เคร็ก เจ เรย์โนลด์</NE> 1
+<NE>เคร็ก เจ.เรย์โนลด์ส</NE> 1
+<NE>เคลเซ่น</NE> 1
+<NE>เควกเกอร์</NE> 1
+<NE>เงื่อม อินฺทปญฺโญ</NE> 1
+<NE>เจ.โบร์โนวสกี</NE> 1
+<NE>เจงกีสข่าน</NE> 1
+<NE>เจน สงสมพันธุ์</NE> 2
+<NE>เจนัว</NE> 1
+<NE>เจนิเฟอร์ เกร์</NE> 1
+<NE>เจนีวา</NE> 3
+<NE>เจมส์ พีแอร์สัน</NE> 1
+<NE>เจมส์ ฟิชเชอร์</NE> 1
+<NE>เจมะ อิสลามิยะ</NE> 1
+<NE>เจมาซาลาฟี</NE> 2
+<NE>เจมาอิสลามิยาห์</NE> 1
+<NE>เจริญโภคภัณฑ์</NE> 2
+<NE>เจษฏ์</NE> 1
+<NE>เจะกุ บากู</NE> 1
+<NE>เจะกุ เป็ง</NE> 1
+<NE>เจะกุดิน อาดัม</NE> 1
+<NE>เจะมานะ หะยีดือราแม</NE> 1
+<NE>เจียงไคเช็ก</NE> 1
+<NE>เจเรมี เบนแทม</NE> 1
+<NE>เจไอ</NE> 11
+<NE>เจ้าคุณนรฯ</NE> 1
+<NE>เจ้าคุณพระธรรมเจดีย์</NE> 1
+<NE>เจ้าชายSamala</NE> 1
+<NE>เจ้าชายสิทธัตถะ</NE> 2
+<NE>เจ้าพระฝาง</NE> 1
+<NE>เจ้าพระยา</NE> 1
+<NE>เจ้าพระยาธรรมศักดิ์มนตรี</NE> 1
+<NE>เจ้าพระยาพิชัยญาติ</NE> 1
+<NE>เจ้าพระยาภาสเด็จฯ</NE> 1
+<NE>เจ้าพระยามหิธร</NE> 4
+<NE>เจ้าพระยามานวเสวี</NE> 1
+<NE>เจ้าพระยาศรีวิสารวาจา</NE> 1
+<NE>เจ้าพระยาศรีสุริยวงศ์</NE> 1
+<NE>เจ้าพระยาอภัยราชาฯ</NE> 4
+<NE>เจ้าฟ้าจักรพงษ์ภูวนาถ</NE> 1
+<NE>เจ้าสุภานุวงศ์</NE> 1
+<NE>เจ้าเพ็ดชะราช</NE> 1
+<NE>เจ้าแม่กวนอิม</NE> 6
+<NE>เจ๊สัวตั๊ก</NE> 1
+<NE>เจ๊ฮามี เต๊ะ</NE> 1
+<NE>เจ๊ะกุเป็ง</NE> 1
+<NE>เจ๊ะกุแม กูเต๊ะ</NE> 4
+<NE>เจ๊ะกูแม กูเต๊ะ</NE> 1
+<NE>เจ๊ะเห ไพรวัน</NE> 1
+<NE>เจ๋อตุง</NE> 1
+<NE>เฉลิมไทย</NE> 5
+<NE>เช กูวาร่า</NE> 1
+<NE>เชคเกสโลวาเกีย</NE> 1
+<NE>เชคเปียร์</NE> 3
+<NE>เชชเนีย</NE> 1
+<NE>เชลล์</NE> 1
+<NE>เชาวเลิศ มากสมบูรณ์</NE> 2
+<NE>เชียงตุง</NE> 1
+<NE>เชียงราย</NE> 2
+<NE>เชียงใหม่</NE> 44
+<NE>เซอร์วันเตส</NE> 1
+<NE>เซอร์เบีย</NE> 2
+<NE>เซอร์ไอแซค นิวตัน</NE> 1
+<NE>เซี่ยงไฮ้มาเฟีย</NE> 1
+<NE>เซเนีย</NE> 2
+<NE>เซ็ธ ลิพสกี้</NE> 1
+<NE>เซ็นทรัลปิ่นเกล้า</NE> 1
+<NE>เดคาตส์</NE> 1
+<NE>เดช สนิทวงศ์,ม.ร.ว.</NE> 1
+<NE>เดนมาร์</NE> 1
+<NE>เดนมาร์ก</NE> 10
+<NE>เดลคลอร์</NE> 4
+<NE>เดลคอร์</NE> 1
+<NE>เดลินิวส์</NE> 1
+<NE>เดวิด บรู๊คส์</NE> 2
+<NE>เดวิด</NE> 1
+<NE>เดอลูซ</NE> 1
+<NE>เดอโซโต้</NE> 2
+<NE>เดโมครีตุส</NE> 1
+<NE>เตงกู อิสมาอิล บิน เตงกู นิค</NE> 1
+<NE>เตช บุนนาค</NE> 2
+<NE>เตชะไพบูลย์</NE> 1
+<NE>เติ้งเสี่ยวผิง</NE> 2
+<NE>เตียง ศิริขันธ์</NE> 12
+<NE>เตียง</NE> 1
+<NE>เทพ โชตินุชิต</NE> 1
+<NE>เทพเจ้าเจิ้งเหอ</NE> 1
+<NE>เทมาเส็ก</NE> 1
+<NE>เทอร์ตัน</NE> 1
+<NE>เทือกเขาภูพาน</NE> 6
+<NE>เทือกเขาหิมาลัย</NE> 1
+<NE>เทือกเขาแอนเดียน</NE> 1
+<NE>เธียรชัย ลาภานันท์</NE> 1
+<NE>เธียรชัย เอี่ยมวรเมธ</NE> 1
+<NE>เนติบัณฑิตยสภา</NE> 2
+<NE>เนปาล</NE> 3
+<NE>เนสท์เล</NE> 2
+<NE>เนสท์เล่</NE> 1
+<NE>เนห์รู</NE> 1
+<NE>เนียง</NE> 1
+<NE>เนเธอแลนด์</NE> 1
+<NE>เบค</NE> 2
+<NE>เบงกอล</NE> 1
+<NE>เบญจรัตน์ แซ่ฉั่ว</NE> 1
+<NE>เบตง</NE> 2
+<NE>เบลเยียม</NE> 1
+<NE>เบลเยี่ยม</NE> 2
+<NE>เบอร์ซาดู</NE> 1
+<NE>เบอร์ซาตู</NE> 8
+<NE>เบอร์ทรันด์ รัสเซลล์</NE> 1
+<NE>เบอร์มูดา</NE> 1
+<NE>เบเนดิค แอนเดอร์สัน</NE> 1
+<NE>เบ็ญจา จิรภัทรพิมล</NE> 2
+<NE>เปรม ติณสูลานนท์</NE> 1
+<NE>เปรม</NE> 3
+<NE>เปรอง</NE> 1
+<NE>เปรัค</NE> 1
+<NE>เปรู</NE> 6
+<NE>เปลื้อง ณ. นคร</NE> 1
+<NE>เปอมูดา</NE> 2
+<NE>เปอร์เซีย</NE> 1
+<NE>เปาะซู</NE> 1
+<NE>เปาะตัว</NE> 1
+<NE>เปาะยะลา</NE> 1
+<NE>เปาะสู</NE> 1
+<NE>เปาะเยะ</NE> 1
+<NE>เปาเยะ</NE> 1
+<NE>เผ่า ศรียานนท์</NE> 1
+<NE>เพชรบุรี</NE> 1
+<NE>เพอร์รี่ แอนเดอร์สัน</NE> 1
+<NE>เพิร์ล</NE> 1
+<NE>เพียร</NE> 2
+<NE>เพียรพรดีเทศน์</NE> 1
+<NE>เพ็ญนภา หงษ์ทอง</NE> 1
+<NE>เฟรด</NE> 2
+<NE>เฟลิกซ์ กัวตาริ</NE> 1
+<NE>เฟอร์ดินาน มาร์กอส</NE> 1
+<NE>เมกกะ</NE> 5
+<NE>เมจิ</NE> 1
+<NE>เมนนี่</NE> 1
+<NE>เมอร์โคซัว</NE> 2
+<NE>เมาเซตุง</NE> 1
+<NE>เมียงจีงู</NE> 1
+<NE>เมียนมาร์</NE> 1
+<NE>เมือง 5
+<NE>เมือง Shubenacadie</NE> 1
+<NE>เมือง Taegu</NE> 1
+<NE>เมืองกวางจู</NE> 1
+<NE>เมืองกอกะเรก</NE> 1
+<NE>เมืองจองโด</NE> 1
+<NE>เมืองตรังกานู</NE> 1
+<NE>เมืองตะโกเมอรี่</NE> 1
+<NE>เมืองทวาย</NE> 1
+<NE>เมืองทองธานี</NE> 2
+<NE>เมืองนาบู</NE> 2
+<NE>เมืองนาโกยา</NE> 1
+<NE>เมืองน่าน</NE> 1
+<NE>เมืองปอร์โต อาร์เลกเกรย์</NE> 1
+<NE>เมืองปอร์โต อาเลกเกรย์</NE> 1
+<NE>เมืองปักษ์ใต้</NE> 1
+<NE>เมืองพัทยา</NE> 3
+<NE>เมืองฟิลาเดลเฟีย</NE> 1
+<NE>เมืองมดีนะหฺ</NE> 2
+<NE>เมืองมักกะห</NE> 1
+<NE>เมืองมาคอนโด</NE> 1
+<NE>เมืองมินามาตะ</NE> 2
+<NE>เมืองยะลา</NE> 3
+<NE>เมืองยัธริบ</NE> 1
+<NE>เมืองยามาดะ</NE> 1
+<NE>เมืองย่างกุ้ง</NE> 1
+<NE>เมืองลอยกอว์</NE> 1
+<NE>เมืองลักขณะ</NE> 1
+<NE>เมืองลิมา</NE> 1
+<NE>เมืองสกล</NE> 1
+<NE>เมืองสมุทรสงคราม</NE> 1
+<NE>เมืองสุรัต</NE> 1
+<NE>เมืองหลวงพะอัน</NE> 1
+<NE>เมืองหลวงมิตจินา</NE> 1
+<NE>เมืองหลวงเมาะละแหม่ง</NE> 1
+<NE>เมืองอองบัน</NE> 1
+<NE>เมืองอุดร</NE> 1
+<NE>เมืองเชียงตุง</NE> 1
+<NE>เมืองเชียงใหม่</NE> 9
+<NE>เมืองเดพายิน</NE> 1
+<NE>เมืองเพชร</NE> 1
+<NE>เมืองเมกกะ</NE> 3
+<NE>เมืองเมดินะ</NE> 1
+<NE>เมืองเมียวดี</NE> 1
+<NE>เมืองเยบิว</NE> 1
+<NE>เมืองเอเวียง</NE> 1
+<NE>เมืองแพร่</NE> 2
+<NE>เมืองโกตาบารู</NE> 1
+<NE>เมืองโคลัมโบ</NE> 1
+<NE>เมืองไทย</NE> 29
+<NE>เม็กซิโก</NE> 12
+<NE>เย</NE> 1
+<NE>เยซู</NE> 1
+<NE>เยอรมนี</NE> 7
+<NE>เยอรมัน</NE> 6
+<NE>เยอรมันตะวันออก</NE> 1
+<NE>เยอรมันนี</NE> 1
+<NE>เยาวราช</NE> 1
+<NE>เยาะลิ</NE> 1
+<NE>เยียบ ราณี</NE> 1
+<NE>เยเมน</NE> 2
+<NE>เรืองอุไร กุศลาศัย</NE> 1
+<NE>เรือนจำบางขวาง</NE> 1
+<NE>เลนิน</NE> 11
+<NE>เลบานอน</NE> 1
+<NE>เลห์แมน คอลเลจ</NE> 1
+<NE>เวทานตะ</NE> 1
+<NE>เวรูชก้า</NE> 3
+<NE>เวลส์</NE> 1
+<NE>เวียงแหง</NE> 7
+<NE>เวียดนาม</NE> 13
+<NE>เวเนซุเอลา</NE> 5
+<NE>เวเนซูเอลา</NE> 10
+<NE>เสฐียรโกเศศ</NE> 1
+<NE>เสนาะ อูนากูล</NE> 1
+<NE>เสนีย์ เสาวพงศ์</NE> 9
+<NE>เสนีย์</NE> 9
+<NE>เสน่ห์ จามริก</NE> 3
+<NE>เสริมวิทย์บรรณาคาร</NE> 1
+<NE>เสรี นวลมณี</NE> 1
+<NE>เสรีไทย</NE> 17
+<NE>เสลด</NE> 2
+<NE>เสียมกุก</NE> 1
+<NE>เสียมหลอก๊ก</NE> 1
+<NE>เสือดำ</NE> 1
+<NE>เสือใบ</NE> 3
+<NE>เหมา</NE> 10
+<NE>เหมืองเวียงแหง</NE> 1
+<NE>เอก วีสกุล</NE> 1
+<NE>เอกชัย เอื้อธารพิสิฐ</NE> 2
+<NE>เอกวาดอร์</NE> 2
+<NE>เอดีบี</NE> 1
+<NE>เอนก เหล่าธรรมทัศน์</NE> 2
+<NE>เอนรอน</NE> 1
+<NE>เอฟต้า</NE> 1
+<NE>เอฟทีเอ</NE> 7
+<NE>เอมอร ลิ้มวัฒนา</NE> 1
+<NE>เอริค</NE> 1
+<NE>เออร์วาย</NE> 1
+<NE>เออร์วิ่ง คริสทอล</NE> 3
+<NE>เออร์วิ่ง ฮาว</NE> 1
+<NE>เออร์วิ่ง</NE> 2
+<NE>เออิจิ มูราชิมา</NE> 2
+<NE>เอี่ยม ทองดี</NE> 1
+<NE>เอเชีย</NE> 17
+<NE>เอเชียกลาง</NE> 1
+<NE>เอเชียตะวันออกเฉียงใต้</NE> 2
+<NE>เอเชียอาคเนย์</NE> 3
+<NE>เอเชียใต้</NE> 1
+<NE>เอเตียง เดอ ลาโบเอตี</NE> 1
+<NE>เอเธนส์</NE> 1
+<NE>เอเปค</NE> 8
+<NE>เอแลน ซิกซู</NE> 1
+<NE>เอแลน ซีซู</NE> 2
+<NE>เอโว โมลาเลส</NE> 1
+<NE>เอโวโมราเลส</NE> 2
+<NE>เอ็นจีโอ</NE> 7
+<NE>เอ็มบรี</NE> 1
+<NE>เฮง สถิตถาวร</NE> 1
+<NE>เฮงสถิตถาวร</NE> 1
+<NE>เฮนรี ดี เดลคลอร์</NE> 1
+<NE>เฮอร์นานโด เดอ โซโต</NE> 1
+<NE>เฮอร์เบิร์ต ฟิลลิปส์</NE> 3
+<NE>เฮอร์เบิร์ต สเปนเซอร์</NE> 1
+<NE>เฮเกล</NE> 4
+<NE>แกรี่ แอล วอมสลีย์</NE> 1
+<NE>แกร์ฮาร์ด ชโรเดอร์</NE> 1
+<NE>แก้ว กังสดาลอำไพ</NE> 1
+<NE>แคน</NE> 2
+<NE>แคนคูน</NE> 6
+<NE>แคนาดา</NE> 8
+<NE>แคริบเบียน</NE> 1
+<NE>แคลิฟอร์เนีย</NE> 2
+<NE>แคว้นปัญจาบ</NE> 1
+<NE>แคเธอรีน โบวี</NE> 1
+<NE>แจ๊คเอ็มพอตเตอร์</NE> 1
+<NE>แซนเดอร์ กิลแมน</NE> 1
+<NE>แซมมี่</NE> 1
+<NE>แซ่ซั่ว</NE> 1
+<NE>แดนโคนม</NE> 2
+<NE>แดริดา</NE> 2
+<NE>แดเนียล คอน-เบนดิต</NE> 1
+<NE>แต่ไหนแต่ไร</NE> 1
+<NE>แนวร่วมจุฬาฯ</NE> 2
+<NE>แบกะ</NE> 1
+<NE>แบกแดด</NE> 1
+<NE>แบชเชเลต์</NE> 4
+<NE>แผนกสอบสวนคดีอาญา</NE> 1
+<NE>แผนกสูตินรีเวช</NE> 1
+<NE>แผ่นดินมาเลเซีย</NE> 1
+<NE>แผ่นดินสยาม</NE> 1
+<NE>แผ่นดินไทย</NE> 1
+<NE>แพทยสภา</NE> 3
+<NE>แพร่</NE> 2
+<NE>แพร่พิทยา</NE> 1
+<NE>แฟรงคลิน ดีรูสเวลท์</NE> 1
+<NE>แฟรงเคนสไตน์</NE> 1
+<NE>แมกซิม</NE> 1
+<NE>แมนฮัตตัน</NE> 1
+<NE>แมรี่</NE> 5
+<NE>แม่ขนิลใต้</NE> 1
+<NE>แม่งัด</NE> 1
+<NE>แม่จินต์</NE> 1
+<NE>แม่ธรณี</NE> 1
+<NE>แม่นาคพระโขนง</NE> 1
+<NE>แม่น้ำ 3
+<NE>แม่น้ำชาร์ลส์</NE> 2
+<NE>แม่น้ำมินามาตะ</NE> 1
+<NE>แม่น้ำมูล</NE> 1
+<NE>แม่น้ำยม</NE> 4
+<NE>แม่น้ำสะโตง</NE> 1
+<NE>แม่น้ำสาละวิน</NE> 3
+<NE>แม่น้ำสินธุ</NE> 1
+<NE>แม่น้ำสินธู</NE> 1
+<NE>แม่น้ำอิระวดี</NE> 1
+<NE>แม่น้ำโขง</NE> 6
+<NE>แม่น้ำโคธาวารี</NE> 1
+<NE>แม่สอด</NE> 1
+<NE>แม่สาย</NE> 1
+<NE>แม่อาย</NE> 8
+<NE>แม่ฮ่องสอน</NE> 1
+<NE>แม่เมาะ</NE> 7
+<NE>แม่โพสพ</NE> 3
+<NE>แว อารง ฮู</NE> 1
+<NE>แวดี มาโซ๊ะ</NE> 1
+<NE>แวยูโซ๊ะ แวดือราแม</NE> 1
+<NE>แวยูโซ๊ะ</NE> 1
+<NE>แวหะมะ พานาวา</NE> 1
+<NE>แวอาลี คอปเตอร์ วาจิ</NE> 1
+<NE>แหลมมลายู</NE> 3
+<NE>แอดัม</NE> 1
+<NE>แอนดรู เทอร์ตัน</NE> 1
+<NE>แอนนา เลียวโนเวนส์</NE> 1
+<NE>แอนเดอร์ส ฟอจ ราสมุสเสน</NE> 1
+<NE>แอนเดอร์สัน</NE> 3
+<NE>แอนเดียน</NE> 1
+<NE>แอฟริกา</NE> 4
+<NE>แอฟริกาใต้</NE> 1
+<NE>แอลจีเรีย</NE> 2
+<NE>แอ่งสกลนคร</NE> 1
+<NE>โกตาบารู</NE> 1
+<NE>โกตาบาห์รู</NE> 1
+<NE>โกตาห์ บารู</NE> 1
+<NE>โกมลคีมทอง</NE> 1
+<NE>โกสุม โอมพรนุวัฒน์</NE> 1
+<NE>โขง</NE> 2
+<NE>โคกโพธิ์</NE> 1
+<NE>โครงข่าย</NE> 1
+<NE>โคราช</NE> 1
+<NE>โคลัมเบีย</NE> 2
+<NE>โคเซอร์</NE> 2
+<NE>โจนาห์ โกลด์เบอร์ก</NE> 1
+<NE>โจว</NE> 1
+<NE>โจวเอินไหล</NE> 1
+<NE>โจเซฟ แม็คคาร์ธี</NE> 1
+<NE>โจเซฟ</NE> 1
+<NE>โชคชัย วงษ์ตานี</NE> 2
+<NE>โซลิดาริตี้</NE> 1
+<NE>โซลเชนิตซิน</NE> 1
+<NE>โซะ</NE> 2
+<NE>โซะเฮง</NE> 1
+<NE>โซเวียต</NE> 2
+<NE>โดนัลด์ คากัน</NE> 1
+<NE>โดม ไกรปกรณ์</NE> 2
+<NE>โดฮา</NE> 2
+<NE>โดโรธี ราบิโนวิตซ์</NE> 1
+<NE>โตเกียว</NE> 1
+<NE>โต๊ะดอ</NE> 1
+<NE>โต๊ะยีมิง</NE> 1
+<NE>โต๊ะแตและหะยีบูลา</NE> 1
+<NE>โทนี แบลร์</NE> 1
+<NE>โทบิน</NE> 1
+<NE>โทมัส คูห์น</NE> 1
+<NE>โนนป่าก่อ</NE> 3
+<NE>โบลิเวีย</NE> 19
+<NE>โบลีเวีย</NE> 4
+<NE>โบวัวร์</NE> 2
+<NE>โบวี</NE> 1
+<NE>โบเวนเช่นยัง</NE> 1
+<NE>โปรตุเกส</NE> 4
+<NE>โปแลนด์</NE> 1
+<NE>โมกคลา</NE> 1
+<NE>โมซาร์ต</NE> 1
+<NE>โมราเลส</NE> 5
+<NE>โมร็อกโก</NE> 2
+<NE>โมฮัมเมด</NE> 1
+<NE>โมเสส</NE> 5
+<NE>โมเฮ็นโจดาโร</NE> 1
+<NE>โรงพยาบาลนราธิวาส</NE> 1
+<NE>โรงพยาบาลปัตตานี</NE> 1
+<NE>โรงพยาบาลยะลา</NE> 1
+<NE>โรงพยาบาลรามัน</NE> 9
+<NE>โรงพยาบาลศูนย์ยะลา</NE> 1
+<NE>โรงพยาบาลสุไหงโกลก</NE> 1
+<NE>โรงพยาบาลอำเภอพรรณานิคม</NE> 1
+<NE>โรงพิมพ์ชวนพิมพ์</NE> 1
+<NE>โรงพิมพ์ธรรมทาน.</NE> 1
+<NE>โรงพิมพ์มหาวิทยาลัยธรรมศาสตร์</NE> 2
+<NE>โรงพิมพ์มิ่งเมือง</NE> 1
+<NE>โรงพิมพ์ส่วนท้องถิ่น</NE> 1
+<NE>โรงพิมพ์เดือนตุลา</NE> 1
+<NE>โรงพิมพ์แสงศิลป์</NE> 1
+<NE>โรงพิมพ์โสภณพิพรรฒธนาการ</NE> 1
+<NE>โรงพิมพ์โอเดียสแควร์</NE> 1
+<NE>โรงพิมพ์ไทยใหม่</NE> 1
+<NE>โรงภาพยนตร์เฉลิมไทย</NE> 2
+<NE>โรงเรียน 3
+<NE>โรงเรียนจริยธรรมศึกษามูลนิธิ</NE> 1
+<NE>โรงเรียนทหารสราญรมย์</NE> 1
+<NE>โรงเรียนธรรมวิทยา</NE> 3
+<NE>โรงเรียนธรรมวิทยามูลนิธิ</NE> 2
+<NE>โรงเรียนนายร้อยทหารบก</NE> 1
+<NE>โรงเรียนนายร้อยพระจุลจอมเกล้า</NE> 1
+<NE>โรงเรียนนายเรือ</NE> 1
+<NE>โรงเรียนบ้านตาแปด</NE> 1
+<NE>โรงเรียนบ้านไอบาตู</NE> 1
+<NE>โรงเรียนปอเนาะ</NE> 1
+<NE>โรงเรียนปอเนาะยีฮัดวิทยา</NE> 1
+<NE>โรงเรียนฝึกตำรวจยะลา</NE> 1
+<NE>โรงเรียนฝึกนายตำรวจยะลา</NE> 1
+<NE>โรงเรียนมหาดเล็ก</NE> 2
+<NE>โรงเรียนมูลนิธิอิสลามธรรมวิทยา</NE> 1
+<NE>โรงเรียนวิทยาอิสลามพัฒนา</NE> 1
+<NE>โรงเรียนศิลปากร</NE> 1
+<NE>โรงเรียนสัมพันธ์วิทยา</NE> 1
+<NE>โรงเรียนหลวงขั้นอุดมศึกษา</NE> 1
+<NE>โรงเรียนอิสลามวิทยา</NE> 1
+<NE>โรงแรมชาลีน่า</NE> 1
+<NE>โรงแรมมิราเคิล แกรนด์ คอนเวนชั่น</NE> 1
+<NE>โรงแรมฮัมเบอร์ก</NE> 1
+<NE>โรงแรมเจบี</NE> 2
+<NE>โรงแรมเจบีหาดใหญ่</NE> 1
+<NE>โรงแรมแอมบาสเดอร์ซิตี้</NE> 1
+<NE>โรงไฟฟ้าบ่อนอก</NE> 1
+<NE>โรงไฟฟ้าแม่เมาะ</NE> 4
+<NE>โรนัลด์ ดอร์กิ้น</NE> 1
+<NE>โรม</NE> 1
+<NE>โรมัน</NE> 1
+<NE>โรมูดี ดิง</NE> 1
+<NE>โรลองด์ บารธส์</NE> 1
+<NE>โรห์แตวู</NE> 1
+<NE>โรเจอร์ อายล์</NE> 1
+<NE>โรเจอร์ เฮอร์ถอก</NE> 2
+<NE>โรเบิร์ต คากัน</NE> 1
+<NE>โสกราตีส</NE> 1
+<NE>โอ.เอส.พริ้นติ้ง เฮ้าส์</NE> 1
+<NE>โอญันตา อูมาลา</NE> 1
+<NE>โอมาร์ ฟารูค</NE> 1
+<NE>โอฬาร อ่องฬะ</NE> 1
+<NE>โอเดียนสโตร์</NE> 1
+<NE>โอแฮร์</NE> 1
+<NE>โฮจิมินห์</NE> 4
+<NE>ใจ อึ้งภากรณ์</NE> 2
+<NE>ใจ อึ๊งภากรณ์</NE> 1
+<NE>ในหลวง</NE> 4
+<NE>ในหลวงอานันท์</NE> 1
+<NE>ไครซิส กรุ๊ป</NE> 20
+<NE>ไครซิสกรุ๊ป</NE> 39
+<NE>ไครศิสกรุ๊ป</NE> 1
+<NE>ไชยรัตน์ เจริญสินโอฬาร</NE> 3
+<NE>ไชยรัตน์</NE> 2
+<NE>ไชยันต์ ไชยพร</NE> 2
+<NE>ไชยา</NE> 4
+<NE>ไซมี</NE> 1
+<NE>ไซโตเทค</NE> 1
+<NE>ไตรรัตน์ จงจิตร</NE> 1
+<NE>ไต้หวัน</NE> 4
+<NE>ไทย</NE> 314
+<NE>ไทยรักไทย</NE> 40
+<NE>ไทยรัฐ</NE> 1
+<NE>ไทยสยาม</NE> 2
+<NE>ไทยแลนด์</NE> 1
+<NE>ไนจีเรีย</NE> 1
+<NE>ไบโอเทค</NE> 1
+<NE>ไพจิตร โรจนวานิช</NE> 1
+<NE>ไพศาล พรหมยงค์</NE> 2
+<NE>ไพสิฐ พาณิชย์กุล</NE> 4
+<NE>ไพโรจน์ ภูมิประดิษฐ์</NE> 1
+<NE>ไพโรจน์ วงศ์วิภานนท์</NE> 1
+<NE>ไมซูรุ หะยีอับดุลเลาะ</NE> 1
+<NE>ไมตรี สุทธิจิตต์</NE> 1
+<NE>ไมเคิล ชุดสัน</NE> 1
+<NE>ไมเคิล</NE> 8
+<NE>ไมเคิลแองเจลโล</NE> 1
+<NE>ไร่ดง</NE> 1
+<NE>ไว้ทุกข์</NE> 1
+<NE>ไอ. เลวิส ลิบบี้</NE> 1
+<NE>ไอดริส มัท ดิอาห์</NE> 1
+<NE>ไอทีวี</NE> 4
+<NE>ไอน์สไตน์</NE> 2
+<NE>ไอร์แลนด์เหนือ</NE> 1
+<NE>ไอเอ็มเอฟ</NE> 6
+<NE>ไอ้หนู</NE> 1
+<NE>ไฮยาซัน</NE> 1
+<POEM>คือผู้ที่อยู่ป่าเป็นแนวหน้ากลางป่าเขา คือดาวที่วาวเงาอันทอดดวงเพื่อปวงชน..</POEM> 1
+<POEM>ดวงดาวเจ้าพราวแสง อาจอ่อนแรงยามเหนื่อยล้า</POEM> 1
+<POEM>ดาวลับพายุผ่าน แต่ดาวนั้นยังเรืองไกล</POEM> 1
+<POEM>พุทโธ เม สะระณัง วะรัง</POEM> 1
+<POEM>ร้อยดาวร้อยเดือนมา ร้อยดวงมาเรียงเป็นวง ร้อยใจสายใยยาวภูเกี่ยวดาวมาไว้ดิน</POEM> 1
+<POEM>เราเป็นนก ประดับดงไม</POEM> 1
+<POEM>แต่อย่ากู่ขานชื่อเราเลย</POEM> 1
+<POEM>โสตถิเม โหตุสัพพะทา</POEM> 1
