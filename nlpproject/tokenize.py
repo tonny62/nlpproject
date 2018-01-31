@@ -4,24 +4,27 @@ import sys
 dictionary_path = "../corpus/3_unsorted/"
 dictionary_files = os.listdir(dictionary_path)
 
-list_answer = []
+def tokenize(sentence,answers=[]) :
 
-
-def tokenize(sentence,answers=[],min=sys.maxsize) :
-
+    global min_match
     global list_answer
 
     answer = answers.copy()
     size = len(answer)
     if sentence == "":
         #print(answer)
-        #print('='*100)
-        if size<min :
-            max_match_word = size
+        match = 0
+        for word in answer:
+            if check(word):
+                match = match+1
+        if match < min_match :
+            min_match = match
             list_answer = answer
+            #print(list_answer)
+            #print('='*100)
     else:
         for i in range(len(sentence)):
-            if check(sentence[:i+1]):
+            if check(sentence[:i + 1]):
                 answer.insert(size, sentence[:i + 1])
                 tokenize(sentence[i + 1:], answer)
                 answer.pop(size)
@@ -37,6 +40,7 @@ def check(word):
             read_line = line.split(" ")
             if word == read_line[0]:
                 match = 1
+                #print("Found "+word)
                 break
             line = dictionary_file.readline()
         dictionary_file.close()
@@ -46,6 +50,8 @@ def check(word):
 
 
 while True :
+    min_match = sys.maxsize
+    list_answer = []
     sentence = input("Enter a sentence to tokenize: ")
     tokenize(sentence)
     print(list_answer)
